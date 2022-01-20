@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: ''
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-091sc-introduction-to-solid-state-chemistry-fall-2010/212748a6a91512bfa450e84540ccd90e_0oqHExM3_Ko.srt
+file_type: application/x-subrip
+resourcetype: Other
+title: 3play caption file
+uid: 212748a6-a915-12bf-a450-e84540ccd90e
+---
