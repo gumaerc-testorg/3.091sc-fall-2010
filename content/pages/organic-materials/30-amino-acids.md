@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Organic Materials
+parent_type: CourseSection
 parent_uid: 0ab5962f-08b0-e5dd-2488-7c3659767245
 title: '30. Biochemistry: Amino Acids'
 uid: 1391526c-977f-6e58-b0c0-b163bcae3d50
@@ -150,7 +153,7 @@ Biochemistry is an integrative topic that connects many prior topics, and govern
 
 This lecture starts with **amino acids** as the building blocks of **proteins**, and in particular looks at their structure.
 
-*   All amino acids have an sp3 hybridized carbon at their center (aka "**alpha carbon**").
+*   All amino acids have an sp{{< sup "3" >}} hybridized carbon at their center (aka "**alpha carbon**").
 *   Three of the four bonds are identical in all amino acids (**amine** group, lone hydrogen, **carboxyl** group). The fourth bond is the side chain — "R" or the **substituent**, i.e. "nature's choice."
 *   Twenty amino acids comprise all proteins.
 *   Nineteen of these twenty amino acids in proteins are **chiral**.

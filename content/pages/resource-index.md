@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Resource Index
 uid: 4ea8b3b8-9024-9860-0ee4-f20d41fcc23c
 ---
@@ -1418,7 +1420,7 @@ The resources listed below are selected from a wide variety of sites covering se
 
 [Introduction to Semiconductors](http://cnx.org/content/m1001/latest/), [Doped Semiconductors](http://cnx.org/content/m1002/latest/)
 
-[5.112 Principles of Chemical Science](/courses/5-112-principles-of-chemical-science-fall-2005): [Lecture 14: Distribution of Molecular Energies](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-14-distribution-molecular-energies) and Starts 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](http://ocw2.mit.edu/courses/chemistry/5-112-principles-of-chemical-science-fall-2005/video-lectures/lecture-34-bonding-in-metals-and-semiconductors)
+[5.112 Principles of Chemical Science](/courses/5-112-principles-of-chemical-science-fall-2005): [Lecture 14: Distribution of Molecular Energies](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-14-distribution-molecular-energies) and Starts 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-34-bonding-in-metals-and-semiconductors)
 
 [6.012 Microelectronic Devices and Circuits](/courses/6-012-microelectronic-devices-and-circuits-fall-2005): [Spring 2009](/courses/6-012-microelectronic-devices-and-circuits-spring-2009), [Fall 2009](/courses/6-012-microelectronic-devices-and-circuits-fall-2009)
 

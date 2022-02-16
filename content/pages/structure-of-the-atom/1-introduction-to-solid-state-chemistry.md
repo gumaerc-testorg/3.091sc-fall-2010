@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Structure of the Atom
+parent_type: CourseSection
 parent_uid: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
 title: 1. Introduction to Solid State Chemistry
 uid: 8a1709eb-16be-69bb-41cc-325703c25a95
@@ -132,7 +135,7 @@ Professor Sadoway begins with important information about the **course objective
 The lecture continues with a survey of the historical foundations of chemistry:
 
 *   The **origins of chemistry** in ancient Egypt and Greece
-*   The development of increasingly refined **classification schemes** (taxonomy and nomenclature) throughout the 18th and 19th centuries
+*   The development of increasingly refined **classification schemes** (taxonomy and nomenclature) throughout the 18{{< sup "th" >}} and 19{{< sup "th" >}} centuries
 *   The evolution of **atomic theory**
 *   The origins and development of the **periodic table of elements**
 

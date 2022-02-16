@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 116bf279-d466-43e7-0e0e-4cd163f567f1
 title: Reference Materials and Suggested Textbooks
 uid: 9abd92d7-66e1-b816-f50d-00770b2420e1

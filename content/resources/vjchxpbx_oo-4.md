@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-091sc-introduction-to-solid-state-chemistry-fall-2010/eeb6c300559159c48022c637cc43f309_vJChxpbx_Oo.vtt
+file: /media/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/eeb6c300559159c48022c637cc43f309_vJChxpbx_Oo.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: eeb6c300-5591-59c4-8022-c637cc43f309

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Aqueous Solutions
 uid: 6ec96be4-5df9-d10d-17f2-85df51807e05
 ---

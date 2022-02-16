@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 116bf279-d466-43e7-0e0e-4cd163f567f1
 ---
@@ -34,7 +36,7 @@ _Introduction to Solid State Chemistry_ is a one-semester college course on the 
 
 {{< resource 63500265-7495-6069-5e1b-f166cbe8594b >}}
 
-In this video recorded in March 2012, Professor Sadoway uses his new [liquid metal battery](http://web.mit.edu/newsoffice/2012/profile-sadoway-innovative-approach-batteries-0423.html) to demonstrate the value of understanding chemistry and his approach to teaching and innovation. (This video is from [TEDtalksDirector](http://www.youtube.com/user/TEDtalksDirector) on YouTube and is not provided under our [Creative Commons license](http://ocw2.mit.edu/terms/index.htm#cc).)
+In this video recorded in March 2012, Professor Sadoway uses his new [liquid metal battery](http://web.mit.edu/newsoffice/2012/profile-sadoway-innovative-approach-batteries-0423.html) to demonstrate the value of understanding chemistry and his approach to teaching and innovation. (This video is from [TEDtalksDirector](http://www.youtube.com/user/TEDtalksDirector) on YouTube and is not provided under our [Creative Commons license](/terms/index.htm#cc).)
 
 Before You Begin
 ----------------

@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Clip 4: Exam 1, Problem 6'
 uid: c8c9bb31-bc54-69db-f4fc-a3f96efeb87c
 video_files:
   archive_url: http://www.archive.org/details/MIT3_091SCF10
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/3-091sc-introduction-to-solid-state-chemistry-fall-2010/c6f99a87380555bcb777d4d6b64037ab_UwZU-Lk26X4.vtt
+  video_captions_file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/c6f99a87380555bcb777d4d6b64037ab_UwZU-Lk26X4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/UwZU-Lk26X4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/3-091sc-introduction-to-solid-state-chemistry-fall-2010/fbde8de2f09279f0851af587d68d8e67_UwZU-Lk26X4.pdf
+  video_transcript_file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/fbde8de2f09279f0851af587d68d8e67_UwZU-Lk26X4.pdf
 video_metadata:
   youtube_id: UwZU-Lk26X4
 ---

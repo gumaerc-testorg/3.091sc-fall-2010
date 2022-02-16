@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-091sc-introduction-to-solid-state-chemistry-fall-2010/7e3cd9e0a0cbc7c5128bdf90ff342d4c_MIT3_091SCF10lec17_iPOD.pdf
+file: /media/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/7e3cd9e0a0cbc7c5128bdf90ff342d4c_MIT3_091SCF10lec17_iPOD.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 17. X-Ray Emission & Absorption
+parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF10lec17_iPOD.pdf
 uid: 7e3cd9e0-a0cb-c7c5-128b-df90ff342d4c

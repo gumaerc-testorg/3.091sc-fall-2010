@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Crystalline Materials
+parent_type: CourseSection
 parent_uid: b66bb6b5-1948-c461-fd27-7f44614156ed
 title: 16. Crystallographic Notation & X-Rays
 uid: e22836d9-83d9-ad9c-8310-e4357bb64a92
@@ -35,7 +38,7 @@ crystal coordinate systems, Miller indices, introduction to x-rays, generation o
 **Keywords**
 {{< tdclose >}}
 {{< tdopen >}}
-Bravais lattice, crystal system, unit cell, face-centered cubic, simple cubic, body-centered cubic, Miller indices, crystallography, crystallographic notation, lattice constant, close-packing, packing density, lattice point, interplanar spacing, gas discharge tube, x-ray tube, target anode, discovery of x-rays, scintillation screen, characteristic emission lines, Kα, Kβ, Lα, Lβ, William H. Miller, Wilhelm Röntgen
+Bravais lattice, crystal system, unit cell, face-centered cubic, simple cubic, body-centered cubic, Miller indices, crystallography, crystallographic notation, lattice constant, close-packing, packing density, lattice point, interplanar spacing, gas discharge tube, x-ray tube, target anode, discovery of x-rays, scintillation screen, characteristic emission lines, K{{< sub "α" >}}, K{{< sub "β" >}}, L{{< sub "α" >}}, L{{< sub "β" >}}, William H. Miller, Wilhelm Röntgen
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +47,7 @@ Bravais lattice, crystal system, unit cell, face-centered cubic, simple cubic, b
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-barium platinum cyanide (BaPt(CN)4), copper (Cu), brass (Cu-Zn), zinc (Zn), wood, steel
+barium platinum cyanide (BaPt(CN){{< sub "4" >}}), copper (Cu), brass (Cu-Zn), zinc (Zn), wood, steel
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +85,7 @@ After completing this session, you should be able to:
 *   Given a material and a **crystal direction or plane**, sketch the appropriate **crystal structure** and indicate the correct direction or plane on the sketch.
 *   Explain how **x-rays** were produced in 1895, and how Röntgen’s experimental observations lead him to conclude that they were a previously unknown form of **electromagnetic radiation**.
 *   Explain how the **properties of x-rays** produce the observed results in the following applications: dental x-rays; quality assurance of welds; airport baggage scans.
-*   Relate the energies of the **characteristic emission lines** (Kα, Kβ, etc.) for a given element to the **electron shell structure** of that element.
+*   Relate the energies of the **characteristic emission lines** (K{{< sub "α" >}}, K{{< sub "β" >}}, etc.) for a given element to the **electron shell structure** of that element.
 
 Reading
 -------

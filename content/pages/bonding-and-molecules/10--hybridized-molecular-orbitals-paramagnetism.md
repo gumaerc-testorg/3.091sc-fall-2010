@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Bonding and Molecules
+parent_type: CourseSection
 parent_uid: 6ea956c8-cef5-f99e-6904-09f06d8d5317
 title: 10. Hybridized & Molecular Orbitals; Paramagnetism
 uid: f3720df7-44c6-c811-bba3-3f83d3053ffd
@@ -44,7 +47,7 @@ Wolfgang Pauli, primary bond, ionic bond, covalent bond, metallic bond, electron
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-ethylene (C2H4), methane (CH4), carbon (C), acetylene (C2H2), titanium tetrachloride (TiCl4), sulfur hexafluoride (SF6), bromine pentafluoride (BrF5), iodine tetrafluoride (IF4\-), helium (He), dilithium (Li2), disodium (Na2), nitrogen (N2), oxygen (O2), fluorine (F2)
+ethylene (C{{< sub "2" >}}H{{< sub "4" >}}), methane (CH{{< sub "4" >}}), carbon (C), acetylene (C{{< sub "2" >}}H{{< sub "2" >}}), titanium tetrachloride (TiCl{{< sub "4" >}}), sulfur hexafluoride (SF{{< sub "6" >}}), bromine pentafluoride (BrF{{< sub "5" >}}), iodine tetrafluoride (IF{{< sub "4" >}}{{< sup "\\-" >}}), helium (He), dilithium (Li{{< sub "2" >}}), disodium (Na{{< sub "2" >}}), nitrogen (N{{< sub "2" >}}), oxygen (O{{< sub "2" >}}), fluorine (F{{< sub "2" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

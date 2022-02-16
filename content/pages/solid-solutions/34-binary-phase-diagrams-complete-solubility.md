@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Solid Solutions
+parent_type: CourseSection
 parent_uid: f6e01e0c-3963-e495-1396-598462ae7d02
 title: '34. Binary Phase Diagrams: Complete Solubility'
 uid: 31cd4459-a0c6-f229-2b86-eee893f5dd0b

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Organic Materials
+parent_type: CourseSection
 parent_uid: 0ab5962f-08b0-e5dd-2488-7c3659767245
 title: '31. Biochemistry: Protein Structure'
 uid: 4e61d15e-9ac5-67d9-af48-23d7beaa16b7

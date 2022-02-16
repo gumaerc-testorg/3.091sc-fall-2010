@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Bonding and Molecules
+parent_type: CourseSection
 parent_uid: 6ea956c8-cef5-f99e-6904-09f06d8d5317
 title: 11. The Shapes of Molecules
 uid: 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5
@@ -44,7 +47,7 @@ bonding electron, nonbonding electron, hybridized orbital, linear combination of
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-ethylene (C2H4), methane (CH4), carbon (C), acetylene (C2H2), titanium tetrachloride (TiCl4), sulfur hexafluoride (SF6), bromine pentafluoride (BrF5), iodine tetrafluoride (IF4\-)
+ethylene (C{{< sub "2" >}}H{{< sub "4" >}}), methane (CH{{< sub "4" >}}), carbon (C), acetylene (C{{< sub "2" >}}H{{< sub "2" >}}), titanium tetrachloride (TiCl{{< sub "4" >}}), sulfur hexafluoride (SF{{< sub "6" >}}), bromine pentafluoride (BrF{{< sub "5" >}}), iodine tetrafluoride (IF{{< sub "4" >}}{{< sup "\\-" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Crystalline Materials
+parent_type: CourseSection
 parent_uid: b66bb6b5-1948-c461-fd27-7f44614156ed
 title: 17. X-Ray Emission & Absorption
 uid: e504c6fa-63f4-b438-cb24-0e0ef9bc60eb
@@ -35,7 +38,7 @@ characterization of atomic structure, Moseley's law, generation of x-rays, x-ray
 **Keywords**
 {{< tdclose >}}
 {{< tdopen >}}
-characteristic emission lines, Kα, Kβ, Lα, Lβ, atomic spectra, quantized spectrum, continuous spectrum, proton number, atomic number, atomic mass, periodicity, periodic table, x-ray tube, lanthanide series, Moseley's law, screening factor, Bremsstrahlung, braking radiation, ballistic electrons, target anode, cold cathode, hot cathode, scattering angle, Duane-Hunt law, Henry Moseley, William Coolidge
+characteristic emission lines, K{{< sub "α" >}}, K{{< sub "β" >}}, L{{< sub "α" >}}, L{{< sub "β" >}}, atomic spectra, quantized spectrum, continuous spectrum, proton number, atomic number, atomic mass, periodicity, periodic table, x-ray tube, lanthanide series, Moseley's law, screening factor, Bremsstrahlung, braking radiation, ballistic electrons, target anode, cold cathode, hot cathode, scattering angle, Duane-Hunt law, Henry Moseley, William Coolidge
 {{< tdclose >}}
 
 {{< trclose >}}

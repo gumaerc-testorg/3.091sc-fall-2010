@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Aqueous Solutions
+parent_type: CourseSection
 parent_uid: 6ec96be4-5df9-d10d-17f2-85df51807e05
 title: 25. Introduction to Aqueous Solutions
 uid: 2d99a337-8fc4-7f5c-57d3-d1e5a4dc19a3
@@ -44,7 +47,7 @@ water, mixture, colloid, ionic compound, van der Waals force, Madelung constant,
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-carbon tetrachloride (CCl4), potassium permanganate (KMgO4), silver chloride (AgCl)
+carbon tetrachloride (CCl{{< sub "4" >}}), potassium permanganate (KMgO{{< sub "4" >}}), silver chloride (AgCl)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +128,7 @@ Molarity and mole fraction as measures of concentration
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s21-01-determining-the-solubility-of-.html) 17.1, "Determining the Solubility of Ionic Compounds."
 {{< tdclose >}}
 {{< tdopen >}}
-Solubility product Ksp, ion product, common ion effect
+Solubility product K{{< sub "sp" >}}, ion product, common ion effect
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +155,7 @@ Lecture Video
 
 ### Lecture Summary
 
-This session surveys the chemistry of aqueous solutions, in which **ionic compounds** are dissolved in liquid water as a **solvent**. The rule "_like dissolves like_" means that a **solute** tends to dissolve best in a solvent with similar chemical structure. **Molarity** is defined as a measure of **solubility**, and conventions for classifying substances as **soluble** and **insoluble** are presented. The session also defines and examines the importance of **equilibrium constant K** and **solubility product Ksp**, and the **common ion effect**.
+This session surveys the chemistry of aqueous solutions, in which **ionic compounds** are dissolved in liquid water as a **solvent**. The rule "_like dissolves like_" means that a **solute** tends to dissolve best in a solvent with similar chemical structure. **Molarity** is defined as a measure of **solubility**, and conventions for classifying substances as **soluble** and **insoluble** are presented. The session also defines and examines the importance of **equilibrium constant K** and **solubility product K{{< sub "sp" >}}**, and the **common ion effect**.
 
 The class ends with a discussion of the properties of **amorphous glasses**, including recent advances in fabrication and product manufacturing using bulk metallic glasses.
 

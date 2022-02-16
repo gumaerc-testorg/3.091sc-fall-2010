@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Bonding and Molecules
+parent_type: CourseSection
 parent_uid: 6ea956c8-cef5-f99e-6904-09f06d8d5317
 title: 8. Ionic Crystals; Born-Haber Cycle
 uid: 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79
@@ -44,7 +47,7 @@ Born exponent, cation, anion, covalent bond, ionic bond, valence shell electron 
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-sodium chloride (NaCl), manganese (Mn), sodium (Na), potassium (K), silver iodide (AgI), neon (Ne), magnesium oxide (MgO), aluminum (Al), aluminum oxide (Al2O3), cryolite (Na3AlF6)
+sodium chloride (NaCl), manganese (Mn), sodium (Na), potassium (K), silver iodide (AgI), neon (Ne), magnesium oxide (MgO), aluminum (Al), aluminum oxide (Al{{< sub "2" >}}O{{< sub "3" >}}), cryolite (Na{{< sub "3" >}}AlF{{< sub "6" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

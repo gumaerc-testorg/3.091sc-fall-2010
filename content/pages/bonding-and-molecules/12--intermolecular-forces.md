@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Bonding and Molecules
+parent_type: CourseSection
 parent_uid: 6ea956c8-cef5-f99e-6904-09f06d8d5317
 title: 12. Intermolecular Forces
 uid: 009937ee-55a4-84c8-160b-5248e1f70793
@@ -44,7 +47,7 @@ permanent dipole, induced dipole, hydrogen bond, polarity, London dispersion, el
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-hydrochloric acid (HCl), argon (Ar), iodine (I2), methane (CH4), helium (He), propane (C3H8), octane (C8H18), eicosane (C20H42), hydrofluoric acid (HF), ammonia (NH3), water (H2O)
+hydrochloric acid (HCl), argon (Ar), iodine (I{{< sub "2" >}}), methane (CH{{< sub "4" >}}), helium (He), propane (C{{< sub "3" >}}H{{< sub "8" >}}), octane (C{{< sub "8" >}}H{{< sub "18" >}}), eicosane (C{{< sub "20" >}}H{{< sub "42" >}}), hydrofluoric acid (HF), ammonia (NH{{< sub "3" >}}), water (H{{< sub "2" >}}O)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,8 +136,8 @@ Lecture Video
 Substances in the aggregate may be **solid**, **liquid**, or **gas** at a given temperature and pressure. To predict the state of a substance, both **intramolecular** (primary bonds: ionic, covalent) and **intermolecular forces** must be taken into account. Prof. Sadoway discusses the following **secondary bond types**:
 
 *   dipole-dipole (e.g. HCl)
-*   induced dipole-induced dipole (e.g. Ar, I2, CH4, He), also known as London dispersion forces or van der Waals bonds
-*   hydrogen bonding (e.g. HF, H2O, NH3)
+*   induced dipole-induced dipole (e.g. Ar, I{{< sub "2" >}}, CH{{< sub "4" >}}, He), also known as London dispersion forces or van der Waals bonds
+*   hydrogen bonding (e.g. HF, H{{< sub "2" >}}O, NH{{< sub "3" >}})
 
 Homework
 --------

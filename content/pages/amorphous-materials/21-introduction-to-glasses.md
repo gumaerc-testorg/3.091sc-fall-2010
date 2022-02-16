@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Amorphous Materials
+parent_type: CourseSection
 parent_uid: 79828d9f-9980-e3bc-b791-bd1403164706
 title: 21. Introduction to Glasses
 uid: 1d01a4a6-fa92-2854-cead-1f61b1189649
@@ -44,7 +47,7 @@ glass, amorphous solid, disordered solid, short-range order, metalloid, atomic m
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-SiO2/silicates, B2O3/borates, GeO2/germanates, P2O5/phosphates, V2O5/vanadates, As2O5/arsenate, SbO5/stibnates, polymers, sulfur (S), quartz, Fe80B20, calcium oxide (CaO), lithium oxide (Li2O), sodium oxide (Na2O), magnesium oxide (MgO), lanthanum oxide (La2O3), yttrium oxide (Y2O3), scandium oxide (Sc2O3), lead oxide (PbO), tin oxide (SnO), cristobalite, water
+SiO{{< sub "2" >}}/silicates, B{{< sub "2" >}}O{{< sub "3" >}}/borates, GeO{{< sub "2" >}}/germanates, P{{< sub "2" >}}O{{< sub "5" >}}/phosphates, V{{< sub "2" >}}O{{< sub "5" >}}/vanadates, As{{< sub "2" >}}O{{< sub "5" >}}/arsenate, SbO{{< sub "5" >}}/stibnates, polymers, sulfur (S), quartz, Fe{{< sub "80" >}}B{{< sub "20" >}}, calcium oxide (CaO), lithium oxide (Li{{< sub "2" >}}O), sodium oxide (Na{{< sub "2" >}}O), magnesium oxide (MgO), lanthanum oxide (La{{< sub "2" >}}O{{< sub "3" >}}), yttrium oxide (Y{{< sub "2" >}}O{{< sub "3" >}}), scandium oxide (Sc{{< sub "2" >}}O{{< sub "3" >}}), lead oxide (PbO), tin oxide (SnO), cristobalite, water
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +129,7 @@ Lecture Video
 
 ### Lecture Summary
 
-Amorphous solids lack **long-range order**, but may have small regions of local order surrounded by a **non-crystalline network**. Commonly called "**glass**", they may form from inorganic compounds (e.g. SiO2/**silicates**, B2O3/**borates**, GeO2/germanates, P2O5/phosphates, V2O5/vanadates, As2O5/arsenate, SbO5/stibnates), organic compounds (e.g. **polymers**), elements (e.g. sulfur), and even **metal alloys** (e.g. Fe80B20). Glasses form when liquids with low **atomic mobility** are cooled too quickly to create an ordered crystal. The **rate of cooling** determines the transition temperature, excess volume, and degree of order present in the resulting glass. The addition of **network modifiers** (e.g., calcium oxide (CaO), lithium oxide (Li2O), sodium oxide (Na2O), magnesium oxide (MgO), lanthanum oxide (La2O3), yttrium oxide (Y2O3), scandium oxide (Sc2O3), lead oxide (PbO), tin oxide (SnO)) increase fluidity in liquid glass via **chain scission**, facilitating processing at lower temperatures.
+Amorphous solids lack **long-range order**, but may have small regions of local order surrounded by a **non-crystalline network**. Commonly called "**glass**", they may form from inorganic compounds (e.g. SiO{{< sub "2" >}}/**silicates**, B{{< sub "2" >}}O{{< sub "3" >}}/**borates**, GeO{{< sub "2" >}}/germanates, P{{< sub "2" >}}O{{< sub "5" >}}/phosphates, V{{< sub "2" >}}O{{< sub "5" >}}/vanadates, As{{< sub "2" >}}O{{< sub "5" >}}/arsenate, SbO{{< sub "5" >}}/stibnates), organic compounds (e.g. **polymers**), elements (e.g. sulfur), and even **metal alloys** (e.g. Fe{{< sub "80" >}}B{{< sub "20" >}}). Glasses form when liquids with low **atomic mobility** are cooled too quickly to create an ordered crystal. The **rate of cooling** determines the transition temperature, excess volume, and degree of order present in the resulting glass. The addition of **network modifiers** (e.g., calcium oxide (CaO), lithium oxide (Li{{< sub "2" >}}O), sodium oxide (Na{{< sub "2" >}}O), magnesium oxide (MgO), lanthanum oxide (La{{< sub "2" >}}O{{< sub "3" >}}), yttrium oxide (Y{{< sub "2" >}}O{{< sub "3" >}}), scandium oxide (Sc{{< sub "2" >}}O{{< sub "3" >}}), lead oxide (PbO), tin oxide (SnO)) increase fluidity in liquid glass via **chain scission**, facilitating processing at lower temperatures.
 
 Homework
 --------

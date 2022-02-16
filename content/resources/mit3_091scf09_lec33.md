@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information related to unary phase diagrams.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-091sc-introduction-to-solid-state-chemistry-fall-2010/a16c3f8fd198d433e2406a5694d87d54_MIT3_091SCF09_lec33.pdf
+file: /media/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/a16c3f8fd198d433e2406a5694d87d54_MIT3_091SCF09_lec33.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 33. Unary Phase Diagrams
+parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_lec33.pdf
 uid: a16c3f8f-d198-d433-e240-6a5694d87d54

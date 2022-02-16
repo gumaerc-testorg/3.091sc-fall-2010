@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Crystalline Materials
+parent_type: CourseSection
 parent_uid: b66bb6b5-1948-c461-fd27-7f44614156ed
 title: 19. Point & Line Defects
 uid: 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4
@@ -44,7 +47,7 @@ point defect, line defect, substitutional impurity, interstitial impurity, vacan
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-aluminum (Al), steel, diamond, doped silicon, LaNi5, copper (Cu), rock salt (NaCl), zirconia (ZrO2)
+aluminum (Al), steel, diamond, doped silicon, LaNi{{< sub "5" >}}, copper (Cu), rock salt (NaCl), zirconia (ZrO{{< sub "2" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +171,7 @@ Lecture Video
 
 ### Lecture Summary
 
-Prof. Michael Demkowicz ([homepage](https://engineering.tamu.edu/materials/people/demkowicz-michael-j.html)) lectures today, introducing the next topic: imperfections in crystal lattices. In the real world, materials rarely consist of single, perfect crystals; **defects** in crystals occur naturally, or are introduced during processing. While unwanted defects can **weaken** or **contaminate** materials (e.g. Li+ in saline solution (NaCl(aq)), others can create enhanced properties (e.g. **alloys**, **dopants**). Creating an empty crystal lattice site (**vacancy**) requires overcoming bonds with nearest-neighbor atoms, typically with **thermal energy**. Vacancies in a regular lattice of A atoms may be filled by an atom of B (**substitutional**, e.g. P in Si, B in C), while **interstitial** sites can host atoms of A (self interstitial) or B (interstitial impurity, e.g. C in Fe, H in LaNi5, H in Fe). In ionic crystals, overall **charge neutrality** must be preserved, so a whole stoichiometric unit may be removed to create two or more vacancies (**Schottky**); one ion may move to an interstitial site (**Frenkel**); or one or more electrons may fill an anionic vacancy (**F-center**). Line defects occur when a **lattice mismatch** runs through the crystal.
+Prof. Michael Demkowicz ([homepage](https://engineering.tamu.edu/materials/people/demkowicz-michael-j.html)) lectures today, introducing the next topic: imperfections in crystal lattices. In the real world, materials rarely consist of single, perfect crystals; **defects** in crystals occur naturally, or are introduced during processing. While unwanted defects can **weaken** or **contaminate** materials (e.g. Li{{< sup "+" >}} in saline solution (NaCl{{< sub "(aq)" >}}), others can create enhanced properties (e.g. **alloys**, **dopants**). Creating an empty crystal lattice site (**vacancy**) requires overcoming bonds with nearest-neighbor atoms, typically with **thermal energy**. Vacancies in a regular lattice of A atoms may be filled by an atom of B (**substitutional**, e.g. P in Si, B in C), while **interstitial** sites can host atoms of A (self interstitial) or B (interstitial impurity, e.g. C in Fe, H in LaNi{{< sub "5" >}}, H in Fe). In ionic crystals, overall **charge neutrality** must be preserved, so a whole stoichiometric unit may be removed to create two or more vacancies (**Schottky**); one ion may move to an interstitial site (**Frenkel**); or one or more electrons may fill an anionic vacancy (**F-center**). Line defects occur when a **lattice mismatch** runs through the crystal.
 
 Homework
 --------

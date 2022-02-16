@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Amorphous Materials
+parent_type: CourseSection
 parent_uid: 79828d9f-9980-e3bc-b791-bd1403164706
 title: 'Self-Assessment: Amorphous Materials'
 uid: cbb4c14e-67cf-57ab-0634-902e7e8953ff

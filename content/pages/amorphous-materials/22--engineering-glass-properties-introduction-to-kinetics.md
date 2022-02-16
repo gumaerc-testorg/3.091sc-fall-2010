@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Amorphous Materials
+parent_type: CourseSection
 parent_uid: 79828d9f-9980-e3bc-b791-bd1403164706
 title: 22. Engineering Glass Properties; Introduction to Kinetics
 uid: 593608f5-1309-0383-9a58-fb9a2fb6843a
@@ -68,11 +71,11 @@ law of mass action, chemical kinetics, rate of conversion, species concentration
 
 ### Amorphous Materials
 
-silicate glass (SiO2), sodium oxide (Na2O), calcium oxide (CaO), magnesium oxide (MgO), borate glass (B2O3), aluminum oxide (Al2O3), potassium oxide (K2O), potassium chloride (KCl)
+silicate glass (SiO{{< sub "2" >}}), sodium oxide (Na{{< sub "2" >}}O), calcium oxide (CaO), magnesium oxide (MgO), borate glass (B{{< sub "2" >}}O{{< sub "3" >}}), aluminum oxide (Al{{< sub "2" >}}O{{< sub "3" >}}), potassium oxide (K{{< sub "2" >}}O), potassium chloride (KCl)
 
 ### Reactions and Kinetics
 
-sodium azide (NaN3), nitrogen gas (N2), sodium (Na), potassium nitrate (KNO3), carbon monoxide (CO), chlorine gas (Cl2), phosgene gas (COCl2)
+sodium azide (NaN{{< sub "3" >}}), nitrogen gas (N{{< sub "2" >}}), sodium (Na), potassium nitrate (KNO{{< sub "3" >}}), carbon monoxide (CO), chlorine gas (Cl{{< sub "2" >}}), phosgene gas (COCl{{< sub "2" >}})
 
 
 {{< tdclose >}}
@@ -120,10 +123,10 @@ After completing this session, you should be able to:
 *   Describe how to **design glasses** with the following properties: **thermal shock resistance**; low **working temperature**; high **yield stress**; high **index of refraction**; high **optical clarity**.
 *   Explain how **intermediates** act as **network formers** in some mixes and **modifiers** in others.
 *   Contrast **thermal strengthening** of glass with **chemical strengthening**.
-*   Write the **rate law** for a given chemical reaction, and determine the values of the **rate constant** k, **rate order** n, and **activation energy** Ea from the available data.
+*   Write the **rate law** for a given chemical reaction, and determine the values of the **rate constant** k, **rate order** n, and **activation energy** E{{< sub "a" >}} from the available data.
 *   Explain the effect of temperature on **chemical reactions** using the **Maxwell-Boltzmann distribution**.
 *   For a multi-step reaction, determine which step is **rate-limiting** and write the overall rate law.
-*   Describe how **radioisotope dating** works, and calculate the age of artifacts using their **14C** content.
+*   Describe how **radioisotope dating** works, and calculate the age of artifacts using their **{{< sup "14" >}}C** content.
 
 Reading
 -------
@@ -204,9 +207,9 @@ Lecture Video
 
 ### Lecture Summary
 
-**Glasses** can be engineered for specific applications by altering their proportions of **network formers**, **network modifiers**, and **intermediates** (e.g. Al2O3), and through careful processing. For example, glass can be **strengthened** by introducing compressive stress near the surface, by thermal (e.g. **tempering**) or chemical treatment (e.g. **solution hardening**).
+**Glasses** can be engineered for specific applications by altering their proportions of **network formers**, **network modifiers**, and **intermediates** (e.g. Al{{< sub "2" >}}O{{< sub "3" >}}), and through careful processing. For example, glass can be **strengthened** by introducing compressive stress near the surface, by thermal (e.g. **tempering**) or chemical treatment (e.g. **solution hardening**).
 
-The next unit covers **chemical kinetics**, the study of **reaction rates** and **mechanisms**. For a generalized reaction system, the **rate of change** of ci (concentration of species i) is proportional to the **instantaneous concentration** of ci; the exact values of the **rate constant** k and the **rate order** n are typically determined by experiment. The rate constant can be increased by raising the **temperature** and/or lowering the **activation energy**. **Radiocarbon dating**, although not a chemical reaction, has a **first-order** rate law, resulting in a constant decay rate over time.
+The next unit covers **chemical kinetics**, the study of **reaction rates** and **mechanisms**. For a generalized reaction system, the **rate of change** of c{{< sub "i" >}} (concentration of species i) is proportional to the **instantaneous concentration** of c{{< sub "i" >}}; the exact values of the **rate constant** k and the **rate order** n are typically determined by experiment. The rate constant can be increased by raising the **temperature** and/or lowering the **activation energy**. **Radiocarbon dating**, although not a chemical reaction, has a **first-order** rate law, resulting in a constant decay rate over time.
 
 Homework
 --------

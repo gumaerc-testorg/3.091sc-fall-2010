@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Crystalline Materials
+parent_type: CourseSection
 parent_uid: b66bb6b5-1948-c461-fd27-7f44614156ed
 title: 20. Line, Interface & Bulk Defects
 uid: 5c00821f-505a-eeee-270d-29caeda060dc
@@ -44,7 +47,7 @@ yield stress, strain, shear stress, line defect, surface energy, edge dislocatio
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-steel, aluminum-copper alloy (Al-Cu), silica (SiO2), calcia (CaO), alumina (Al2O3)
+steel, aluminum-copper alloy (Al-Cu), silica (SiO{{< sub "2" >}}), calcia (CaO), alumina (Al{{< sub "2" >}}O{{< sub "3" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +142,7 @@ Lecture Video
 
 ### Lecture Summary
 
-Experimental values for the **yield strengths** of metals are roughly 1/10th those given by theoretical calculations based on breaking entire planes of atomic bonds. The discrepancy is explained by **dislocations**, introduced at the end of the last session, which allows **slipping planes** to break single bonds in sequence, lowering the **yield stress**. Two-dimensional defects can occur at the surface of crystals or at internal interfaces between zones with different lattice alignments, called **grain boundaries**. Macroscopic clusters of vacancies (**voids**) weaken metals, while clusters of impurities (**precipitates**) may weaken or strengthen them. The failure of rivets on the hull of the _Titanic_ is attributed to brittle pockets of slag mixed into the steel, based on examination of the **microstructure**.
+Experimental values for the **yield strengths** of metals are roughly 1/10{{< sup "th" >}} those given by theoretical calculations based on breaking entire planes of atomic bonds. The discrepancy is explained by **dislocations**, introduced at the end of the last session, which allows **slipping planes** to break single bonds in sequence, lowering the **yield stress**. Two-dimensional defects can occur at the surface of crystals or at internal interfaces between zones with different lattice alignments, called **grain boundaries**. Macroscopic clusters of vacancies (**voids**) weaken metals, while clusters of impurities (**precipitates**) may weaken or strengthen them. The failure of rivets on the hull of the _Titanic_ is attributed to brittle pockets of slag mixed into the steel, based on examination of the **microstructure**.
 
 Homework
 --------

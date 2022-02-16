@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Aqueous Solutions
+parent_type: CourseSection
 parent_uid: 6ec96be4-5df9-d10d-17f2-85df51807e05
 title: 26. Acids & Bases
 uid: 98ba1bf2-d4f9-d827-e295-168909119297
@@ -44,7 +47,7 @@ acid, base, alkali, acid-base reaction, proton, electron, donor, acceptor, neutr
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-ammonia (NH3), ammonium (NH4), hydronium (H3O+), hydroxyl (OH\-), acetic acid (CH3COOH), sulfur dioxide (SO2)
+ammonia (NH{{< sub "3" >}}), ammonium (NH{{< sub "4" >}}), hydronium (H{{< sub "3" >}}O{{< sup "+" >}}), hydroxyl (OH{{< sup "\\-" >}}), acetic acid (CH{{< sub "3" >}}COOH), sulfur dioxide (SO{{< sub "2" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +120,7 @@ Lewis acids and bases
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-01-the-autoionization-of-water.html) 16.1, "The Autoionization of Water."
 {{< tdclose >}}
 {{< tdopen >}}
-Acid-base properties of water; ion-product constant; relationship among pH, pOH, and pKw
+Acid-base properties of water; ion-product constant; relationship among pH, pOH, and pK{{< sub "w" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +129,7 @@ Acid-base properties of water; ion-product constant; relationship among pH, pOH,
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-02-a-qualitative-description-of-a.html) 16.2, "A Qualitative Description of Acid-Base Equilibria."
 {{< tdclose >}}
 {{< tdopen >}}
-Conjugate acid-base pairs; equilibrium constants Ka, Kb, pKa and pKb; strong acids and bases; leveling effect; polyprotic acids and bases; solutions of salts
+Conjugate acid-base pairs; equilibrium constants K{{< sub "a" >}}, K{{< sub "b" >}}, pK{{< sub "a" >}} and pK{{< sub "b" >}}; strong acids and bases; leveling effect; polyprotic acids and bases; solutions of salts
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +147,7 @@ Bond strengths; conjugate bases; inductive effects
 [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-04-quantitative-aspects-of-acid-b.html) 16.4, "Quantitative Aspects of Acid-Base Equilibria."
 {{< tdclose >}}
 {{< tdopen >}}
-Ka and Kb; percent ionization from Ka and Kb; Keq from Ka and Kb
+K{{< sub "a" >}} and K{{< sub "b" >}}; percent ionization from K{{< sub "a" >}} and K{{< sub "b" >}}; K{{< sub "eq" >}} from K{{< sub "a" >}} and K{{< sub "b" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

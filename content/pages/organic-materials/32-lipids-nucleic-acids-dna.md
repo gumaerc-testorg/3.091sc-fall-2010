@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Organic Materials
+parent_type: CourseSection
 parent_uid: 0ab5962f-08b0-e5dd-2488-7c3659767245
 title: '32. Biochemistry: Lipids, Nucleic Acids & DNA'
 uid: 3db3383b-b411-d2fc-45f2-4495b3640825

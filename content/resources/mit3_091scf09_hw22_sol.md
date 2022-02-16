@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains homework solutions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-091sc-introduction-to-solid-state-chemistry-fall-2010/17a6e7875b9864048a2771f98cea991f_MIT3_091SCF09_hw22_sol.pdf
+file: /media/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/17a6e7875b9864048a2771f98cea991f_MIT3_091SCF09_hw22_sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 22. Engineering Glass Properties; Introduction to Kinetics
+parent_type: CourseSection
 resourcetype: Document
 title: 'Session #22: Homework Solutions'
 uid: 17a6e787-5b98-6404-8a27-71f98cea991f

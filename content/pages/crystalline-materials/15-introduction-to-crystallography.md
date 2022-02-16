@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Crystalline Materials
+parent_type: CourseSection
 parent_uid: b66bb6b5-1948-c461-fd27-7f44614156ed
 title: 15. Introduction to Crystallography
 uid: 94d7c45c-dd53-4c54-0679-000be37ea165
@@ -62,7 +65,7 @@ silicon (Si), boron (B), diamond (C)
 
 ### Crystalline Materials
 
-glass, obsidian, quartz, calcite, tin (Sn), basalt, beryl, fluorite, gold (Au), aluminum (Al), copper (Cu), platinum (Pt), methane ice (CH4), rock salt (NaCl)
+glass, obsidian, quartz, calcite, tin (Sn), basalt, beryl, fluorite, gold (Au), aluminum (Al), copper (Cu), platinum (Pt), methane ice (CH{{< sub "4" >}}), rock salt (NaCl)
 
 
 {{< tdclose >}}
@@ -184,12 +187,12 @@ Continuing last lecture's explanation of **extrinsic semiconductors**, the Elect
 *   Tetragonal (e.g. tin (Sn), basalt)
 *   Hexagonal (e.g. beryl)
 *   Rhombohedral (e.g. calcite)
-*   Cubic (e.g. fluorite, gold (Au), aluminum (Al), copper (Cu), platinum (Pt), methane (CH4(s)), rock salt (NaCl))
+*   Cubic (e.g. fluorite, gold (Au), aluminum (Al), copper (Cu), platinum (Pt), methane (CH{{< sub "4(s)" >}}), rock salt (NaCl))
 *   Triclinic
 *   Monoclinic
 *   Orthorhombic
 
-Crystal structures are described using a **basis**, which may be an atom, a group of ions (e.g. rock salt (NaCl)), or a molecule (e.g. methane (CH4(s)), proteins), repeated at the **points** of a Bravais lattice. Since they apply to many common metals and minerals, this course focuses on the **cubic crystal systems**: simple, body-centered, and face-centered.
+Crystal structures are described using a **basis**, which may be an atom, a group of ions (e.g. rock salt (NaCl)), or a molecule (e.g. methane (CH{{< sub "4(s)" >}}), proteins), repeated at the **points** of a Bravais lattice. Since they apply to many common metals and minerals, this course focuses on the **cubic crystal systems**: simple, body-centered, and face-centered.
 
 Homework
 --------

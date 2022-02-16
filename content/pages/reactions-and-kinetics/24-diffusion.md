@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Reactions and Kinetics
+parent_type: CourseSection
 parent_uid: 885d39b1-395a-748c-e5bf-46da89d7dc8d
 title: 24. Diffusion
 uid: 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7
@@ -44,7 +47,7 @@ error function, diffusion, mass transport, mass flow rate, flux, Fick's first la
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-cobalt-60 (60Co), cobalt-59 (59Co), lead (Pb), aluminum (Al), gold (Au), silver (Ag), copper (Cu), iron (Fe), graphite, carbon (C), calcia (CaO), zirconia (ZrO2), hydrogen (H), manganese (Mn), fused silica (SiO2), borosilicate glass (SiO2+B2O3), soda-lime glass (SiO2+Na2O+CaO), lead borate (PbO+B2O3), borate (B2O3) phosphate (P2O5), platinum (Pt)
+cobalt-60 ({{< sup "60" >}}Co), cobalt-59 ({{< sup "59" >}}Co), lead (Pb), aluminum (Al), gold (Au), silver (Ag), copper (Cu), iron (Fe), graphite, carbon (C), calcia (CaO), zirconia (ZrO{{< sub "2" >}}), hydrogen (H), manganese (Mn), fused silica (SiO{{< sub "2" >}}), borosilicate glass (SiO{{< sub "2" >}}+B{{< sub "2" >}}O{{< sub "3" >}}), soda-lime glass (SiO{{< sub "2" >}}+Na{{< sub "2" >}}O+CaO), lead borate (PbO+B{{< sub "2" >}}O{{< sub "3" >}}), borate (B{{< sub "2" >}}O{{< sub "3" >}}) phosphate (P{{< sub "2" >}}O{{< sub "5" >}}), platinum (Pt)
 {{< tdclose >}}
 
 {{< trclose >}}

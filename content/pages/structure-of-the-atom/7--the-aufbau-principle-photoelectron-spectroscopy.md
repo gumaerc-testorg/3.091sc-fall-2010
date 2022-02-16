@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Structure of the Atom
+parent_type: CourseSection
 parent_uid: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
 title: 7. The Aufbau Principle; Photoelectron Spectroscopy
 uid: d0470d3e-350a-e01c-66ab-ad1825f65352

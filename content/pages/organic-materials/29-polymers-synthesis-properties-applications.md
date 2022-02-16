@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Organic Materials
+parent_type: CourseSection
 parent_uid: 0ab5962f-08b0-e5dd-2488-7c3659767245
 title: '29. Polymers: Synthesis, Properties & Applications'
 uid: ab1dea66-95b4-5d1a-3cc8-9fa06d9ba941

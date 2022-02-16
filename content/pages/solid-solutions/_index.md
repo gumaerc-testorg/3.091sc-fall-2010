@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Solid Solutions
 uid: f6e01e0c-3963-e495-1396-598462ae7d02
 ---

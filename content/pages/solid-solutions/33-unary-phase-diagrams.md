@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Solid Solutions
+parent_type: CourseSection
 parent_uid: f6e01e0c-3963-e495-1396-598462ae7d02
 title: 33. Unary Phase Diagrams
 uid: ca8d17e3-3c26-884a-7904-68ea3eee4bed
@@ -44,7 +47,7 @@ stability, pressure, temperature, vapor, liquid, solid, phase, equilibrium, comp
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-water (H2O), zirconia (ZrO2), snowflake obsidian, aluminum (Al), silicon (Si), carbon dioxide (CO2), nitrogen (N), bismuth (Bi), sulfur (S), oxygen (O), argon (Ar), "dry ice", carbon (C), mercury (Hg)
+water (H{{< sub "2" >}}O), zirconia (ZrO{{< sub "2" >}}), snowflake obsidian, aluminum (Al), silicon (Si), carbon dioxide (CO{{< sub "2" >}}), nitrogen (N), bismuth (Bi), sulfur (S), oxygen (O), argon (Ar), "dry ice", carbon (C), mercury (Hg)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,7 +146,7 @@ Prof. Sadoway does some live demonstrations for the class:
 
 *   various objects are immersed in liquid nitrogen, going below their **glass transition temperature**
 *   properties of liquid oxygen
-*   **sublimation** of solid frozen CO2, aka 'dry ice'
+*   **sublimation** of solid frozen CO{{< sub "2" >}}, aka 'dry ice'
 
 The phase diagram of zirconia illustrates the concept of **changing a material's composition** to produce desired behaviors at particular temperature/pressure conditions. The phase diagram of carbon illustrates how artificial diamonds are made. Bisumth and sulfur phase diagrams – "phase diagrams from hell" – have **many regions**. Returning to water, Prof. Sadoway discusses the unusual **phases of ice** at very high pressures and very low temperatures.
 

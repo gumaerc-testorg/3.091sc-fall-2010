@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Structure of the Atom
 uid: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
 ---

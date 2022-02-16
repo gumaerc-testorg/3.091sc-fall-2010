@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Crystalline Materials
+parent_type: CourseSection
 parent_uid: b66bb6b5-1948-c461-fd27-7f44614156ed
 title: 18. X-Ray Diffraction Techniques
 uid: 2f4aa15c-0125-9d84-17ab-ecf218034e84
@@ -66,7 +69,7 @@ Before starting this session, you should be familiar with the prior topics in th
 
 *   Miller indices for crystal directions and planes
 *   SC, FCC, and BCC crystal structures
-*   X-ray production methods and characteristic emission lines (Cu Kα, etc.)
+*   X-ray production methods and characteristic emission lines (Cu K{{< sub "α" >}}, etc.)
 
 ### Looking Ahead
 

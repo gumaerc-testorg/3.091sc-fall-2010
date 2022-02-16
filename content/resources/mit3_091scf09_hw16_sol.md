@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains homework solutions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-091sc-introduction-to-solid-state-chemistry-fall-2010/0e1ee2539dcef4920c7e17c8a4a1a1d5_MIT3_091SCF09_hw16_sol.pdf
+file: /media/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/0e1ee2539dcef4920c7e17c8a4a1a1d5_MIT3_091SCF09_hw16_sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 16. Crystallographic Notation & X-Rays
+parent_type: CourseSection
 resourcetype: Document
 title: MIT3_091SCF09_hw16_sol.pdf
 uid: 0e1ee253-9dce-f492-0c7e-17c8a4a1a1d5

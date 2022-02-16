@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Bonding and Molecules
+parent_type: CourseSection
 parent_uid: 6ea956c8-cef5-f99e-6904-09f06d8d5317
 title: 9. Drawing Lewis Structures
 uid: 80b4e5be-5325-9c74-0eb6-068392cf19cb
@@ -44,7 +47,7 @@ cation, anion, Madelung constant, enthalpy, valence electron, Gilbert Lewis, ion
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-sodium (Na), chloride (Cl), nitrogen (N), oxygen (O), lithium (Li), beryllium (Be), magnesium (Mg), aluminum (Al), silicon (Si), hydrogen (H), helium (He), sulfuryl chloride (SO2Cl2), methane (CH4), magnesium chloride (MgCl2), hydrogen fluoride (HF), hydrogen chloride (HCl), sodium chloride (NaCl), Freon-12
+sodium (Na), chloride (Cl), nitrogen (N), oxygen (O), lithium (Li), beryllium (Be), magnesium (Mg), aluminum (Al), silicon (Si), hydrogen (H), helium (He), sulfuryl chloride (SO{{< sub "2" >}}Cl{{< sub "2" >}}), methane (CH{{< sub "4" >}}), magnesium chloride (MgCl{{< sub "2" >}}), hydrogen fluoride (HF), hydrogen chloride (HCl), sodium chloride (NaCl), Freon-12
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +179,7 @@ Prof. Sadoway discusses the following concepts:
 *   Ionic bond = electron transfer
 *   Covalent bond = electron sharing (directional)
 *   Carbon
-    *   s-orbitals "merge" with p-orbitals – sp3 hybridized
+    *   s-orbitals "merge" with p-orbitals – sp{{< sup "3" >}} hybridized
     *   Results in 4 unpaired electrons, ready to bond
 *   Energy of **heteronuclear bonds**
 *   **Percent ionic character**

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-091sc-introduction-to-solid-state-chemistry-fall-2010/329c0903a9315ef3b66ea96e2905fc97_MIT3_091SCF10Exam_3_Prob_1_300k.vtt
+file: /media/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/329c0903a9315ef3b66ea96e2905fc97_MIT3_091SCF10Exam_3_Prob_1_300k.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Self-Assessment: Crystalline Materials'
+parent_type: CourseSection
 resourcetype: Other
 title: MIT3_091SCF10Exam_3_Prob_1_300k.srt
 uid: 329c0903-a931-5ef3-b66e-a96e2905fc97

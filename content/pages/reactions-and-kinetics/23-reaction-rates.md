@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Reactions and Kinetics
+parent_type: CourseSection
 parent_uid: 885d39b1-395a-748c-e5bf-46da89d7dc8d
 title: 23. Reaction Rates
 uid: 568956d9-4b5b-b4e9-70b5-553efd337767
@@ -44,7 +47,7 @@ steric hindrance, cisplatin, first-order, second-order, zero-order, half-life, r
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-dinitrogen pentoxide (N2O5), nitrogen dioxide (NO2), oxygen gas (O2), nitric oxide (NO), cisplatin (PtCl2(NH3)2), water (H2O), chloride (Cl\-), uranium-238 (238U), thorium-234 (234Th), helium (4He), carbon monoxide (CO), carbon dioxide (CO2), carbon (C), silicon (Si), boron (B), diborane (B2H6), hydrogen gas (H2), octane (C8H18), platinum (Pt), palladium (Pd), rhodium (Rh)
+dinitrogen pentoxide (N{{< sub "2" >}}O{{< sub "5" >}}), nitrogen dioxide (NO{{< sub "2" >}}), oxygen gas (O{{< sub "2" >}}), nitric oxide (NO), cisplatin (PtCl{{< sub "2" >}}(NH{{< sub "3" >}}){{< sub "2" >}}), water (H{{< sub "2" >}}O), chloride (Cl{{< sup "\\-" >}}), uranium-238 ({{< sup "238" >}}U), thorium-234 ({{< sup "234" >}}Th), helium ({{< sup "4" >}}He), carbon monoxide (CO), carbon dioxide (CO{{< sub "2" >}}), carbon (C), silicon (Si), boron (B), diborane (B{{< sub "2" >}}H{{< sub "6" >}}), hydrogen gas (H{{< sub "2" >}}), octane (C{{< sub "8" >}}H{{< sub "18" >}}), platinum (Pt), palladium (Pd), rhodium (Rh)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +178,7 @@ Lecture Video
 
 ### Lecture Summary
 
-**First-order** chemical reactions (e.g. decomposition of cisplatin, N2O5; radioisotope decay) have **concentration-independent** rates, which is sometimes expressed as the **half-life**. **Second-order** rates (e.g. decomposition of NO2) are **inversely proportional to concentration**. To determine the order and rate constant of an unknown system, **integral** and **differential** methods can be used to **linearize** experimental data measuring concentration over time. **Catalysts** affect reaction rates by adsorbing, aligning, or otherwise physically manipulating reactants, changing the **activation energy** of a reaction. Reaction rates are also limited by **mass transport** of reactants and products. In solids, atoms move via **diffusion**, driven by **concentration gradients**, as described by **Fick's first law**; the proportionality constant in this case is D, the **diffusivity**.
+**First-order** chemical reactions (e.g. decomposition of cisplatin, N{{< sub "2" >}}O{{< sub "5" >}}; radioisotope decay) have **concentration-independent** rates, which is sometimes expressed as the **half-life**. **Second-order** rates (e.g. decomposition of NO{{< sub "2" >}}) are **inversely proportional to concentration**. To determine the order and rate constant of an unknown system, **integral** and **differential** methods can be used to **linearize** experimental data measuring concentration over time. **Catalysts** affect reaction rates by adsorbing, aligning, or otherwise physically manipulating reactants, changing the **activation energy** of a reaction. Reaction rates are also limited by **mass transport** of reactants and products. In solids, atoms move via **diffusion**, driven by **concentration gradients**, as described by **Fick's first law**; the proportionality constant in this case is D, the **diffusivity**.
 
 Homework
 --------
