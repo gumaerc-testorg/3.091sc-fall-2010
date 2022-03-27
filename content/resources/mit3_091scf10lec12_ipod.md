@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 12. Intermolecular Forces
 parent_type: CourseSection
+parent_uid: 009937ee-55a4-84c8-160b-5248e1f70793
 resourcetype: Other
 title: MIT3_091SCF10lec12_iPOD.srt
 uid: 04b214e3-1bf4-f11b-6573-e723517f0dc7

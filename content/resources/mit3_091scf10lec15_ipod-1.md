@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 15. Introduction to Crystallography
 parent_type: CourseSection
+parent_uid: 94d7c45c-dd53-4c54-0679-000be37ea165
 resourcetype: Document
 title: MIT3_091SCF10lec15_iPOD.pdf
 uid: 9637706b-8e2e-19ad-0a31-d38ac0860166

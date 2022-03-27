@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 8. Ionic Crystals; Born-Haber Cycle
 parent_type: CourseSection
+parent_uid: 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79
 resourcetype: Document
 title: 'Lecture #8, Introduction to Crystals, Ions, Born-Haber Cycle'
 uid: 935d7afb-d981-a814-d0e1-7a54f8db7e85

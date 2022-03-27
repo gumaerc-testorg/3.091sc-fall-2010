@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Self-Assessment: Bonding and Molecules'
 parent_type: CourseSection
+parent_uid: e546abb4-cde9-4dcd-5383-555e591eed18
 resourcetype: Document
 title: MIT OpenCourseWare
 uid: 8eb04f53-2938-7332-fb92-dc4677eb2461

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 18. X-Ray Diffraction Techniques
 parent_type: CourseSection
+parent_uid: 2f4aa15c-0125-9d84-17ab-ecf218034e84
 resourcetype: Document
 title: MIT3_091SCF09_lec18.pdf
 uid: e20fd8f3-e73b-3408-320e-a1dae9dc12ec

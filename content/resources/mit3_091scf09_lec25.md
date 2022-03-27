@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 25. Introduction to Aqueous Solutions
 parent_type: CourseSection
+parent_uid: 2d99a337-8fc4-7f5c-57d3-d1e5a4dc19a3
 resourcetype: Document
 title: MIT3_091SCF09_lec25.pdf
 uid: f79062d7-ce66-928e-8a24-0f4df49da174

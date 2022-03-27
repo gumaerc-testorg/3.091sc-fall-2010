@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Self-Assessment: Solid Solutions'
 parent_type: CourseSection
+parent_uid: 72c01ef0-b872-bcb0-6ee3-bdfffcb4cd4a
 resourcetype: Document
 title: MIT3_091SCF10Final_Exam_B_Prob_7_300k.pdf
 uid: 10658be4-62ac-deeb-630c-1d270433f1d0

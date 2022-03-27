@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reference Materials and Suggested Textbooks
 parent_type: CourseSection
+parent_uid: 9abd92d7-66e1-b816-f50d-00770b2420e1
 resourcetype: Document
 title: MIT3_091SCF09_constants.pdf
 uid: 13fd6b1d-7f4c-27e1-aa1b-f83b92d2d6b6

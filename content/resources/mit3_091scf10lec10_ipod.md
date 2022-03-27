@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 10. Hybridized & Molecular Orbitals; Paramagnetism
 parent_type: CourseSection
+parent_uid: f3720df7-44c6-c811-bba3-3f83d3053ffd
 resourcetype: Other
 title: MIT3_091SCF10lec10_iPOD.srt
 uid: b0cf279c-d74f-dadb-9687-ad23ffd79bb1

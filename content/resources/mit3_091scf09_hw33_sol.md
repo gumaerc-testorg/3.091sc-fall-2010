@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 33. Unary Phase Diagrams
 parent_type: CourseSection
+parent_uid: ca8d17e3-3c26-884a-7904-68ea3eee4bed
 resourcetype: Document
 title: MIT3_091SCF09_hw33_sol.pdf
 uid: 69eb408f-6f54-b395-8b37-7efd56f7d409

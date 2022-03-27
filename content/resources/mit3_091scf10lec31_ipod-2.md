@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: '31. Biochemistry: Protein Structure'
 parent_type: CourseSection
+parent_uid: 4e61d15e-9ac5-67d9-af48-23d7beaa16b7
 resourcetype: Other
 title: MIT3_091SCF10lec31_iPOD.srt
 uid: 3bff9249-9d99-58cd-ad03-69557e3ef718

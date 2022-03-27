@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Meet the TAs
 parent_type: CourseSection
+parent_uid: af4b0715-adb4-b3d3-3e69-af564b71c30e
 resourcetype: Image
 title: newhouse.jpg
 uid: 964d2760-acde-7d60-33fa-28212751d1b0

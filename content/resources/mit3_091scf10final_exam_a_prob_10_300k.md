@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Self-Assessment: Aqueous Solutions'
 parent_type: CourseSection
+parent_uid: 72916be9-a577-7e44-0a46-72d4318cea26
 resourcetype: Other
 title: MIT3_091SCF10Final_Exam_A_Prob_10_300k.srt
 uid: 624f3597-2254-b15a-e713-215a3aab71e9

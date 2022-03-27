@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 8. Ionic Crystals; Born-Haber Cycle
 parent_type: CourseSection
+parent_uid: 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79
 resourcetype: Document
 title: 'Session #8: Homework Solutions '
 uid: f8f51db5-2855-d4bf-912b-77482db72fca

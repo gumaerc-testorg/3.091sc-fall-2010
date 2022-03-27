@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 13. Band Theory of Solids
 parent_type: CourseSection
+parent_uid: c567f1c9-3666-523f-ed70-cea0765d0080
 resourcetype: Other
 title: MIT3_091SCF10lec13_iPOD.srt
 uid: 5aed7f31-87e5-7810-f709-d0d7e238948f

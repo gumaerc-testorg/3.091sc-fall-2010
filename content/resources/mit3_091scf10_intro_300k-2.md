@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 116bf279-d466-43e7-0e0e-4cd163f567f1
 resourcetype: Other
 title: MIT3_091SCF10_intro_300k.srt
 uid: d549f01b-5184-5bed-83d5-006c5b62c316

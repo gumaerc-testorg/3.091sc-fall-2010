@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 22. Engineering Glass Properties; Introduction to Kinetics
 parent_type: CourseSection
+parent_uid: 593608f5-1309-0383-9a58-fb9a2fb6843a
 resourcetype: Document
 title: 'Lecture #22, Engineering Glasses; Introduction to Kinetics'
 uid: 7e17c011-6607-aa5d-9d64-24936ceb41c7

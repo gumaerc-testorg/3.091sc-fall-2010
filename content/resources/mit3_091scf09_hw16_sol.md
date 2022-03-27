@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 16. Crystallographic Notation & X-Rays
 parent_type: CourseSection
+parent_uid: e22836d9-83d9-ad9c-8310-e4357bb64a92
 resourcetype: Document
 title: MIT3_091SCF09_hw16_sol.pdf
 uid: 0e1ee253-9dce-f492-0c7e-17c8a4a1a1d5

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 21. Introduction to Glasses
 parent_type: CourseSection
+parent_uid: 1d01a4a6-fa92-2854-cead-1f61b1189649
 resourcetype: Document
 title: MIT3_091SCF09_hw21_sol.pdf
 uid: 22cd6cac-c77f-7466-f2e0-bd8e082452fb

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 116bf279-d466-43e7-0e0e-4cd163f567f1
 resourcetype: Document
 title: MIT3_091SCF09_aln06.pdf
 uid: 128d0c6d-4b74-6a78-66e7-5600347e12cd

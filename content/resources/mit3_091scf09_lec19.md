@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 19. Point & Line Defects
 parent_type: CourseSection
+parent_uid: 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4
 resourcetype: Document
 title: MIT3_091SCF09_lec19.pdf
 uid: e9d87068-09d2-3de0-3d37-a624db0b8967

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 2. The Periodic Table
 parent_type: CourseSection
+parent_uid: a13b8975-9fdc-1778-eea3-68cb5be8fef0
 resourcetype: Other
 title: MIT3_091SCF10lec02_iPOD.srt
 uid: 1c6f8290-c143-5c5e-b17b-938710b4df55

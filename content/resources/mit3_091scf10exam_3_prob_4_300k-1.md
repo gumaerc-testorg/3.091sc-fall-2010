@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Self-Assessment: Reactions and Kinetics'
 parent_type: CourseSection
+parent_uid: 786b7514-86a8-3635-cf6a-b88c95dc0332
 resourcetype: Document
 title: MIT3_091SCF10Exam_3_Prob_4_300k.pdf
 uid: b222da25-cdbd-0c12-c774-d387b1dcb2f6

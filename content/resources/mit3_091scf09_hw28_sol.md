@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: '28. Polymers: Structure & Composition'
 parent_type: CourseSection
+parent_uid: f8c2db6d-2332-71ec-1747-b2c8369b532e
 resourcetype: Document
 title: MIT3_091SCF09_hw28_sol.pdf
 uid: 63768218-aa4a-7a99-eb1c-3e8375012a66

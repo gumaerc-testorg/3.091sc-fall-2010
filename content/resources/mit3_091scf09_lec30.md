@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: '30. Biochemistry: Amino Acids'
 parent_type: CourseSection
+parent_uid: 1391526c-977f-6e58-b0c0-b163bcae3d50
 resourcetype: Document
 title: MIT3_091SCF09_lec30.pdf
 uid: 8bcb388c-7a1b-0b88-e396-aa431bffeafe

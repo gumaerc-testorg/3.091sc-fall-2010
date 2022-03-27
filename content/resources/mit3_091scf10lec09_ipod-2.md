@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 9. Drawing Lewis Structures
 parent_type: CourseSection
+parent_uid: 80b4e5be-5325-9c74-0eb6-068392cf19cb
 resourcetype: Other
 title: MIT3_091SCF10lec09_iPOD.srt
 uid: 6a1c22a6-8cea-5268-8e4f-01ade20a1db7

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 11. The Shapes of Molecules
 parent_type: CourseSection
+parent_uid: 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5
 resourcetype: Other
 title: MIT3_091SCF10lec11_iPOD.srt
 uid: 2477b5c9-6452-fc69-2e62-6daff722a0a6

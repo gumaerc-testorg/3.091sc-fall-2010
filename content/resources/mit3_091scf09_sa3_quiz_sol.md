@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Self-Assessment: Electronic Materials'
 parent_type: CourseSection
+parent_uid: 3452e351-524d-2e8f-7020-05d4103e2aaf
 resourcetype: Document
 title: MIT3_091SCF09_sa3_quiz_sol.pdf
 uid: 8126d136-9674-ad83-23f2-288583ed63b9

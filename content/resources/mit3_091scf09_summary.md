@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
+parent_uid: 1510a47e-e45c-9c55-4ebc-44d837db76c0
 resourcetype: Document
 title: MIT3_091SCF09_summary.pdf
 uid: fcb2b28d-4fe7-732e-f300-4072a2527ab9

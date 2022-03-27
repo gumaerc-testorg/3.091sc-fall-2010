@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 26. Acids & Bases
 parent_type: CourseSection
+parent_uid: 98ba1bf2-d4f9-d827-e295-168909119297
 resourcetype: Other
 title: MIT3_091SCF10lec26_iPOD.srt
 uid: e4a6560b-5f81-5685-ae6e-71348fa342fe

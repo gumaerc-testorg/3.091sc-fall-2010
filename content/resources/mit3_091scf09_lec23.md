@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 23. Reaction Rates
 parent_type: CourseSection
+parent_uid: 568956d9-4b5b-b4e9-70b5-553efd337767
 resourcetype: Document
 title: MIT3_091SCF09_lec23.pdf
 uid: 76b20538-5820-149e-6cd1-3b74c33fc2e0

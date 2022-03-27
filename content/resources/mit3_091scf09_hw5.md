@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 5. Electron Shell Model & Quantum Numbers
 parent_type: CourseSection
+parent_uid: e7d31b34-62de-b7aa-1e87-6b9a5a99c71f
 resourcetype: Document
 title: MIT3_091SCF09_hw5.pdf
 uid: c9193599-c9e6-4798-7f89-ff8ef20460ad

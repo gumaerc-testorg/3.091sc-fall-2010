@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 17. X-Ray Emission & Absorption
 parent_type: CourseSection
+parent_uid: e504c6fa-63f4-b438-cb24-0e0ef9bc60eb
 resourcetype: Document
 title: MIT3_091SCF10lec17_iPOD.pdf
 uid: 7e3cd9e0-a0cb-c7c5-128b-df90ff342d4c

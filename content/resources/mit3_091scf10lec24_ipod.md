@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 24. Diffusion
 parent_type: CourseSection
+parent_uid: 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7
 resourcetype: Other
 title: MIT3_091SCF10lec24_iPOD.srt
 uid: 0133f89d-29c1-b271-78d9-ac7195702768

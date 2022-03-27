@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: '3. Atomic Models: Rutherford & Bohr'
 parent_type: CourseSection
+parent_uid: 313524b4-840e-e388-74ee-c0ea90001bd5
 resourcetype: Document
 title: MIT3_091SCF09_hw3.pdf
 uid: 6ca5fbac-28a4-7fdd-788c-bc6941a9afa9

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 1. Introduction to Solid State Chemistry
 parent_type: CourseSection
+parent_uid: 8a1709eb-16be-69bb-41cc-325703c25a95
 resourcetype: Document
 title: MIT3_091SCF09_lec1.pdf
 uid: debd5701-469c-e24a-ac7a-e098cae6a8b5

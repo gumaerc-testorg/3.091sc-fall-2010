@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 9. Drawing Lewis Structures
 parent_type: CourseSection
+parent_uid: 80b4e5be-5325-9c74-0eb6-068392cf19cb
 resourcetype: Document
 title: 'Session #9: Homework Solutions '
 uid: d9e95730-85a3-b159-302c-3aa9ce421355
