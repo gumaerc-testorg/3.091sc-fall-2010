@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/9372e0d404cd60c35bd5dd09b5ab6413_j7EBObU5Tjk.pdf
+file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/9372e0d404cd60c35bd5dd09b5ab6413_j7EBObU5Tjk.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

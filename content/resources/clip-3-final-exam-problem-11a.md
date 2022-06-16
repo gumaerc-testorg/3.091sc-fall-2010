@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1224'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Self-Assessment: Reactions and Kinetics'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: o
 title: 'Clip 3: Final Exam, Problem 11a'
 uid: 1a1240bf-a82c-e691-1283-1a3b7f027456
 video_files:

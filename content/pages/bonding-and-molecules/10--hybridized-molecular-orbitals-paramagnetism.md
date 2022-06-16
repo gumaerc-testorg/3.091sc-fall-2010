@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains materials for the session on hybridization, molecular
+  orbitals, and paramagnetism. It features a 1-hour lecture video, and also presents
+  the prerequisites, learning objectives, reading assignment, lecture slides, homework
+  with solutions, and resources for further study.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Bonding and Molecules
@@ -9,7 +13,7 @@ title: 10. Hybridized & Molecular Orbitals; Paramagnetism
 uid: f3720df7-44c6-c811-bba3-3f83d3053ffd
 ---
 
-« [Previous]({{< baseurl >}}/pages/bonding-and-molecules/9.-drawing-lewis-structures) | [Next]({{< baseurl >}}/pages/bonding-and-molecules/11.-the-shapes-of-molecules) »
+« {{% resource_link 80b4e5be-5325-9c74-0eb6-068392cf19cb "Previous" %}} | {{% resource_link 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5 "Next" %}} »
 
 Session Overview
 ----------------
@@ -47,7 +51,7 @@ Wolfgang Pauli, primary bond, ionic bond, covalent bond, metallic bond, electron
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-ethylene (C{{< sub "2" >}}H{{< sub "4" >}}), methane (CH{{< sub "4" >}}), carbon (C), acetylene (C{{< sub "2" >}}H{{< sub "2" >}}), titanium tetrachloride (TiCl{{< sub "4" >}}), sulfur hexafluoride (SF{{< sub "6" >}}), bromine pentafluoride (BrF{{< sub "5" >}}), iodine tetrafluoride (IF{{< sub "4" >}}{{< sup "\\-" >}}), helium (He), dilithium (Li{{< sub "2" >}}), disodium (Na{{< sub "2" >}}), nitrogen (N{{< sub "2" >}}), oxygen (O{{< sub "2" >}}), fluorine (F{{< sub "2" >}})
+ethylene (C{{< sub "2" >}}H{{< sub "4" >}}), methane (CH{{< sub "4" >}}), carbon (C), acetylene (C{{< sub "2" >}}H{{< sub "2" >}}), titanium tetrachloride (TiCl{{< sub "4" >}}), sulfur hexafluoride (SF{{< sub "6" >}}), bromine pentafluoride (BrF{{< sub "5" >}}), iodine tetrafluoride (IF{{< sub "4" >}}{{< sup "\-" >}}), helium (He), dilithium (Li{{< sub "2" >}}), disodium (Na{{< sub "2" >}}), nitrogen (N{{< sub "2" >}}), oxygen (O{{< sub "2" >}}), fluorine (F{{< sub "2" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,11 +71,11 @@ sodium vapor lamps
 
 Before starting this session, you should be familiar with:
 
-*   [Session 9: Drawing Lewis Structures]({{< baseurl >}}/pages/bonding-and-molecules/9.-drawing-lewis-structures)
+*   {{% resource_link 80b4e5be-5325-9c74-0eb6-068392cf19cb "Session 9: Drawing Lewis Structures" %}}
 
 ### Looking Ahead
 
-Prof. Sadoway discusses the shapes of molecules ([Session 11]({{< baseurl >}}/pages/bonding-and-molecules/11.-the-shapes-of-molecules)).
+Prof. Sadoway discusses the shapes of molecules ({{% resource_link 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5 "Session 11" %}}).
 
 ### Learning Objectives
 
@@ -88,7 +92,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #2 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln02), Section 3
+{{% resource_link 2aee13ce-9bb0-8867-b8d5-816eb0eefc33 "Archived Lecture Notes #2 (PDF)" %}}, Section 3
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -140,7 +144,7 @@ Lecture Video
 
 ### Resources
 
-[Lecture Slides (PDF - 2.1MB)]({{< baseurl >}}/resources/mit3_091scf09_lec10)
+{{% resource_link 8fab69bd-9a8f-6e8d-a2e4-90e8816cfdb5 "Lecture Slides (PDF - 2.1MB)" %}}
 
 ### Lecture Summary
 
@@ -157,9 +161,9 @@ Prof. Sadoway discusses the following concepts:
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw10)
+{{% resource_link 87735dcc-3094-db54-0c4d-02bd86a2a777 "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw10_sol)
+{{% resource_link 38507f45-160f-b3ec-ebbf-8b290948873a "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -247,9 +251,9 @@ Undergraduate (first-year)
 {{< tdopen >}}
 
 
-[Lecture 14: Molecular Orbital Theory](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-14)
+[Lecture 14: Molecular Orbital Theory](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-14)
 
-[Lecture 15: Valence Bond Theory and Hybridization](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-15)
+[Lecture 15: Valence Bond Theory and Hybridization](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-15)
 
 
 {{< tdclose >}}
@@ -258,4 +262,4 @@ Undergraduate (first-year)
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/bonding-and-molecules/9.-drawing-lewis-structures) | [Next]({{< baseurl >}}/pages/bonding-and-molecules/11.-the-shapes-of-molecules) »
+« {{% resource_link 80b4e5be-5325-9c74-0eb6-068392cf19cb "Previous" %}} | {{% resource_link 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5 "Next" %}} »

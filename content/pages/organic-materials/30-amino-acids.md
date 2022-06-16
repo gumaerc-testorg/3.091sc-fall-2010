@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains materials for the class session on Amino Acids. It
+  features a 1-hour lecture video, and also presents the prerequisites, learning objectives,
+  reading assignment, lecture slides, homework with solutions, and resources for further
+  study.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Organic Materials
@@ -9,7 +13,7 @@ title: '30. Biochemistry: Amino Acids'
 uid: 1391526c-977f-6e58-b0c0-b163bcae3d50
 ---
 
-« [Previous]({{< baseurl >}}/pages/organic-materials/29-polymers-synthesis-properties-applications) | [Next]({{< baseurl >}}/pages/organic-materials/31-protein-structure) »
+« {{% resource_link ab1dea66-95b4-5d1a-3cc8-9fa06d9ba941 "Previous" %}} | {{% resource_link 4e61d15e-9ac5-67d9-af48-23d7beaa16b7 "Next" %}} »
 
 Session Overview
 ----------------
@@ -67,8 +71,8 @@ biology, pharmaceuticals, explosives
 
 Before starting this session, you should be familiar with:
 
-*   The prior sessions on polymers in this Organic Materials module ([Session 27]({{< baseurl >}}/pages/organic-materials/27-introduction-to-organic-chemistry) through [Session 29]({{< baseurl >}}/pages/organic-materials/29-polymers-synthesis-properties-applications))
-*   The Aqueous Solutions module ([Session 25]({{< baseurl >}}/pages/aqueous-solutions/25-introduction-to-aqueous-solutions) and [Session 26]({{< baseurl >}}/pages/aqueous-solutions/26-acids-and-bases))
+*   The prior sessions on polymers in this Organic Materials module ({{% resource_link d1c5400e-ad6e-5796-fde9-b0ebffa63afd "Session 27" %}} through {{% resource_link ab1dea66-95b4-5d1a-3cc8-9fa06d9ba941 "Session 29" %}})
+*   The Aqueous Solutions module ({{% resource_link 2d99a337-8fc4-7f5c-57d3-d1e5a4dc19a3 "Session 25" %}} and {{% resource_link 98ba1bf2-d4f9-d827-e295-168909119297 "Session 26" %}})
 
 ### Looking Ahead
 
@@ -119,7 +123,7 @@ Survey of proteins, carbohydrates, lipids, and nucleic acids
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[PB-EOC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-eoc) 17-1 through 17-4 in Chapter 17, "Amino Acids, Peptides, and Proteins."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[PB-EOC\]" "#pb-eoc" %}} 17-1 through 17-4 in Chapter 17, "Amino Acids, Peptides, and Proteins."
 {{< tdclose >}}
 {{< tdopen >}}
 Overview and configurations of the 20 common amino acids; acid-base properties; isoelectric point pI
@@ -128,7 +132,7 @@ Overview and configurations of the 20 common amino acids; acid-base properties; 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[RH\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#rh) 3, "Amino Acids and the Primary Structures of Proteins."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[RH\]" "#rh" %}} 3, "Amino Acids and the Primary Structures of Proteins."
 {{< tdclose >}}
 {{< tdopen >}}
 General structure of amino acids; details on each of the 20 common amino acids; other amino acids and derivatives; ionization of amino acids; creating proteins with peptide bond links
@@ -145,7 +149,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit3_091scf09_lec30)
+{{% resource_link 8bcb388c-7a1b-0b88-e396-aa431bffeafe "Lecture Slides (PDF - 1.2MB)" %}}
 
 ### Lecture Summary
 
@@ -167,9 +171,9 @@ The lecture ends with discussion of the kinetics of organic compounds, specifica
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw30)
+{{% resource_link 9356a217-52c3-a02f-1d74-97bcadfbb7cb "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw30_sol)
+{{% resource_link dbdd5e33-1c47-59cb-23a8-df8b6c801d72 "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -256,4 +260,4 @@ See [Unit 1: Biochemistry](/courses/7-01sc-fundamentals-of-biology-fall-2011/pag
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/organic-materials/29-polymers-synthesis-properties-applications) | [Next]({{< baseurl >}}/pages/organic-materials/31-protein-structure) »
+« {{% resource_link ab1dea66-95b4-5d1a-3cc8-9fa06d9ba941 "Previous" %}} | {{% resource_link 4e61d15e-9ac5-67d9-af48-23d7beaa16b7 "Next" %}} »

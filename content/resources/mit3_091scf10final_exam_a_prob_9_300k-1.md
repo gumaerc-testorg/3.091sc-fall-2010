@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/d1c706a81aaf94c2badec676dea294bd_MIT3_091SCF10Final_Exam_A_Prob_9_300k.pdf
+file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/d1c706a81aaf94c2badec676dea294bd_MIT3_091SCF10Final_Exam_A_Prob_9_300k.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

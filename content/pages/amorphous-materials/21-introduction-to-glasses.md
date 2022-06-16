@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains materials for the session introducing amorphous materials.
+  It features a 1-hour lecture video, and also presents the prerequisites, learning
+  objectives, reading assignment, lecture slides, homework with solutions, and resources
+  for further study.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Amorphous Materials
@@ -9,7 +13,7 @@ title: 21. Introduction to Glasses
 uid: 1d01a4a6-fa92-2854-cead-1f61b1189649
 ---
 
-« [Previous]({{< baseurl >}}/pages/amorphous-materials) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/amorphous-materials/22.-engineering-glass-properties-introduction-to-kinetics) »
+« {{% resource_link 79828d9f-9980-e3bc-b791-bd1403164706 "Previous" %}} | {{% resource_link 593608f5-1309-0383-9a58-fb9a2fb6843a "Next" %}} »
 
 Session Overview
 ----------------
@@ -67,8 +71,8 @@ bottles, jars, food and beverage containers, windows, glass cookware, plastic wr
 
 Before starting this session, you should be familiar with:
 
-*   Shapes of molecules and factors affecting their mobility ([Session 8](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle) through [Session 12](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/12.-intermolecular-forces))
-*   Structure, properties, and methods of characterizing crystals ([Session 15]({{< baseurl >}}/pages/crystalline-materials/15-introduction-to-crystallography) through [Session 20]({{< baseurl >}}/pages/crystalline-materials/20-line-interface-and-bulk-defects))
+*   Shapes of molecules and factors affecting their mobility ({{% resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Session 8" %}} through {{% resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Session 12" %}})
+*   Structure, properties, and methods of characterizing crystals ({{% resource_link 94d7c45c-dd53-4c54-0679-000be37ea165 "Session 15" %}} through {{% resource_link 5c00821f-505a-eeee-270d-29caeda060dc "Session 20" %}})
 
 ### Learning Objectives
 
@@ -82,7 +86,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #7 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln07)
+{{% resource_link 89de42af-0f13-3329-6116-2dbddbeddddc "Archived Lecture Notes #7 (PDF)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -99,7 +103,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.5, "Noncrystalline Solids – Three-Dimensional Imperfections."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 4.5, "Noncrystalline Solids – Three-Dimensional Imperfections."
 {{< tdclose >}}
 {{< tdopen >}}
 Random network theory of solids; long-, medium-, and short-range order; oxide, semiconductor, and metallic glasses; network formers and modifiers
@@ -108,7 +112,7 @@ Random network theory of solids; long-, medium-, and short-range order; oxide, s
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 12.2, "Glasses – Noncrystalline Materials."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 12.2, "Glasses – Noncrystalline Materials."
 {{< tdclose >}}
 {{< tdopen >}}
 Network formers, modifiers, and intermediates; commercial silicate glasses; nonsilicate glasses; applications of amorphous solids
@@ -125,7 +129,7 @@ Lecture Video
 
 ### Resources
 
-[Lecture Slides (PDF - 1.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec21)
+{{% resource_link 599cb191-5195-f9ee-f80d-c8b4e49cfa4b "Lecture Slides (PDF - 1.0MB)" %}}
 
 ### Lecture Summary
 
@@ -134,9 +138,9 @@ Amorphous solids lack **long-range order**, but may have small regions of local 
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw21)
+{{% resource_link f33b7111-a1c2-edf5-3157-f70857f2a4b7 "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw21_sol)
+{{% resource_link 22cd6cac-c77f-7466-f2e0-bd8e082452fb "Solutions (PDF)" %}}
 
 For Further Study
 -----------------
@@ -194,4 +198,4 @@ Undergraduate
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/amorphous-materials) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/amorphous-materials/22.-engineering-glass-properties-introduction-to-kinetics) »
+« {{% resource_link 79828d9f-9980-e3bc-b791-bd1403164706 "Previous" %}} | {{% resource_link 593608f5-1309-0383-9a58-fb9a2fb6843a "Next" %}} »

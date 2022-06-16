@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '613'
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,7 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Clip 1: Exam 1, Problem 1'
 uid: 13c4f6f3-459b-a254-7ed8-0083e2ebbd5d
 video_files:

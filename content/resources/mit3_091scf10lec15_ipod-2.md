@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/9843b783743155c0be5f900921779593_MIT3_091SCF10lec15_iPOD.vtt
+file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/9843b783743155c0be5f900921779593_MIT3_091SCF10lec15_iPOD.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

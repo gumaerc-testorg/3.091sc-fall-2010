@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page contains materials for the solid solutions class session introducing
+  binary phase diagrams with a focus on the complete solubility case. It features
+  a 1-hour lecture video, and also presents the prerequisites, learning objectives,
+  reading assignment, lecture slides, homework with solutions, and resources for further
+  study.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Solid Solutions
@@ -9,7 +14,7 @@ title: '34. Binary Phase Diagrams: Complete Solubility'
 uid: 31cd4459-a0c6-f229-2b86-eee893f5dd0b
 ---
 
-« [Previous]({{< baseurl >}}/pages/solid-solutions/33-unary-phase-diagrams) | [Next]({{< baseurl >}}/pages/solid-solutions/35-binary-phase-diagrams-limited-solubility) »
+« {{% resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Previous" %}} | {{% resource_link 7a815988-3da3-035d-e473-14306ab4f684 "Next" %}} »
 
 Session Overview
 ----------------
@@ -67,11 +72,11 @@ metal refining, metal recycling, ouzo, absinthe, cognac
 
 Before starting this session, you should be familiar with:
 
-*   [Session 33: Unary Phase Diagrams]({{< baseurl >}}/pages/solid-solutions/33-unary-phase-diagrams)
+*   {{% resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Session 33: Unary Phase Diagrams" %}}
 
 ### Looking Ahead
 
-Binary phase diagrams are introduced in this session, and completed in [Session 35]({{< baseurl >}}/pages/solid-solutions/35-binary-phase-diagrams-limited-solubility).
+Binary phase diagrams are introduced in this session, and completed in {{% resource_link 7a815988-3da3-035d-e473-14306ab4f684 "Session 35" %}}.
 
 ### Learning Objectives
 
@@ -85,7 +90,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #10 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln10), Part B and [#10 Supplement (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln10s)
+{{% resource_link 85619733-50a2-e44d-7ee4-e8304272c56f "Archived Lecture Notes #10 (PDF)" %}}, Part B and {{% resource_link caf0d98c-0936-9889-3340-c24e30cb318e "#10 Supplement (PDF)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -102,7 +107,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 9.1, "The Phase Rule."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 9.1, "The Phase Rule."
 {{< tdclose >}}
 {{< tdopen >}}
 Discussion of phase, component, and state; Gibbs phase rule; unary (one-component) phase diagram
@@ -111,7 +116,7 @@ Discussion of phase, component, and state; Gibbs phase rule; unary (one-componen
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 9.2, "The Phase Diagram."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 9.2, "The Phase Diagram."
 {{< tdclose >}}
 {{< tdopen >}}
 Binary phase diagrams; complete solid solutions; eutectic diagrams with no solid and limited solid solutions
@@ -128,7 +133,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 2.5MB)]({{< baseurl >}}/resources/mit3_091scf09_lec34)
+{{% resource_link 67bed876-f84d-bc36-b1cb-5b3a46011d0c "Lecture Slides (PDF - 2.5MB)" %}}
 
 ### Lecture Summary
 
@@ -149,9 +154,9 @@ The lecture ends with a discussion of the history and chemistry of **absinthe**.
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw34)
+{{% resource_link 623c8288-474d-14eb-0c59-6152b39115fa "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw34_sol)
+{{% resource_link c0dffdbb-db19-0764-fc44-d914b2bd5b61 "Solutions (PDF)" %}}
 
 For Further Study
 -----------------
@@ -226,4 +231,4 @@ Undergraduate
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/solid-solutions/33-unary-phase-diagrams) | [Next]({{< baseurl >}}/pages/solid-solutions/35-binary-phase-diagrams-limited-solubility) »
+« {{% resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Previous" %}} | {{% resource_link 7a815988-3da3-035d-e473-14306ab4f684 "Next" %}} »

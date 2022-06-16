@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains materials for the session on x-ray diffraction techniques.
+  It features a 1-hour lecture video, and also presents the prerequisites, learning
+  objectives, reading assignment, lecture slides, homework with solutions, and resources
+  for further study.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Crystalline Materials
@@ -9,7 +13,7 @@ title: 18. X-Ray Diffraction Techniques
 uid: 2f4aa15c-0125-9d84-17ab-ecf218034e84
 ---
 
-« [Previous]({{< baseurl >}}/pages/crystalline-materials/17-x-ray-emission-absorption) | [Next]({{< baseurl >}}/pages/crystalline-materials/19-point-and-line-defects) »
+« {{% resource_link e504c6fa-63f4-b438-cb24-0e0ef9bc60eb "Previous" %}} | {{% resource_link 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4 "Next" %}} »
 
 Session Overview
 ----------------
@@ -65,7 +69,7 @@ growth of single-crystal Si, identification of planes and symmetry in crystals, 
 
 ### Prerequisites
 
-Before starting this session, you should be familiar with the prior topics in this module ([Session 15]({{< baseurl >}}/pages/crystalline-materials/15-introduction-to-crystallography) through [Session 17]({{< baseurl >}}/pages/crystalline-materials/17-x-ray-emission-absorption)), especially:
+Before starting this session, you should be familiar with the prior topics in this module ({{% resource_link 94d7c45c-dd53-4c54-0679-000be37ea165 "Session 15" %}} through {{% resource_link e504c6fa-63f4-b438-cb24-0e0ef9bc60eb "Session 17" %}}), especially:
 
 *   Miller indices for crystal directions and planes
 *   SC, FCC, and BCC crystal structures
@@ -73,7 +77,7 @@ Before starting this session, you should be familiar with the prior topics in th
 
 ### Looking Ahead
 
-X-ray diffraction is a popular technique to discover the structures of organic molecules such as proteins ([Session 31]({{< baseurl >}}/pages/organic-materials/31-protein-structure)) and, most famously, DNA ([Session 32]({{< baseurl >}}/pages/organic-materials/32-lipids-nucleic-acids-dna)), as well as inorganic crystals. It is also used to determine the degree of long-range order and symmetry present in a crystal, or lacking in a glass, which is the topic of the next module ([Session 21: Introduction to Glasses]({{< baseurl >}}/pages/amorphous-materials/21-introduction-to-glasses)).
+X-ray diffraction is a popular technique to discover the structures of organic molecules such as proteins ({{% resource_link 4e61d15e-9ac5-67d9-af48-23d7beaa16b7 "Session 31" %}}) and, most famously, DNA ({{% resource_link 3db3383b-b411-d2fc-45f2-4495b3640825 "Session 32" %}}), as well as inorganic crystals. It is also used to determine the degree of long-range order and symmetry present in a crystal, or lacking in a glass, which is the topic of the next module ({{% resource_link 1d01a4a6-fa92-2854-cead-1f61b1189649 "Session 21: Introduction to Glasses" %}}).
 
 ### Learning Objectives
 
@@ -88,7 +92,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #5 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln05), Sections 4-6
+{{% resource_link b61fb9c4-9126-d987-3b26-44016348e605 "Archived Lecture Notes #5 (PDF)" %}}, Sections 4-6
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -114,7 +118,7 @@ Common structures of binary compounds, x-ray diffraction
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 3.7, "X-Ray Diffraction."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 3.7, "X-Ray Diffraction."
 {{< tdclose >}}
 {{< tdopen >}}
 Diffraction, Braggs' law and reflection rules; single-crystal, polycrystal, and powder diffraction techniques
@@ -131,7 +135,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 5.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec18)
+{{% resource_link e20fd8f3-e73b-3408-320e-a1dae9dc12ec "Lecture Slides (PDF - 5.3MB)" %}}
 
 ### Lecture Summary
 
@@ -140,13 +144,13 @@ X-rays reflect off each atomic plane in a crystal, producing patterns of **destr
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw18)
+{{% resource_link 5329c171-e045-015d-eafc-83f199741631 "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw18_sol)
+{{% resource_link ec60f891-3240-0083-b748-c3dcde9e6e67 "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) Chapter 3, Sample Problems 20, 21
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} Chapter 3, Sample Problems 20, 21
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -239,4 +243,4 @@ Undergraduate
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/crystalline-materials/17-x-ray-emission-absorption) | [Next]({{< baseurl >}}/pages/crystalline-materials/19-point-and-line-defects) »
+« {{% resource_link e504c6fa-63f4-b438-cb24-0e0ef9bc60eb "Previous" %}} | {{% resource_link 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4 "Next" %}} »

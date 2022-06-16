@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1431'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Self-Assessment: Bonding and Molecules'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Clip 1: Exam 1, Problem 3'
 uid: 4cd47b51-0aa0-1160-d073-998aff34a18c
 video_files:

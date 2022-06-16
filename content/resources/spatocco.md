@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bc1cf0f904fda3c605a004abff67fe8e_spatocco.jpg
+file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bc1cf0f904fda3c605a004abff67fe8e_spatocco.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

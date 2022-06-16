@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains materials for the biochemistry class session on lipids,
+  nucleic acids and DNA. It features a 1-hour lecture video, and also presents the
+  prerequisites, learning objectives, reading assignment, lecture slides, homework
+  with solutions, and resources for further study.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Organic Materials
@@ -9,7 +13,7 @@ title: '32. Biochemistry: Lipids, Nucleic Acids & DNA'
 uid: 3db3383b-b411-d2fc-45f2-4495b3640825
 ---
 
-« [Previous]({{< baseurl >}}/pages/organic-materials/31-protein-structure) | [Next]({{< baseurl >}}/pages/organic-materials/self-assessment-organic-materials) »
+« {{% resource_link 4e61d15e-9ac5-67d9-af48-23d7beaa16b7 "Previous" %}} | {{% resource_link d4c48520-c374-4193-77d0-62d4fd87b4d0 "Next" %}} »
 
 Session Overview
 ----------------
@@ -67,11 +71,11 @@ cooking food, pickling food, hair styling, laundry detergent
 
 Before starting this session, you should be familiar with:
 
-*   Prior sessions in this Organic Materials module (starting with [Session 27]({{< baseurl >}}/pages/organic-materials/27-introduction-to-organic-chemistry)), and particularly the fundamentals of protein structure as described in [Session 31]({{< baseurl >}}/pages/organic-materials/31-protein-structure): 
+*   Prior sessions in this Organic Materials module (starting with {{% resource_link d1c5400e-ad6e-5796-fde9-b0ebffa63afd "Session 27" %}}), and particularly the fundamentals of protein structure as described in {{% resource_link 4e61d15e-9ac5-67d9-af48-23d7beaa16b7 "Session 31" %}}: 
     *   Composition (primary structure of amino acid chains)
     *   Packing (secondary structures of alpha helix, beta pleated sheet, and random coil),
     *   Conformation (tertiary structure or folding caused by R-group interactions)
-*   X-ray crystallography, as introduced in [Session 18: X-Ray Diffraction Techniques]({{< baseurl >}}/pages/crystalline-materials/18-x-ray-diffraction-techniques)
+*   X-ray crystallography, as introduced in {{% resource_link 2f4aa15c-0125-9d84-17ab-ecf218034e84 "Session 18: X-Ray Diffraction Techniques" %}}
 
 ### Learning Objectives
 
@@ -110,7 +114,7 @@ Overview of lipids and nucleic acids
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[PB-EOC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-eoc) 20-1 through 20-5 in Chapter 20, "Lipids."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[PB-EOC\]" "#pb-eoc" %}} 20-1 through 20-5 in Chapter 20, "Lipids."
 {{< tdclose >}}
 {{< tdopen >}}
 Fatty acids; waxes; fats and oils; soaps, detergents, and micelles; phospholipids
@@ -119,7 +123,7 @@ Fatty acids; waxes; fats and oils; soaps, detergents, and micelles; phospholipid
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[PB-EOC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-eoc) 21-2, 21-5, and 21-8 in Chapter 21, "Nucleosides, Nucleotides, and Nucleic Acids."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[PB-EOC\]" "#pb-eoc" %}} 21-2, 21-5, and 21-8 in Chapter 21, "Nucleosides, Nucleotides, and Nucleic Acids."
 {{< tdclose >}}
 {{< tdopen >}}
 Overview of nucleic acids; DNA and heredity; biosynthesis of proteins via translation
@@ -136,7 +140,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 4.1MB)]({{< baseurl >}}/resources/mit3_091scf09_lec32)
+{{% resource_link 3ee9190e-4569-1927-8563-13f966209d22 "Lecture Slides (PDF - 4.1MB)" %}}
 
 ### Lecture Summary
 
@@ -165,18 +169,18 @@ This lecture ends with a history of the **discovery of DNA's double helix struct
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw32)
+{{% resource_link 17f537a2-7fff-1aea-c95c-3f476e16ee66 "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw32_sol)
+{{% resource_link ef3de1ec-e826-cae6-60e3-011aec46bc58 "Solutions (PDF)" %}}
 
 For Further Study
 -----------------
 
 ### Supplemental Readings
 
-Watson, J. D., and F. H. C. Crick. "[Molecular Structure of Nucleic Acids.](http://dx.doi.org/10.1038/171737a0)" _Nature_ 171 (1953): 737-738. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
+Watson, J. D., and F. H. C. Crick. "[Molecular Structure of Nucleic Acids.](http://dx.doi.org/10.1038/171737a0)" _Nature_ 171 (1953): 737-738. ([PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
 
-Franklin, R., and R. G. Gosling. "[Molecular Configuration in Sodium Thymonucleate.](http://dx.doi.org/10.1038/171740a0)" _Nature_ 171 (1953): 740-741. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nature.com/nature/dna50/franklingosling.pdf))
+Franklin, R., and R. G. Gosling. "[Molecular Configuration in Sodium Thymonucleate.](http://dx.doi.org/10.1038/171740a0)" _Nature_ 171 (1953): 740-741. ([PDF](http://www.nature.com/nature/dna50/franklingosling.pdf))
 
 Judson, Horace Freeland. _The Eighth Day of Creation: Makers of the Revolution in Biology._ 25th anniversary edition. Woodbury, NY: Cold Spring Harbor Laboratory Press, 1996. ISBN: 9780879694784.
 
@@ -239,4 +243,4 @@ See [Unit 1: Biochemistry](/courses/7-01sc-fundamentals-of-biology-fall-2011/pag
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/organic-materials/31-protein-structure) | [Next]({{< baseurl >}}/pages/organic-materials/self-assessment-organic-materials) »
+« {{% resource_link 4e61d15e-9ac5-67d9-af48-23d7beaa16b7 "Previous" %}} | {{% resource_link d4c48520-c374-4193-77d0-62d4fd87b4d0 "Next" %}} »

@@ -1,18 +1,22 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview with video introduction
+  by Prof. Sadoway; background information on prerequisites, learning objectives,
+  and expectations; a summary of the course topics and structure; information about
+  reference materials and suggested textbooks, and technical requirements.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 116bf279-d466-43e7-0e0e-4cd163f567f1
 ---
 
-« [Previous]({{< baseurl >}}/pages/index.htm) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/1-introduction-to-solid-state-chemistry) »
+« [Previous]({{< baseurl >}}/pages/index.htm) | {{% resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Next" %}} »
 
 {{< resource f60f2e80-2577-5c4f-f93f-8a536c0d5531 >}}
 
 ### Resources
 
-[Transcript (PDF)]({{< baseurl >}}/resources/mit3_091scf10_intro_300k)
+{{% resource_link 4487f67e-709a-da9b-f06f-ba43fef61f69 "Transcript (PDF)" %}}
 
 In this video:
 
@@ -87,7 +91,7 @@ At MIT, this class meets five times per week for fourteen weeks, with three one-
 
 _Homework_: At MIT, homework for this course is not graded. You should consider working these problems to be an essential part of developing your knowledge. At MIT, working together in groups on is common and even encouraged.
 
-_Self-Assessment_: The self-assessment and final exam portions of 3.091SC are compiled from in-class examinations. They are intended for you to demonstrate your mastery of the material. You should work these problems on your own, closed-book, using only a calculator, a periodic table and list of fundamental constants (see [Reference Materials]({{< baseurl >}}/pages/syllabus/suggested-textbooks#ref)), and one 8.5" x 11" aid sheet containing your choice of formulas and other information.
+_Self-Assessment_: The self-assessment and final exam portions of 3.091SC are compiled from in-class examinations. They are intended for you to demonstrate your mastery of the material. You should work these problems on your own, closed-book, using only a calculator, a periodic table and list of fundamental constants (see {{% resource_link 9abd92d7-66e1-b816-f50d-00770b2420e1 "Reference Materials" "#ref" %}}), and one 8.5" x 11" aid sheet containing your choice of formulas and other information.
 
 Course Topics
 -------------
@@ -96,25 +100,25 @@ Course Topics
 
 *   _Foundations_
     
-    *   [Structure of the Atom]({{< baseurl >}}/pages/structure-of-the-atom) - The periodic table, elements and compounds, chemical formulas. Evolution of atomic theory: Thomson & Rutherford, Bohr model of hydrogen, Bohr-Sommerfeld model and multi-electron atoms, atomic spectra, Schrödinger equation. Electron orbitals: Aufbau principle, Pauli exclusion principle, and Hund's rules.
+    *   {{% resource_link 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a "Structure of the Atom" %}} - The periodic table, elements and compounds, chemical formulas. Evolution of atomic theory: Thomson & Rutherford, Bohr model of hydrogen, Bohr-Sommerfeld model and multi-electron atoms, atomic spectra, Schrödinger equation. Electron orbitals: Aufbau principle, Pauli exclusion principle, and Hund's rules.
         *   Sessions 1, 2, 3, 4, 5, 6, 7
-    *   [Bonding and Molecules]({{< baseurl >}}/pages/bonding-and-molecules) - Primary bonding: ionic, covalent, metallic. Secondary bonding: dipole-dipole, induced dipole-induced dipole, London dispersion/van der Waals, hydrogen. Shapes of molecules: hybridization, LCAO-MO, VSEPR theory.
+    *   {{% resource_link 6ea956c8-cef5-f99e-6904-09f06d8d5317 "Bonding and Molecules" %}} - Primary bonding: ionic, covalent, metallic. Secondary bonding: dipole-dipole, induced dipole-induced dipole, London dispersion/van der Waals, hydrogen. Shapes of molecules: hybridization, LCAO-MO, VSEPR theory.
         *   Sessions 8, 9, 10, 11, 12
-    *   [Reactions and Kinetics]({{< baseurl >}}/pages/reactions-and-kinetics) - Reaction kinetics: rate laws, thermal activation, and the Arrhenius equation. Diffusion: Fick's first and second laws.
+    *   {{% resource_link 885d39b1-395a-748c-e5bf-46da89d7dc8d "Reactions and Kinetics" %}} - Reaction kinetics: rate laws, thermal activation, and the Arrhenius equation. Diffusion: Fick's first and second laws.
         *   Sessions 22 (second part), 23, 24
 *   _Applications_
     
-    *   [Electronic Materials]({{< baseurl >}}/pages/electronic-materials) - Band theory: metals, insulators, and semiconductors. Band gaps, doping, and devices.
+    *   {{% resource_link 391990ee-f653-5d34-974e-42391c0cb5b5 "Electronic Materials" %}} - Band theory: metals, insulators, and semiconductors. Band gaps, doping, and devices.
         *   Sessions 13, 14, 15 (first part)
-    *   [Crystalline Materials]({{< baseurl >}}/pages/crystalline-materials) - Crystal structure: 7 crystal systems, 14 Bravais lattices, Miller indices. Properties of cubic crystals. X-ray diffraction. Defects: point, line, surface, bulk.
+    *   {{% resource_link b66bb6b5-1948-c461-fd27-7f44614156ed "Crystalline Materials" %}} - Crystal structure: 7 crystal systems, 14 Bravais lattices, Miller indices. Properties of cubic crystals. X-ray diffraction. Defects: point, line, surface, bulk.
         *   Sessions 15 (second part), 16, 17, 18, 19, 20
-    *   [Amorphous Materials]({{< baseurl >}}/pages/amorphous-materials) - Inorganic glasses: silicates, other oxides, metallics.
+    *   {{% resource_link 79828d9f-9980-e3bc-b791-bd1403164706 "Amorphous Materials" %}} - Inorganic glasses: silicates, other oxides, metallics.
         *   Sessions 21, 22 (first part)
-    *   [Aqueous Solutions]({{< baseurl >}}/pages/aqueous-solutions) - Liquids and solutions: solubility rules, acids, bases, pH.
+    *   {{% resource_link 6ec96be4-5df9-d10d-17f2-85df51807e05 "Aqueous Solutions" %}} - Liquids and solutions: solubility rules, acids, bases, pH.
         *   Sessions 25, 26
-    *   [Organic Materials]({{< baseurl >}}/pages/organic-materials) - Organic compounds: nomenclature, alkanes, alkenes, alkynes, aromatics, functional groups. Polymers: structure, composition, synthesis and applications. Biochemistry: amino acids, peptides and proteins, lipids, nucleic acids, protein biosynthesis.
+    *   {{% resource_link 0ab5962f-08b0-e5dd-2488-7c3659767245 "Organic Materials" %}} - Organic compounds: nomenclature, alkanes, alkenes, alkynes, aromatics, functional groups. Polymers: structure, composition, synthesis and applications. Biochemistry: amino acids, peptides and proteins, lipids, nucleic acids, protein biosynthesis.
         *   Sessions 27, 28, 29, 30, 31, 32
-    *   [Solid Solutions]({{< baseurl >}}/pages/solid-solutions) - Phase stability: unary and binary phase diagrams.
+    *   {{% resource_link f6e01e0c-3963-e495-1396-598462ae7d02 "Solid Solutions" %}} - Phase stability: unary and binary phase diagrams.
         *   Sessions 33, 34, 35
 
 Course Structure
@@ -144,7 +148,7 @@ After you've done all the readings, watched all the lecture videos, and complete
 *   **Exam Problems:** These problems from the Fall 2009 tests verify that you've developed the appropriate depth of understanding, before you move on to the next module.
 *   **Help Session Videos**: In these informal videos, three teaching assistants from the Fall 2009 class work through their approach to solving the exam problems.
     
-    » [Meet the TAs]({{< baseurl >}}/pages/syllabus/meet-the-tas)
+    » {{% resource_link af4b0715-adb4-b3d3-3e69-af564b71c30e "Meet the TAs" %}}
     
 *   **Supplemental Exam Problems:** These additional exam problems from prior year classes are provided for optional further study.
 
@@ -169,13 +173,13 @@ Successful progress in this course will be helped greatly by having access to th
 
 A detailed periodic table of the elements and a table of fundamental physical constants are essential references used throughout the course. These are provided at the following link.
 
-» [Reference materials and a list of suggested textbooks]({{< baseurl >}}/pages/syllabus/suggested-textbooks)
+» {{% resource_link 9abd92d7-66e1-b816-f50d-00770b2420e1 "Reference materials and a list of suggested textbooks" %}}
 
 Technical Requirements
 ----------------------
 
 This course includes functionality that does not display correctly in Internet Explorer. For best results, we recommend viewing this course with [Firefox](http://www.mozilla.com/en-US/firefox/), [Safari](http://www.apple.com/safari/) or [Chrome](http://www.google.com/chrome).
 
-Looking for something specific in this course? The [Resource Index]({{< baseurl >}}/pages/resource-index) compiles links to most course resources in a single page.
+Looking for something specific in this course? The {{% resource_link 4ea8b3b8-9024-9860-0ee4-f20d41fcc23c "Resource Index" %}} compiles links to most course resources in a single page.
 
-« [Previous]({{< baseurl >}}/pages/index.htm) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/1-introduction-to-solid-state-chemistry) »
+« [Previous]({{< baseurl >}}/pages/index.htm) | {{% resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Next" %}} »

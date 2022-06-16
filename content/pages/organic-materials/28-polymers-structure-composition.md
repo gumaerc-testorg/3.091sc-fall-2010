@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains materials for the class session on polymer structure
+  and composition. It features a 1-hour lecture video, and also presents the prerequisites,
+  learning objectives, reading assignment, lecture slides, homework with solutions,
+  and resources for further study.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Organic Materials
@@ -9,7 +13,7 @@ title: '28. Polymers: Structure & Composition'
 uid: f8c2db6d-2332-71ec-1747-b2c8369b532e
 ---
 
-« [Previous]({{< baseurl >}}/pages/organic-materials/27-introduction-to-organic-chemistry) | [Next]({{< baseurl >}}/pages/organic-materials/29-polymers-synthesis-properties-applications) »
+« {{% resource_link d1c5400e-ad6e-5796-fde9-b0ebffa63afd "Previous" %}} | {{% resource_link ab1dea66-95b4-5d1a-3cc8-9fa06d9ba941 "Next" %}} »
 
 Session Overview
 ----------------
@@ -67,7 +71,7 @@ Manufactured products of the past 80-100 years, vulcanized rubber
 
 Before starting this session, you should be familiar with:
 
-*   [Session 27: Organic Chemistry]({{< baseurl >}}/pages/organic-materials/27-introduction-to-organic-chemistry)
+*   {{% resource_link d1c5400e-ad6e-5796-fde9-b0ebffa63afd "Session 27: Organic Chemistry" %}}
 
 ### Looking Ahead
 
@@ -118,7 +122,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF)]({{< baseurl >}}/resources/mit3_091scf09_lec28)
+{{% resource_link 7c83f128-0797-ebde-4c7a-deaeb11d4cc9 "Lecture Slides (PDF)" %}}
 
 ### Lecture Summary
 
@@ -139,9 +143,9 @@ The class ends with a quick recounting of the discovery and impact of **rubber v
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw28)
+{{% resource_link 4f3f54ed-baa4-767d-d50f-720a2bfb0a01 "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw28_sol)
+{{% resource_link 63768218-aa4a-7a99-eb1c-3e8375012a66 "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -228,4 +232,4 @@ Undergraduate
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/organic-materials/27-introduction-to-organic-chemistry) | [Next]({{< baseurl >}}/pages/organic-materials/29-polymers-synthesis-properties-applications) »
+« {{% resource_link d1c5400e-ad6e-5796-fde9-b0ebffa63afd "Previous" %}} | {{% resource_link ab1dea66-95b4-5d1a-3cc8-9fa06d9ba941 "Next" %}} »

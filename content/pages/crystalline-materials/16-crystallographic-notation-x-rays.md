@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains materials for the session on crystallographic notation
+  and the discovery of x-rays. It features a 1-hour lecture video, and also presents
+  the prerequisites, learning objectives, reading assignment, lecture slides, homework
+  with solutions, and resources for further study.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Crystalline Materials
@@ -9,7 +13,7 @@ title: 16. Crystallographic Notation & X-Rays
 uid: e22836d9-83d9-ad9c-8310-e4357bb64a92
 ---
 
-« [Previous]({{< baseurl >}}/pages/crystalline-materials/15-introduction-to-crystallography) | [Next]({{< baseurl >}}/pages/crystalline-materials/17-x-ray-emission-absorption) »
+« {{% resource_link 94d7c45c-dd53-4c54-0679-000be37ea165 "Previous" %}} | {{% resource_link e504c6fa-63f4-b438-cb24-0e0ef9bc60eb "Next" %}} »
 
 Session Overview
 ----------------
@@ -68,13 +72,13 @@ x-ray spectroscopy, medical/dental x-rays, quality assurance of welds, airport b
 Before starting this session, you should be familiar with:
 
 *   Basic 3D coordinate geometry and trigonometry, including vectors and planes
-*   Photon frequency, wavelength, and energy ([Session 3]({{< baseurl >}}/pages/structure-of-the-atom/3-atomic-models))
-*   Atomic absorption and emission of photons ([Session 4]({{< baseurl >}}/pages/structure-of-the-atom/4-matter-energy-interactions))
-*   Cubic crystal structures ([Session 15]({{< baseurl >}}/pages/crystalline-materials/15-introduction-to-crystallography))
+*   Photon frequency, wavelength, and energy ({{% resource_link 313524b4-840e-e388-74ee-c0ea90001bd5 "Session 3" %}})
+*   Atomic absorption and emission of photons ({{% resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Session 4" %}})
+*   Cubic crystal structures ({{% resource_link 94d7c45c-dd53-4c54-0679-000be37ea165 "Session 15" %}})
 
 ### Looking Ahead
 
-[Session 17]({{< baseurl >}}/pages/crystalline-materials/17-x-ray-emission-absorption) and [Session 18]({{< baseurl >}}/pages/crystalline-materials/18-x-ray-diffraction-techniques) explain more about the use of x-rays for investigating the structure of crystals and molecules.
+{{% resource_link e504c6fa-63f4-b438-cb24-0e0ef9bc60eb "Session 17" %}} and {{% resource_link 2f4aa15c-0125-9d84-17ab-ecf218034e84 "Session 18" %}} explain more about the use of x-rays for investigating the structure of crystals and molecules.
 
 ### Learning Objectives
 
@@ -90,9 +94,9 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #4 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln04), Section 4
+{{% resource_link 307d3b60-4911-0c84-5d05-0060daad44a0 "Archived Lecture Notes #4 (PDF)" %}}, Section 4
 
-[Archived Lecture Notes #5 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln05), Section 1
+{{% resource_link b61fb9c4-9126-d987-3b26-44016348e605 "Archived Lecture Notes #5 (PDF)" %}}, Section 1
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -118,7 +122,7 @@ The unit cell; packing of spheres
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 3.2, "Metal Structures."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 3.2, "Metal Structures."
 {{< tdclose >}}
 {{< tdopen >}}
 Body-centered cubic, face-centered cubic/cubic close-packed, and hexagonal close-packed structures; atomic packing factor; plane stacking
@@ -127,7 +131,7 @@ Body-centered cubic, face-centered cubic/cubic close-packed, and hexagonal close
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 3.6, "Lattice Positions, Directions, and Planes."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 3.6, "Lattice Positions, Directions, and Planes."
 {{< tdclose >}}
 {{< tdopen >}}
 Lattice points and translations; lattice directions and planes; Miller indices; families of directions and planes; planar and linear atomic density
@@ -144,7 +148,7 @@ Lecture Video
 
 ### Resources
 
-[Lecture Slides (PDF)]({{< baseurl >}}/resources/mit3_091scf09_lec16)
+{{% resource_link dcdd374f-a5d1-eea5-37e0-8f2148b90cda "Lecture Slides (PDF)" %}}
 
 ### Lecture Summary
 
@@ -155,13 +159,13 @@ Lecture Video
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw16)
+{{% resource_link 6014333d-bc9b-f654-e510-f4c0b0a4803b "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw16_sol)
+{{% resource_link 0e1ee253-9dce-f492-0c7e-17c8a4a1a1d5 "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) Chapter 3, Sample Problems 8-10, 13-19; Practice Problems 11-14, 16-21
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} Chapter 3, Sample Problems 8-10, 13-19; Practice Problems 11-14, 16-21
 
 For Further Study
 -----------------
@@ -230,4 +234,4 @@ Undergraduate
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/crystalline-materials/15-introduction-to-crystallography) | [Next]({{< baseurl >}}/pages/crystalline-materials/17-x-ray-emission-absorption) »
+« {{% resource_link 94d7c45c-dd53-4c54-0679-000be37ea165 "Previous" %}} | {{% resource_link e504c6fa-63f4-b438-cb24-0e0ef9bc60eb "Next" %}} »

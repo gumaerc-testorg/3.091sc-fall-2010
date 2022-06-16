@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains materials for the session on semiconductors. It features
+  a 1-hour lecture video, and also presents the prerequisites, learning objectives,
+  reading assignment, lecture slides, homework with solutions, and resources for further
+  study.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Electronic Materials
@@ -9,7 +13,7 @@ title: 14. Semiconductors
 uid: f218eec6-2b6b-13b4-b233-61a7fc3abb81
 ---
 
-« [Previous]({{< baseurl >}}/pages/electronic-materials/13-band-theory-of-solids) | [Next]({{< baseurl >}}/pages/electronic-materials/self-assessment-electronic-materials) »
+« {{% resource_link c567f1c9-3666-523f-ed70-cea0765d0080 "Previous" %}} | {{% resource_link 3452e351-524d-2e8f-7020-05d4103e2aaf "Next" %}} »
 
 Session Overview
 ----------------
@@ -65,7 +69,7 @@ light-emitting diodes (LEDs) in traffic lights and electronics, CD/DVD optical d
 
 ### Prerequisites
 
-Before starting this session, you should be familiar with topics from Structure of the Atom ([Session 1]({{< baseurl >}}/pages/structure-of-the-atom/1-introduction-to-solid-state-chemistry) through [Session 7]({{< baseurl >}}/pages/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy)), including:
+Before starting this session, you should be familiar with topics from Structure of the Atom ({{% resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Session 1" %}} through {{% resource_link d0470d3e-350a-e01c-66ab-ad1825f65352 "Session 7" %}}), including:
 
 *   Photon frequency, wavelength, and energy
 *   Atomic absorption and emission of photons
@@ -73,9 +77,9 @@ Before starting this session, you should be familiar with topics from Structure 
 
 ### Looking Ahead
 
-Some material from this session spills over into the next ([Session 15]({{< baseurl >}}/pages/crystalline-materials/15-introduction-to-crystallography)); **make sure** you've covered it before moving on to the Electronic Materials [Self-Assessment]({{< baseurl >}}/pages/electronic-materials/14-semiconductors) page.
+Some material from this session spills over into the next ({{% resource_link 94d7c45c-dd53-4c54-0679-000be37ea165 "Session 15" %}}); **make sure** you've covered it before moving on to the Electronic Materials {{% resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Self-Assessment" %}} page.
 
-[Session 19]({{< baseurl >}}/pages/crystalline-materials/19-point-and-line-defects) discusses the behavior and location of dopants in crystal lattices, and [Session 24]({{< baseurl >}}/pages/reactions-and-kinetics/24-diffusion) explains how to control the depth and concentration of dopants via diffusion. The Maxwell-Boltzmann curve describes other processes governed by thermal activity, such as crystal vacancies and defects ([Session 19]({{< baseurl >}}/pages/crystalline-materials/19-point-and-line-defects)) and chemical reaction kinetics ([Session 23]({{< baseurl >}}/pages/reactions-and-kinetics/23-reaction-rates)).
+{{% resource_link 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4 "Session 19" %}} discusses the behavior and location of dopants in crystal lattices, and {{% resource_link 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7 "Session 24" %}} explains how to control the depth and concentration of dopants via diffusion. The Maxwell-Boltzmann curve describes other processes governed by thermal activity, such as crystal vacancies and defects ({{% resource_link 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4 "Session 19" %}}) and chemical reaction kinetics ({{% resource_link 568956d9-4b5b-b4e9-70b5-553efd337767 "Session 23" %}}).
 
 ### Learning Objectives
 
@@ -89,7 +93,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #3 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln03)
+{{% resource_link 44adf21b-920f-69e8-c809-b1ab75b62d0a "Archived Lecture Notes #3 (PDF)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -123,7 +127,7 @@ Lecture Video
 
 ### Resources
 
-[Lecture Slides (PDF - 2.5MB)]({{< baseurl >}}/resources/mit3_091scf09_lec14)
+{{% resource_link be21c013-63b2-ff05-878c-c644c9454bdd "Lecture Slides (PDF - 2.5MB)" %}}
 
 ### Lecture Summary
 
@@ -132,9 +136,9 @@ In **intrinsic semiconductors**, electron-hole **charge carrier pairs** are prom
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw14)
+{{% resource_link 4ca00f4d-1d6c-ecc3-1145-b87e525cacc7 "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw14_sol)
+{{% resource_link 54baade8-1b98-48d5-da26-f24b2e8caf5e "Solutions (PDF)" %}}
 
 For Further Study
 -----------------
@@ -247,9 +251,9 @@ Undergraduate (first-year)
 {{< tdopen >}}
 
 
-[Lecture 14: Distribution of Molecular Energies](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-14-distribution-molecular-energies) (Maxwell-Boltzmann statistics)
+[Lecture 14: Distribution of Molecular Energies](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture-14-distribution-molecular-energies) (Maxwell-Boltzmann statistics)
 
-Start - 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-34-bonding-in-metals-and-semiconductors) (semiconductors)
+Start - 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture-34-bonding-in-metals-and-semiconductors) (semiconductors)
 
 
 {{< tdclose >}}
@@ -288,4 +292,4 @@ Undergraduate (elective)
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/electronic-materials/13-band-theory-of-solids) | [Next]({{< baseurl >}}/pages/electronic-materials/self-assessment-electronic-materials) »
+« {{% resource_link c567f1c9-3666-523f-ed70-cea0765d0080 "Previous" %}} | {{% resource_link 3452e351-524d-2e8f-7020-05d4103e2aaf "Next" %}} »

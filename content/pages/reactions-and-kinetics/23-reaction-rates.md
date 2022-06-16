@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains materials for the session on rates of reaction. It
+  features a 1-hour lecture video, and also presents the prerequisites, learning objectives,
+  reading assignment, lecture slides, homework with solutions, and resources for further
+  study.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Reactions and Kinetics
@@ -9,7 +13,7 @@ title: 23. Reaction Rates
 uid: 568956d9-4b5b-b4e9-70b5-553efd337767
 ---
 
-« [Previous]({{< baseurl >}}/pages/amorphous-materials/self-assessment-amorphous-materials) | [Next]({{< baseurl >}}/pages/reactions-and-kinetics/24-diffusion) »
+« {{% resource_link cbb4c14e-67cf-57ab-0634-902e7e8953ff "Previous" %}} | {{% resource_link 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7 "Next" %}} »
 
 Session Overview
 ----------------
@@ -47,7 +51,7 @@ steric hindrance, cisplatin, first-order, second-order, zero-order, half-life, r
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-dinitrogen pentoxide (N{{< sub "2" >}}O{{< sub "5" >}}), nitrogen dioxide (NO{{< sub "2" >}}), oxygen gas (O{{< sub "2" >}}), nitric oxide (NO), cisplatin (PtCl{{< sub "2" >}}(NH{{< sub "3" >}}){{< sub "2" >}}), water (H{{< sub "2" >}}O), chloride (Cl{{< sup "\\-" >}}), uranium-238 ({{< sup "238" >}}U), thorium-234 ({{< sup "234" >}}Th), helium ({{< sup "4" >}}He), carbon monoxide (CO), carbon dioxide (CO{{< sub "2" >}}), carbon (C), silicon (Si), boron (B), diborane (B{{< sub "2" >}}H{{< sub "6" >}}), hydrogen gas (H{{< sub "2" >}}), octane (C{{< sub "8" >}}H{{< sub "18" >}}), platinum (Pt), palladium (Pd), rhodium (Rh)
+dinitrogen pentoxide (N{{< sub "2" >}}O{{< sub "5" >}}), nitrogen dioxide (NO{{< sub "2" >}}), oxygen gas (O{{< sub "2" >}}), nitric oxide (NO), cisplatin (PtCl{{< sub "2" >}}(NH{{< sub "3" >}}){{< sub "2" >}}), water (H{{< sub "2" >}}O), chloride (Cl{{< sup "\-" >}}), uranium-238 ({{< sup "238" >}}U), thorium-234 ({{< sup "234" >}}Th), helium ({{< sup "4" >}}He), carbon monoxide (CO), carbon dioxide (CO{{< sub "2" >}}), carbon (C), silicon (Si), boron (B), diborane (B{{< sub "2" >}}H{{< sub "6" >}}), hydrogen gas (H{{< sub "2" >}}), octane (C{{< sub "8" >}}H{{< sub "18" >}}), platinum (Pt), palladium (Pd), rhodium (Rh)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,9 +71,9 @@ cisplatin, radiocarbon dating, automobile catalytic converter, semiconductor waf
 
 Before starting this session, you should be familiar with:
 
-*   [Session 22: Introduction to Kinetics (second part)](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/amorphous-materials/22.-engineering-glass-properties-introduction-to-kinetics)
+*   {{% resource_link 593608f5-1309-0383-9a58-fb9a2fb6843a "Session 22: Introduction to Kinetics (second part)" %}}
 *   Derivative and integral notation, logarithms, fitting a curve to data
-*   Doping of semiconductors and thermal excitation ([Session 14]({{< baseurl >}}/pages/electronic-materials/14-semiconductors))
+*   Doping of semiconductors and thermal excitation ({{% resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Session 14" %}})
 
 ### Learning Objectives
 
@@ -84,9 +88,9 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #8 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln08), Sections 4-7
+{{% resource_link 77aedff7-4af7-4be5-aa06-d4b580bed800 "Archived Lecture Notes #8 (PDF)" %}}, Sections 4-7
 
-[Archived Lecture Notes #9 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln09), Section 1
+{{% resource_link e984fbef-9101-02c3-4ac5-ef86f1c939c8 "Archived Lecture Notes #9 (PDF)" %}}, Section 1
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -148,7 +152,7 @@ Graphing reaction concentration data to show reaction orders and rate constants;
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.1, "Thermally Activated Processes."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 5.1, "Thermally Activated Processes."
 {{< tdclose >}}
 {{< tdopen >}}
 Arrhenius equation; activation energy; Maxwell-Boltzmann distribution; process mechanisms and rate-limiting steps
@@ -157,7 +161,7 @@ Arrhenius equation; activation energy; Maxwell-Boltzmann distribution; process m
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.2, "Thermal Production of Point Defects."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 5.2, "Thermal Production of Point Defects."
 {{< tdclose >}}
 {{< tdopen >}}
 Activation energy of vacancies vs. interstitials; Arrhenius plot; thermal expansion
@@ -174,7 +178,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.4MB)]({{< baseurl >}}/resources/mit3_091scf09_lec23)
+{{% resource_link 76b20538-5820-149e-6cd1-3b74c33fc2e0 "Lecture Slides (PDF - 1.4MB)" %}}
 
 ### Lecture Summary
 
@@ -183,9 +187,9 @@ Lecture Video
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw23)
+{{% resource_link 25ba072c-4443-bd19-ed84-8bf9379f3ad5 "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw23_sol)
+{{% resource_link 90e30430-59bc-8309-0c33-bbb6fc1fd077 "Solutions (PDF)" %}}
 
 ### Homework Problems
 
@@ -322,7 +326,7 @@ MIT OpenCourseWare
 Undergraduate (elective)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 30: Introduction to Reaction Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/pages/video-lectures/lecture-30-introduction-to-reaction-kinetics)
+[Lecture 30: Introduction to Reaction Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/resources/lecture-30-introduction-to-reaction-kinetics)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -359,4 +363,4 @@ Undergraduate
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/amorphous-materials/self-assessment-amorphous-materials) | [Next]({{< baseurl >}}/pages/reactions-and-kinetics/24-diffusion) »
+« {{% resource_link cbb4c14e-67cf-57ab-0634-902e7e8953ff "Previous" %}} | {{% resource_link 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7 "Next" %}} »

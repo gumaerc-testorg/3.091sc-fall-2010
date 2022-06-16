@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains materials for the session on Lewis structures. It
+  features a 1-hour lecture video, and also presents the prerequisites, learning objectives,
+  reading assignment, lecture slides, homework with solutions, and resources for further
+  study.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Bonding and Molecules
@@ -9,7 +13,7 @@ title: 9. Drawing Lewis Structures
 uid: 80b4e5be-5325-9c74-0eb6-068392cf19cb
 ---
 
-« [Previous]({{< baseurl >}}/pages/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle) | [Next]({{< baseurl >}}/pages/bonding-and-molecules/10.-hybridized-molecular-orbitals-paramagnetism) »
+« {{% resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Previous" %}} | {{% resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Next" %}} »
 
 Session Overview
 ----------------
@@ -67,11 +71,11 @@ capacitors, refrigerant, compressor design
 
 Before starting this session, you should be familiar with:
 
-*   Hybridized bonding in molecules, VSEPR, properties of covalent bond, electron domain theory ([Session 8]({{< baseurl >}}/pages/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle))
+*   Hybridized bonding in molecules, VSEPR, properties of covalent bond, electron domain theory ({{% resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Session 8" %}})
 
 ### Looking Ahead
 
-Prof. Sadoway discusses hybridized and molecular orbitals along with paramagnetism ([Session 10]({{< baseurl >}}/pages/bonding-and-molecules/10.-hybridized-molecular-orbitals-paramagnetism)).
+Prof. Sadoway discusses hybridized and molecular orbitals along with paramagnetism ({{% resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Session 10" %}}).
 
 ### Learning Objectives
 
@@ -87,7 +91,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #2 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln02), Section 3
+{{% resource_link 2aee13ce-9bb0-8867-b8d5-816eb0eefc33 "Archived Lecture Notes #2 (PDF)" %}}, Section 3
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -166,7 +170,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 2.9MB)]({{< baseurl >}}/resources/mit3_091scf09_lec9)
+{{% resource_link a4e0cd55-113c-d2bc-fe4c-9b4de3719739 "Lecture Slides (PDF - 2.9MB)" %}}
 
 ### Lecture Summary
 
@@ -188,9 +192,9 @@ Prof. Sadoway discusses the following concepts:
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw9)
+{{% resource_link 2e47dc30-4e3d-a3be-1679-17cca80bc1b9 "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw9_sol)
+{{% resource_link d9e95730-85a3-b159-302c-3aa9ce421355 "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -328,11 +332,11 @@ Undergraduate (first-year)
 {{< tdopen >}}
 
 
-[Lecture 12: Ionic Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-12)
+[Lecture 12: Ionic Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-12)
 
-[Lecture 13: Polar Covalent Bonds and VSEPR Theory](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-13)
+[Lecture 13: Polar Covalent Bonds and VSEPR Theory](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-13)
 
-[Lecture 14: Molecular Orbit Theory](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-14)
+[Lecture 14: Molecular Orbit Theory](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-14)
 
 
 {{< tdclose >}}
@@ -341,4 +345,4 @@ Undergraduate (first-year)
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle) | [Next]({{< baseurl >}}/pages/bonding-and-molecules/10.-hybridized-molecular-orbitals-paramagnetism) »
+« {{% resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Previous" %}} | {{% resource_link f3720df7-44c6-c811-bba3-3f83d3053ffd "Next" %}} »

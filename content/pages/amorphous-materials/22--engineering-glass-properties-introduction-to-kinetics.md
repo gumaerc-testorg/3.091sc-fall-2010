@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains materials for the session on engineering glass properties
+  and chemical kinetics. It features a 1-hour lecture video, and also presents the
+  prerequisites, learning objectives, reading assignment, lecture slides, homework
+  with solutions, and resources for further study.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Amorphous Materials
@@ -9,7 +13,7 @@ title: 22. Engineering Glass Properties; Introduction to Kinetics
 uid: 593608f5-1309-0383-9a58-fb9a2fb6843a
 ---
 
-« [Previous]({{< baseurl >}}/pages/amorphous-materials/21-introduction-to-glasses) | [Next]({{< baseurl >}}/pages/amorphous-materials/self-assessment-amorphous-materials) »
+« {{% resource_link 1d01a4a6-fa92-2854-cead-1f61b1189649 "Previous" %}} | {{% resource_link cbb4c14e-67cf-57ab-0634-902e7e8953ff "Next" %}} »
 
 Session Overview
 ----------------
@@ -107,14 +111,14 @@ automobile airbags, phosgene gas, radiocarbon dating
 
 Before starting this session, you should be familiar with:
 
-*   Properties, composition, and manufacturing of glass ([Session 21]({{< baseurl >}}/pages/amorphous-materials/21-introduction-to-glasses))
-*   The shapes of molecules and factors affecting their mobility ([Session 8](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle) through [Session 12](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/12.-intermolecular-forces))
-*   How to write chemical equations ([Session 2]({{< baseurl >}}/pages/structure-of-the-atom/2-periodic-table))
-*   The distribution of energies per the Maxwell-Boltzmann curve ([Session 14]({{< baseurl >}}/pages/electronic-materials/14-semiconductors))
+*   Properties, composition, and manufacturing of glass ({{% resource_link 1d01a4a6-fa92-2854-cead-1f61b1189649 "Session 21" %}})
+*   The shapes of molecules and factors affecting their mobility ({{% resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Session 8" %}} through {{% resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Session 12" %}})
+*   How to write chemical equations ({{% resource_link a13b8975-9fdc-1778-eea3-68cb5be8fef0 "Session 2" %}})
+*   The distribution of energies per the Maxwell-Boltzmann curve ({{% resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Session 14" %}})
 
 ### Looking Ahead
 
-The solution hardening processes (chemically toughened glass, carburized steel) described in this session involve diffusion along concentration gradients, as quantified in [Session 23]({{< baseurl >}}/pages/reactions-and-kinetics/23-reaction-rates) and [Session 24]({{< baseurl >}}/pages/reactions-and-kinetics/24-diffusion).
+The solution hardening processes (chemically toughened glass, carburized steel) described in this session involve diffusion along concentration gradients, as quantified in {{% resource_link 568956d9-4b5b-b4e9-70b5-553efd337767 "Session 23" %}} and {{% resource_link 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7 "Session 24" %}}.
 
 ### Learning Objectives
 
@@ -131,9 +135,9 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #7 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln07)
+{{% resource_link 89de42af-0f13-3329-6116-2dbddbeddddc "Archived Lecture Notes #7 (PDF)" %}}
 
-[Archived Lecture Notes #8 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln08)
+{{% resource_link 77aedff7-4af7-4be5-aa06-d4b580bed800 "Archived Lecture Notes #8 (PDF)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -177,7 +181,7 @@ Activation energy, graphing the energy changes during a reaction, the Arrhenius 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 12.2, "Glasses – Noncrystalline Materials."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 12.2, "Glasses – Noncrystalline Materials."
 {{< tdclose >}}
 {{< tdopen >}}
 Network formers, modifiers, and intermediates; commercial silicate glasses; nonsilicate glasses; applications of amorphous solids
@@ -186,7 +190,7 @@ Network formers, modifiers, and intermediates; commercial silicate glasses; nons
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 12.3, "Glass-Ceramics."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 12.3, "Glass-Ceramics."
 {{< tdclose >}}
 {{< tdopen >}}
 Heat treatment and crystallization, mechanical and thermal shock resistance, nucleating agents, glass processing techniques
@@ -203,7 +207,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF)]({{< baseurl >}}/resources/mit3_091scf09_lec22)
+{{% resource_link 7e17c011-6607-aa5d-9d64-24936ceb41c7 "Lecture Slides (PDF)" %}}
 
 ### Lecture Summary
 
@@ -214,9 +218,9 @@ The next unit covers **chemical kinetics**, the study of **reaction rates** and 
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw22)
+{{% resource_link 67e78b6c-5093-89af-e66e-047d6a92fe9a "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw22_sol)
+{{% resource_link 17a6e787-5b98-6404-8a27-71f98cea991f "Solutions (PDF)" %}}
 
 [MATDL VirtualDL Lessons 1-4](https://web.archive.org/web/20100115000922/http://matdl.org/virtuallabs/index.php/3.091_VirtualLab)
 
@@ -368,11 +372,11 @@ MIT OpenCourseWare
 Undergraduate (elective)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 30: Introduction to Reaction Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/pages/video-lectures/lecture-30-introduction-to-reaction-kinetics)
+[Lecture 30: Introduction to Reaction Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/resources/lecture-30-introduction-to-reaction-kinetics)
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/amorphous-materials/21-introduction-to-glasses) | [Next]({{< baseurl >}}/pages/amorphous-materials/self-assessment-amorphous-materials) »
+« {{% resource_link 1d01a4a6-fa92-2854-cead-1f61b1189649 "Previous" %}} | {{% resource_link cbb4c14e-67cf-57ab-0634-902e7e8953ff "Next" %}} »

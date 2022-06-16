@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/48e2dc5c0a053cfab7efd29fdf2875cf_MIT3_091SCF10Exam_2_Prob_5b_300k.srt
+file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/48e2dc5c0a053cfab7efd29fdf2875cf_MIT3_091SCF10Exam_2_Prob_5b_300k.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

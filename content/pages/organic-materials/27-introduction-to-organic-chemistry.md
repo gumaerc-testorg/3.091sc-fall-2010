@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains materials for the class session introducing organic
+  chemistry. It features a 1-hour lecture video, and also presents the prerequisites,
+  learning objectives, reading assignment, lecture slides, and resources for further
+  study. No homework is assigned for this session.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Organic Materials
@@ -9,7 +13,7 @@ title: 27. Introduction to Organic Chemistry
 uid: d1c5400e-ad6e-5796-fde9-b0ebffa63afd
 ---
 
-« [Previous]({{< baseurl >}}/pages/aqueous-solutions/self-assessment-aqueous-solutions) | [Next]({{< baseurl >}}/pages/organic-materials/28-polymers-structure-composition) »
+« {{% resource_link 72916be9-a577-7e44-0a46-72d4318cea26 "Previous" %}} | {{% resource_link f8c2db6d-2332-71ec-1747-b2c8369b532e "Next" %}} »
 
 Session Overview
 ----------------
@@ -65,7 +69,7 @@ gasoline automobile engine knocking, octane rating
 
 ### Prerequisites
 
-This session assumes you've completed the Bonding and Molecules module ([Session 7]({{< baseurl >}}/pages/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy) through [Session 12]({{< baseurl >}}/pages/bonding-and-molecules/12.-intermolecular-forces)), in particular understanding the concepts of
+This session assumes you've completed the Bonding and Molecules module ({{% resource_link d0470d3e-350a-e01c-66ab-ad1825f65352 "Session 7" %}} through {{% resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Session 12" %}}), in particular understanding the concepts of
 
 *   hybridization (sp{{< sup "x" >}} orbitals)
 *   different types of bonds (pi bond, double bond, triple bond, resonance)
@@ -129,7 +133,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.6MB)]({{< baseurl >}}/resources/mit3_091scf09_lec27)
+{{% resource_link bfe35734-6eb4-a831-f6e8-e0ca3157a0ef "Lecture Slides (PDF - 1.6MB)" %}}
 
 ### Lecture Summary
 
@@ -197,4 +201,4 @@ The first of a two-semester sequence on organic chemistry, taken after 3.091 or 
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/aqueous-solutions/self-assessment-aqueous-solutions) | [Next]({{< baseurl >}}/pages/organic-materials/28-polymers-structure-composition) »
+« {{% resource_link 72916be9-a577-7e44-0a46-72d4318cea26 "Previous" %}} | {{% resource_link f8c2db6d-2332-71ec-1747-b2c8369b532e "Next" %}} »

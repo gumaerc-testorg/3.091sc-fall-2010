@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains materials for the session on the atomic models of
+  Rutherford and Bohr. It features a 1-hour lecture video, and also presents the prerequisites,
+  learning objectives, reading assignment, lecture slides, homework with solutions,
+  and resources for further study.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Structure of the Atom
@@ -9,7 +13,7 @@ title: '3. Atomic Models: Rutherford & Bohr'
 uid: 313524b4-840e-e388-74ee-c0ea90001bd5
 ---
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/2-periodic-table) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/4-matter-energy-interactions) »
+« {{% resource_link a13b8975-9fdc-1778-eea3-68cb5be8fef0 "Previous" %}} | {{% resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Next" %}} »
 
 Session Overview
 ----------------
@@ -71,11 +75,11 @@ nuclear fission, nanotechnology
 
 Before starting this session, you should be familiar with:
 
-*   [Session 2: The Periodic Table]({{< baseurl >}}/pages/structure-of-the-atom/2-periodic-table)
+*   {{% resource_link a13b8975-9fdc-1778-eea3-68cb5be8fef0 "Session 2: The Periodic Table" %}}
 
 ### Looking Ahead
 
-Prof. Sadoway discusses the atomic spectra of hydrogen ([Session 4]({{< baseurl >}}/pages/structure-of-the-atom/4-matter-energy-interactions)).
+Prof. Sadoway discusses the atomic spectra of hydrogen ({{% resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Session 4" %}}).
 
 ### Learning Objectives
 
@@ -89,7 +93,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #1 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln01), Sections 1-3
+{{% resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" %}}, Sections 1-3
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -141,9 +145,9 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 9.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec3)
+{{% resource_link d675a426-16a8-d9aa-0071-a682b434e233 "Lecture Slides (PDF - 9.3MB)" %}}
 
-[Periodic Table and Table of Constants]({{< baseurl >}}/pages/syllabus/suggested-textbooks#ref)
+{{% resource_link 9abd92d7-66e1-b816-f50d-00770b2420e1 "Periodic Table and Table of Constants" "#ref" %}}
 
 ### Lecture Summary
 
@@ -168,9 +172,9 @@ This lecture includes the following:
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw3)
+{{% resource_link 6ca5fbac-28a4-7fdd-788c-bc6941a9afa9 "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw3_sol)
+{{% resource_link 29f2fc2e-9fd3-c6eb-752e-ee4f5c35ce9b "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -330,9 +334,9 @@ Undergraduate (first-year)
 {{< tdopen >}}
 
 
-[Lecture 2: Discovery of Electron and Nucleus](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-2)
+[Lecture 2: Discovery of Electron and Nucleus](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-2)
 
-[Lecture 5: Hydrogen Atom Energy Levels](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-5)
+[Lecture 5: Hydrogen Atom Energy Levels](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-5)
 
 
 {{< tdclose >}}
@@ -356,4 +360,4 @@ High school
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/2-periodic-table) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/4-matter-energy-interactions) »
+« {{% resource_link a13b8975-9fdc-1778-eea3-68cb5be8fef0 "Previous" %}} | {{% resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Next" %}} »

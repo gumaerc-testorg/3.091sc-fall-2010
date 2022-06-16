@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This page contains materials for the session on the periodic table.
+  It features a 1-hour lecture video, and also presents the prerequisites, learning
+  objectives, reading assignment, lecture slides, homework with solutions, and resources
+  for further study.  '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Structure of the Atom
@@ -9,7 +13,7 @@ title: 2. The Periodic Table
 uid: a13b8975-9fdc-1778-eea3-68cb5be8fef0
 ---
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/1-introduction-to-solid-state-chemistry) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/3-atomic-models) »
+« {{% resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Previous" %}} | {{% resource_link 313524b4-840e-e388-74ee-c0ea90001bd5 "Next" %}} »
 
 Session Overview
 ----------------
@@ -67,11 +71,11 @@ Kroll process for producing titanium metal
 
 Before starting this session, you should be familiar with:
 
-*   [Session 1: Introduction to Solid State Chemistry]({{< baseurl >}}/pages/structure-of-the-atom/1-introduction-to-solid-state-chemistry)
+*   {{% resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Session 1: Introduction to Solid State Chemistry" %}}
 
 ### Looking Ahead
 
-Prof. Sadoway describes Rutherford's model of the atom and Bohr's model of hydrogen ([Session 3]({{< baseurl >}}/pages/structure-of-the-atom/3-atomic-models)).
+Prof. Sadoway describes Rutherford's model of the atom and Bohr's model of hydrogen ({{% resource_link 313524b4-840e-e388-74ee-c0ea90001bd5 "Session 3" %}}).
 
 ### Learning Objectives
 
@@ -176,9 +180,9 @@ Lecture Video
 
 ### Resources
 
-[Lecture Slides (PDF - 6.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec2)
+{{% resource_link a6827fe5-e4d5-79c6-1048-6c10a4d3efd1 "Lecture Slides (PDF - 6.0MB)" %}}
 
-[Periodic Table and Table of Constants]({{< baseurl >}}/pages/syllabus/suggested-textbooks#ref)
+{{% resource_link 9abd92d7-66e1-b816-f50d-00770b2420e1 "Periodic Table and Table of Constants" "#ref" %}}
 
 ### Lecture Summary
 
@@ -199,9 +203,9 @@ The lecture ends with a brief biographical sketch of composer and chemistry prof
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw2)
+{{% resource_link 8adb6ae0-68b9-2a12-4d57-c7ef9a4c06a4 "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw2_sol)
+{{% resource_link aa16834c-c012-bde9-9956-fdff37e794b8 "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -353,11 +357,11 @@ Undergraduate (first-year)
 {{< tdopen >}}
 
 
-[Lecture 2: Discovery of Electron and Nucleus](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-2)
+[Lecture 2: Discovery of Electron and Nucleus](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-2)
 
-[Lecture 9: Periodic Trends](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-9)
+[Lecture 9: Periodic Trends](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-9)
 
-[Lecture 10: Covalent Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-10)
+[Lecture 10: Covalent Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-10)
 
 
 {{< tdclose >}}
@@ -396,4 +400,4 @@ High school
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/1-introduction-to-solid-state-chemistry) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/3-atomic-models) »
+« {{% resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Previous" %}} | {{% resource_link 313524b4-840e-e388-74ee-c0ea90001bd5 "Next" %}} »
