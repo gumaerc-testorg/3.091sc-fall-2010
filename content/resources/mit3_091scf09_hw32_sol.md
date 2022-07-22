@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: This resource contains homework solutions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-091sc-introduction-to-solid-state-chemistry-fall-2010/ef3de1ece826cae660e3011aec46bc58_MIT3_091SCF09_hw32_sol.pdf
+file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/ef3de1ece826cae660e3011aec46bc58_MIT3_091SCF09_hw32_sol.pdf
 file_type: application/pdf
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+parent_title: '32. Biochemistry: Lipids, Nucleic Acids & DNA'
+parent_type: CourseSection
+parent_uid: 3db3383b-b411-d2fc-45f2-4495b3640825
 resourcetype: Document
 title: MIT3_091SCF09_hw32_sol.pdf
 uid: ef3de1ec-e826-cae6-60e3-011aec46bc58
 ---
+This resource contains homework solutions.

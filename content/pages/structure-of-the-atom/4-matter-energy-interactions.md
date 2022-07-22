@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This page contains materials for the session on matter/energy interactions
+  and atomic spectra. It features a 1-hour lecture video, and also presents the prerequisites,
+  learning objectives, reading assignment, lecture slides, homework with solutions,
+  and resources for further study.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Structure of the Atom
+parent_type: CourseSection
 parent_uid: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
 title: '4. Matter/Energy Interactions: Atomic Spectra'
 uid: f24a8114-0d3e-bfe3-77bb-b99589aad189
 ---
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/3-atomic-models) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/5-electron-shell-model-quantum-numbers) »
+« {{% resource_link 313524b4-840e-e388-74ee-c0ea90001bd5 "Previous" %}} | {{% resource_link e7d31b34-62de-b7aa-1e87-6b9a5a99c71f "Next" %}} »
 
 Session Overview
 ----------------
@@ -64,12 +71,11 @@ chemical analysis, analyzing composition of stars, television
 
 Before starting this session, you should be familiar with:
 
-*   [Session 3: Atomic Models: Rutherford & Bohr  
-    ]({{< baseurl >}}/pages/structure-of-the-atom/3-atomic-models)
+*   {{% resource_link "313524b4-840e-e388-74ee-c0ea90001bd5" "Session 3: Atomic Models: Rutherford & Bohr       " %}}
 
 ### Looking Ahead
 
-Prof. Sadoway discusses the shell model and quantum numbers ([Session 5]({{< baseurl >}}/pages/structure-of-the-atom/5-electron-shell-model-quantum-numbers)).
+Prof. Sadoway discusses the shell model and quantum numbers ({{% resource_link e7d31b34-62de-b7aa-1e87-6b9a5a99c71f "Session 5" %}}).
 
 ### Learning Objectives
 
@@ -85,7 +91,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #1 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln01), Sections 3, 5
+{{% resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" %}}, Sections 3, 5
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -119,7 +125,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec4)
+{{% resource_link 95c65f29-f14b-0fd9-a6ee-88e34161175b "Lecture Slides (PDF - 1.3MB)" %}}
 
 ### Lecture Summary
 
@@ -135,9 +141,9 @@ Prof. Sadoway discusses the following:
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw4)
+{{% resource_link d321f747-b6a6-2505-ee02-6061b028f727 "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw4_sol)
+{{% resource_link c5d764cc-ff6b-5ecc-e5b7-06c88a12c75e "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -241,7 +247,7 @@ MIT OpenCourseWare
 Undergraduate (first-year)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 5: Hydrogen Atom Energy Levels](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-5)
+[Lecture 5: Hydrogen Atom Energy Levels](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-5)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -263,4 +269,4 @@ High school
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/3-atomic-models) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/5-electron-shell-model-quantum-numbers) »
+« {{% resource_link 313524b4-840e-e388-74ee-c0ea90001bd5 "Previous" %}} | {{% resource_link e7d31b34-62de-b7aa-1e87-6b9a5a99c71f "Next" %}} »

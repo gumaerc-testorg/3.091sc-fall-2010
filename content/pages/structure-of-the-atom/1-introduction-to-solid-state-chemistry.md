@@ -1,12 +1,20 @@
 ---
 content_type: page
+description: This page contains materials for the first session, which summarizes
+  course objectives and structure, main points of the course, and introduces the origins
+  of chemistry, atomic structure and the periodic table. It features a 1-hour lecture
+  video, and also presents the prerequisites, learning objectives, reading assignment,
+  lecture slides, homework with solutions, and resources for further study.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Structure of the Atom
+parent_type: CourseSection
 parent_uid: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
 title: 1. Introduction to Solid State Chemistry
 uid: 8a1709eb-16be-69bb-41cc-325703c25a95
 ---
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/2-periodic-table) »
+« {{% resource_link 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a "Previous" %}} | {{% resource_link a13b8975-9fdc-1778-eea3-68cb5be8fef0 "Next" %}} »
 
 Session Overview
 ----------------
@@ -69,7 +77,7 @@ Before starting this session, you should be familiar with:
 
 ### Looking Ahead
 
-Prof. Sadoway discusses the periodic table in more detail ([Session 2]({{< baseurl >}}/pages/structure-of-the-atom/2-periodic-table)). He explores the relationship between electronic structure, chemical bonding, and crystal structure ([Session 4]({{< baseurl >}}/pages/structure-of-the-atom/4-matter-energy-interactions)).
+Prof. Sadoway discusses the periodic table in more detail ({{% resource_link a13b8975-9fdc-1778-eea3-68cb5be8fef0 "Session 2" %}}). He explores the relationship between electronic structure, chemical bonding, and crystal structure ({{% resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Session 4" %}}).
 
 ### Learning Objectives
 
@@ -119,9 +127,9 @@ Lecture Video
 
 ### Resources
 
-[Lecture Slides (PDF - 3.2MB)]({{< baseurl >}}/resources/mit3_091scf09_lec1)
+{{% resource_link debd5701-469c-e24a-ac7a-e098cae6a8b5 "Lecture Slides (PDF - 3.2MB)" %}}
 
-[Periodic Table and Table of Constants]({{< baseurl >}}/pages/syllabus/suggested-textbooks#ref)
+{{% resource_link 9abd92d7-66e1-b816-f50d-00770b2420e1 "Periodic Table and Table of Constants" "#ref" %}}
 
 ### Lecture Summary
 
@@ -132,16 +140,16 @@ Professor Sadoway begins with important information about the **course objective
 The lecture continues with a survey of the historical foundations of chemistry:
 
 *   The **origins of chemistry** in ancient Egypt and Greece
-*   The development of increasingly refined **classification schemes** (taxonomy and nomenclature) throughout the 18th and 19th centuries
+*   The development of increasingly refined **classification schemes** (taxonomy and nomenclature) throughout the 18{{< sup "th" >}} and 19{{< sup "th" >}} centuries
 *   The evolution of **atomic theory**
 *   The origins and development of the **periodic table of elements**
 
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw1)
+{{% resource_link 2dffe41c-fdbf-12fc-94da-42ec6eb8586f "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw1_sol)
+{{% resource_link 3ff7c3d3-20c4-f287-00a6-1ea4adfbbe6f "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -295,11 +303,11 @@ MIT OpenCourseWare
 Undergraduate (first-year)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1: The Importance of Chemical Principles](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-1)
+[Lecture 1: The Importance of Chemical Principles](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-1)
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/2-periodic-table) »
+« {{% resource_link 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a "Previous" %}} | {{% resource_link a13b8975-9fdc-1778-eea3-68cb5be8fef0 "Next" %}} »

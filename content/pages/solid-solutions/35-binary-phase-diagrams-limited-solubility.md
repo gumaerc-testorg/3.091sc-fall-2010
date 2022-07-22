@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This page contains materials for the second solid solutions class session
+  on binary phase diagrams, covering the partial solubility case. It features a 1-hour
+  lecture video, and also presents the prerequisites, learning objectives, reading
+  assignment, lecture slides, homework with solutions, and resources for further study.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Solid Solutions
+parent_type: CourseSection
 parent_uid: f6e01e0c-3963-e495-1396-598462ae7d02
 title: '35. Binary Phase Diagrams: Limited Solubility'
 uid: 7a815988-3da3-035d-e473-14306ab4f684
 ---
 
-« [Previous]({{< baseurl >}}/pages/solid-solutions/34-binary-phase-diagrams-complete-solubility) | [Next]({{< baseurl >}}/pages/solid-solutions/self-assessment-solid-solutions) »
+« {{% resource_link 31cd4459-a0c6-f229-2b86-eee893f5dd0b "Previous" %}} | {{% resource_link 72c01ef0-b872-bcb0-6ee3-bdfffcb4cd4a "Next" %}} »
 
 Session Overview
 ----------------
@@ -64,7 +71,7 @@ automobile antifreeze/coolant, deicing, manufacturing aluminum beverage cans, me
 
 Before starting this session, you should be familiar with:
 
-*   [Session 34: Binary Phase Diagrams: Complete Solubility]({{< baseurl >}}/pages/solid-solutions/34-binary-phase-diagrams-complete-solubility)
+*   {{% resource_link 31cd4459-a0c6-f229-2b86-eee893f5dd0b "Session 34: Binary Phase Diagrams: Complete Solubility" %}}
 
 ### Learning Objectives
 
@@ -76,7 +83,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #10 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln10), Part B and [#10 Supplement (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln10s)
+{{% resource_link 85619733-50a2-e44d-7ee4-e8304272c56f "Archived Lecture Notes #10 (PDF)" %}}, Part B and {{% resource_link caf0d98c-0936-9889-3340-c24e30cb318e "#10 Supplement (PDF)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -93,7 +100,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 9.1, "The Phase Rule."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 9.1, "The Phase Rule."
 {{< tdclose >}}
 {{< tdopen >}}
 Discussion of phase, component, and state; Gibbs phase rule; unary (one-component) phase diagram
@@ -102,7 +109,7 @@ Discussion of phase, component, and state; Gibbs phase rule; unary (one-componen
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 9.2, "The Phase Diagram."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 9.2, "The Phase Diagram."
 {{< tdclose >}}
 {{< tdopen >}}
 Binary phase diagrams; complete solid solutions; eutectic diagrams with no solid and limited solid solutions
@@ -119,7 +126,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.9MB)]({{< baseurl >}}/resources/mit3_091scf09_lec35)
+{{% resource_link bc9d018a-506b-d7e9-0b7e-e74067ce857a "Lecture Slides (PDF - 1.9MB)" %}}
 
 ### About this Video
 
@@ -137,7 +144,7 @@ Prof. Sadoway presents some examples of Type 3 phase diagrams:
 *   aluminum-copper for strength, e.g. airplane wings, constrasting with easily manufactured beverage cans;
 *   brief discussions of aluminum-magnesium and iron-sulfur solutions.
 
-While considering these phase diagrams, he also describes the origins of the **Fahrenheit temperature scale**; and returns to how a material's **metallurgical microstructure** is used for **failure analysis** (a topic introduced in [Session 33]({{< baseurl >}}/pages/solid-solutions/33-unary-phase-diagrams)).
+While considering these phase diagrams, he also describes the origins of the **Fahrenheit temperature scale**; and returns to how a material's **metallurgical microstructure** is used for **failure analysis** (a topic introduced in {{% resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Session 33" %}}).
 
 **Champagne manufacturing** illustrates an ingenious use of solution chemistry as shown in binary phase diagrams.
 
@@ -148,9 +155,9 @@ The last few minutes of lecture are a preview of the final exam expectations and
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw35)
+{{% resource_link 43564326-ce01-56ef-b245-0f0a5b3fba5e "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw35_sol)
+{{% resource_link c380d1c1-e09e-f8d5-6a54-9e19346d5e32 "Solutions (PDF)" %}}
 
 For Further Study
 -----------------
@@ -215,4 +222,4 @@ Undergraduate
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/solid-solutions/34-binary-phase-diagrams-complete-solubility) | [Next]({{< baseurl >}}/pages/solid-solutions/self-assessment-solid-solutions) »
+« {{% resource_link 31cd4459-a0c6-f229-2b86-eee893f5dd0b "Previous" %}} | {{% resource_link 72c01ef0-b872-bcb0-6ee3-bdfffcb4cd4a "Next" %}} »

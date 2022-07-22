@@ -1,19 +1,24 @@
 ---
 content_type: page
+description: This section provides reference materials on elements and fundamental
+  physical constants, and a list of suggested textbooks for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 116bf279-d466-43e7-0e0e-4cd163f567f1
 title: Reference Materials and Suggested Textbooks
 uid: 9abd92d7-66e1-b816-f50d-00770b2420e1
 ---
 
-« [Previous]({{< baseurl >}}/pages/syllabus)
+« {{% resource_link 116bf279-d466-43e7-0e0e-4cd163f567f1 "Previous" %}}
 
 {{< anchor "ref" >}}{{< /anchor >}}Reference Materials
 ------------------------------------------------------
 
-[Periodic Table of the Elements (PDF)]({{< baseurl >}}/resources/mit3_091scf09_per_table)
+{{% resource_link 1cc82bd7-8ea3-2301-16a6-db5c2b67e84a "Periodic Table of the Elements (PDF)" %}}
 
-[Fundamental Physical Constants (PDF)]({{< baseurl >}}/resources/mit3_091scf09_constants)
+{{% resource_link 13fd6b1d-7f4c-27e1-aa1b-f83b92d2d6b6 "Fundamental Physical Constants (PDF)" %}}
 
 This list of constants is the "Frequently Used Constants" collection from the U.S. National Institutes of Standards and Technology (NIST) website [Fundamental Physical Constants](http://physics.nist.gov/cuu/Constants/). This resource contains additional constants in many categories if you're looking for something not contained in the above PDF.
 
@@ -65,4 +70,4 @@ Alternatively, if you prefer a conventional printed textbook, try this Averill a
 
 *   Chapter 1, "Properties of X-Rays."
 
-« [Previous]({{< baseurl >}}/pages/syllabus)
+« {{% resource_link 116bf279-d466-43e7-0e0e-4cd163f567f1 "Previous" %}}

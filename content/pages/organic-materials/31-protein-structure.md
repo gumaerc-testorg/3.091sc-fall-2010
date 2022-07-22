@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: 'This page contains materials for the biochemistry class session on protein
+  structure. It features a 1-hour lecture video, and also presents the prerequisites,
+  learning objectives, reading assignment, lecture slides, homework with solutions,
+  and resources for further study.  '
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Organic Materials
+parent_type: CourseSection
 parent_uid: 0ab5962f-08b0-e5dd-2488-7c3659767245
 title: '31. Biochemistry: Protein Structure'
 uid: 4e61d15e-9ac5-67d9-af48-23d7beaa16b7
 ---
 
-« [Previous]({{< baseurl >}}/pages/organic-materials/30-amino-acids) | [Next]({{< baseurl >}}/pages/organic-materials/32-lipids-nucleic-acids-dna) »
+« {{% resource_link 1391526c-977f-6e58-b0c0-b163bcae3d50 "Previous" %}} | {{% resource_link 3db3383b-b411-d2fc-45f2-4495b3640825 "Next" %}} »
 
 Session Overview
 ----------------
@@ -64,8 +71,8 @@ DNA analysis with electrophoresis gel, laundry detergent
 
 Before starting this session, you should be familiar with:
 
-*   the prior sessions in this Organic Materials module ([Session 27]({{< baseurl >}}/pages/organic-materials/27-introduction-to-organic-chemistry) through [Session 30]({{< baseurl >}}/pages/organic-materials/30-amino-acids))
-*   [Session 18: X-Ray Diffraction Techniques]({{< baseurl >}}/pages/crystalline-materials/18-x-ray-diffraction-techniques)
+*   the prior sessions in this Organic Materials module ({{% resource_link d1c5400e-ad6e-5796-fde9-b0ebffa63afd "Session 27" %}} through {{% resource_link 1391526c-977f-6e58-b0c0-b163bcae3d50 "Session 30" %}})
+*   {{% resource_link 2f4aa15c-0125-9d84-17ab-ecf218034e84 "Session 18: X-Ray Diffraction Techniques" %}}
 
 ### Looking Ahead
 
@@ -99,7 +106,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[PB-EOC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-eoc) 17-6 through 17-12 in Chapter 17, "Amino Acids, Peptides, and Proteins."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[PB-EOC\]" "#pb-eoc" %}} 17-6 through 17-12 in Chapter 17, "Amino Acids, Peptides, and Proteins."
 {{< tdclose >}}
 {{< tdopen >}}
 Peptide and disulfide bonds; overview of protein structure; primary, secondary, tertiary, and quaternary structures; protein denaturation
@@ -116,11 +123,11 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.8MB)]({{< baseurl >}}/resources/mit3_091scf09_lec31)
+{{% resource_link 0c035893-e9f8-1c23-21cc-59605fe45349 "Lecture Slides (PDF - 1.8MB)" %}}
 
 ### Lecture Summary
 
-The lecture begins with further discussion about **zwitterion** behavior (introduced in [Session 30]({{< baseurl >}}/pages/organic-materials/30-amino-acids)), with the **titration curve** used to depict the relationship between degree of **protonation** and **pH**. An interesting application of zwitterion behavior is **gel electrophoresis**, in which an electrified gel column of varying pH allows a mix of different amino acids to be separated and analyzed.
+The lecture begins with further discussion about **zwitterion** behavior (introduced in {{% resource_link 1391526c-977f-6e58-b0c0-b163bcae3d50 "Session 30" %}}), with the **titration curve** used to depict the relationship between degree of **protonation** and **pH**. An interesting application of zwitterion behavior is **gel electrophoresis**, in which an electrified gel column of varying pH allows a mix of different amino acids to be separated and analyzed.
 
 Most of the lecture is devoted to **protein structure**. The **peptide bond** is the means of creating long macromolecule chains out of individual amino acids. These chains become a basis of life, as they encode information in different **sequences** of amino acids. (As an aside, amino acids can be remembered by their 3-letter "airport code" analogs.)
 
@@ -131,9 +138,9 @@ Most of the lecture is devoted to **protein structure**. The **peptide bond** is
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw31)
+{{% resource_link 3d7353e9-4f3d-c87a-f008-55a6bf2bb7da "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw31_sol)
+{{% resource_link 8a56038a-36c8-74fe-d18d-b01f081bdf2d "Solutions (PDF)" %}}
 
 For Further Study
 -----------------
@@ -192,4 +199,4 @@ Seminar on some biological implications of protein tertiary structure
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/organic-materials/30-amino-acids) | [Next]({{< baseurl >}}/pages/organic-materials/32-lipids-nucleic-acids-dna) »
+« {{% resource_link 1391526c-977f-6e58-b0c0-b163bcae3d50 "Previous" %}} | {{% resource_link 3db3383b-b411-d2fc-45f2-4495b3640825 "Next" %}} »

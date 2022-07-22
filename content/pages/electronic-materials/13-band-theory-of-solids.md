@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This page contains materials for the session on the band theory of solids.
+  It features a 1-hour lecture video, and also presents the prerequisites, learning
+  objectives, reading assignment, lecture slides, homework with solutions, and resources
+  for further study.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Electronic Materials
+parent_type: CourseSection
 parent_uid: 391990ee-f653-5d34-974e-42391c0cb5b5
 title: 13. Band Theory of Solids
 uid: c567f1c9-3666-523f-ed70-cea0765d0080
 ---
 
-« [Previous]({{< baseurl >}}/pages/electronic-materials) | [Next]({{< baseurl >}}/pages/electronic-materials/14-semiconductors) »
+« {{% resource_link 391990ee-f653-5d34-974e-42391c0cb5b5 "Previous" %}} | {{% resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Next" %}} »
 
 Session Overview
 ----------------
@@ -62,7 +69,7 @@ photovoltaics, photosensors, light-emitting diodes (LEDs), temperature sensors
 
 ### Prerequisites
 
-Before starting this session, you should be familiar with prior topics from Structure of the Atom ([Session 1]({{< baseurl >}}/pages/structure-of-the-atom/1-introduction-to-solid-state-chemistry) through [Session 7](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy)) and Bonding & Molecules ([Session 8](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle) through [Session 12](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/12.-intermolecular-forces)), specifically:
+Before starting this session, you should be familiar with prior topics from Structure of the Atom ({{% resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Session 1" %}} through {{% resource_link d0470d3e-350a-e01c-66ab-ad1825f65352 "Session 7" %}}) and Bonding & Molecules ({{% resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Session 8" %}} through {{% resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Session 12" %}}), specifically:
 
 *   Electron orbital filling order, energy levels, and the Schrödinger equation
 *   Linear combination and hybridization of orbitals
@@ -82,7 +89,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #3 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln03)
+{{% resource_link 44adf21b-920f-69e8-c809-b1ab75b62d0a "Archived Lecture Notes #3 (PDF)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -117,7 +124,7 @@ Band theory; requirements for metallic behavior; insulators; semiconductors
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 2.4, "The Metallic Bond."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 2.4, "The Metallic Bond."
 {{< tdclose >}}
 {{< tdopen >}}
 Metallic bonding; delocalized electrons; electronegativity
@@ -126,7 +133,7 @@ Metallic bonding; delocalized electrons; electronegativity
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 15.1, "Charge Carriers and Conduction."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 15.1, "Charge Carriers and Conduction."
 {{< tdclose >}}
 {{< tdopen >}}
 Holes and electrons; Ohm's Law; resistivity/conductivity; carrier mobility and drift velocity
@@ -135,7 +142,7 @@ Holes and electrons; Ohm's Law; resistivity/conductivity; carrier mobility and d
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 15.2, "Energy Levels and Energy Bands."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 15.2, "Energy Levels and Energy Bands."
 {{< tdclose >}}
 {{< tdopen >}}
 Pauli exclusion, Hund's rule, and orbital filling; energy bands and gaps; the Fermi function; thermal promotion; metals, insulators, and semiconductors
@@ -152,7 +159,7 @@ Lecture Video
 
 ### Resources
 
-[Lecture Slides (PDF)]({{< baseurl >}}/resources/mit3_091scf09_lec13)
+{{% resource_link 2c2dd2aa-d9b8-8123-da8d-72f5cdc9d701 "Lecture Slides (PDF)" %}}
 
 ### Lecture Summary
 
@@ -161,9 +168,9 @@ Prof. Ron Ballinger ([homepage](http://web.mit.edu/nse/people/faculty/ballinger.
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw13)
+{{% resource_link 3d5d0ed0-a13d-0c6e-df92-6d76284e3651 "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw13_sol)
+{{% resource_link fa6d1081-f73e-cc9f-d628-dadbcbd5c2df "Solutions (PDF)" %}}
 
 For Further Study
 -----------------
@@ -231,11 +238,11 @@ MIT OpenCourseWare
 Undergraduate (first-year)
 {{< tdclose >}}
 {{< tdopen >}}
-Start - 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-34-bonding-in-metals-and-semiconductors)
+Start - 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture-34-bonding-in-metals-and-semiconductors)
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/electronic-materials) | [Next]({{< baseurl >}}/pages/electronic-materials/14-semiconductors) »
+« {{% resource_link 391990ee-f653-5d34-974e-42391c0cb5b5 "Previous" %}} | {{% resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Next" %}} »

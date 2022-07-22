@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This page contains materials for the session on the electron shell model
+  and quantum numbers. It features a 1-hour lecture video, and also presents the prerequisites,
+  learning objectives, reading assignment, lecture slides, homework with solutions,
+  and resources for further study.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Structure of the Atom
+parent_type: CourseSection
 parent_uid: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
 title: 5. Electron Shell Model & Quantum Numbers
 uid: e7d31b34-62de-b7aa-1e87-6b9a5a99c71f
 ---
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/4-matter-energy-interactions) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/6-particle-wave-duality) »
+« {{% resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Previous" %}} | {{% resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Next" %}} »
 
 Session Overview
 ----------------
@@ -64,11 +71,11 @@ photodetectors
 
 Before starting this session, you should be familiar with:
 
-*   [Session 4: Matter/Energy Interactions: Atomic Spectra]({{< baseurl >}}/pages/structure-of-the-atom/4-matter-energy-interactions)
+*   {{% resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Session 4: Matter/Energy Interactions: Atomic Spectra" %}}
 
 ### Looking Ahead
 
-Prof. Sadoway discusses particle-wave duality ([Session 6]({{< baseurl >}}/pages/structure-of-the-atom/6-particle-wave-duality)).
+Prof. Sadoway discusses particle-wave duality ({{% resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Session 6" %}}).
 
 ### Learning Objectives
 
@@ -82,7 +89,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #1 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln01), Section 3
+{{% resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" %}}, Section 3
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -125,7 +132,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 2.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec5)
+{{% resource_link cd1c7bad-1195-8205-26f2-daa467a8bb67 "Lecture Slides (PDF - 2.0MB)" %}}
 
 ### Lecture Summary
 
@@ -144,9 +151,9 @@ In this lecture, Prof. Sadoway discusses the following topics:
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw5)
+{{% resource_link c9193599-c9e6-4798-7f89-ff8ef20460ad "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw5_sol)
+{{% resource_link 4fae718b-e2ed-6d72-09a9-addf7e2d50be "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -258,7 +265,7 @@ MIT OpenCourseWare
 Undergraduate (first-year)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6: Hydrogen Atom Wavefunctions](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-6)
+[Lecture 6: Hydrogen Atom Wavefunctions](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-6)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -280,4 +287,4 @@ High school
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/4-matter-energy-interactions) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/6-particle-wave-duality) »
+« {{% resource_link f24a8114-0d3e-bfe3-77bb-b99589aad189 "Previous" %}} | {{% resource_link acd5af93-6551-c69a-d7d6-8b73d9226daa "Next" %}} »

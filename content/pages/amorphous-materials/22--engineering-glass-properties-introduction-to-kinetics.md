@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This page contains materials for the session on engineering glass properties
+  and chemical kinetics. It features a 1-hour lecture video, and also presents the
+  prerequisites, learning objectives, reading assignment, lecture slides, homework
+  with solutions, and resources for further study.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Amorphous Materials
+parent_type: CourseSection
 parent_uid: 79828d9f-9980-e3bc-b791-bd1403164706
 title: 22. Engineering Glass Properties; Introduction to Kinetics
 uid: 593608f5-1309-0383-9a58-fb9a2fb6843a
 ---
 
-« [Previous]({{< baseurl >}}/pages/amorphous-materials/21-introduction-to-glasses) | [Next]({{< baseurl >}}/pages/amorphous-materials/self-assessment-amorphous-materials) »
+« {{% resource_link 1d01a4a6-fa92-2854-cead-1f61b1189649 "Previous" %}} | {{% resource_link cbb4c14e-67cf-57ab-0634-902e7e8953ff "Next" %}} »
 
 Session Overview
 ----------------
@@ -68,11 +75,11 @@ law of mass action, chemical kinetics, rate of conversion, species concentration
 
 ### Amorphous Materials
 
-silicate glass (SiO2), sodium oxide (Na2O), calcium oxide (CaO), magnesium oxide (MgO), borate glass (B2O3), aluminum oxide (Al2O3), potassium oxide (K2O), potassium chloride (KCl)
+silicate glass (SiO{{< sub "2" >}}), sodium oxide (Na{{< sub "2" >}}O), calcium oxide (CaO), magnesium oxide (MgO), borate glass (B{{< sub "2" >}}O{{< sub "3" >}}), aluminum oxide (Al{{< sub "2" >}}O{{< sub "3" >}}), potassium oxide (K{{< sub "2" >}}O), potassium chloride (KCl)
 
 ### Reactions and Kinetics
 
-sodium azide (NaN3), nitrogen gas (N2), sodium (Na), potassium nitrate (KNO3), carbon monoxide (CO), chlorine gas (Cl2), phosgene gas (COCl2)
+sodium azide (NaN{{< sub "3" >}}), nitrogen gas (N{{< sub "2" >}}), sodium (Na), potassium nitrate (KNO{{< sub "3" >}}), carbon monoxide (CO), chlorine gas (Cl{{< sub "2" >}}), phosgene gas (COCl{{< sub "2" >}})
 
 
 {{< tdclose >}}
@@ -104,14 +111,14 @@ automobile airbags, phosgene gas, radiocarbon dating
 
 Before starting this session, you should be familiar with:
 
-*   Properties, composition, and manufacturing of glass ([Session 21]({{< baseurl >}}/pages/amorphous-materials/21-introduction-to-glasses))
-*   The shapes of molecules and factors affecting their mobility ([Session 8](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle) through [Session 12](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/12.-intermolecular-forces))
-*   How to write chemical equations ([Session 2]({{< baseurl >}}/pages/structure-of-the-atom/2-periodic-table))
-*   The distribution of energies per the Maxwell-Boltzmann curve ([Session 14]({{< baseurl >}}/pages/electronic-materials/14-semiconductors))
+*   Properties, composition, and manufacturing of glass ({{% resource_link 1d01a4a6-fa92-2854-cead-1f61b1189649 "Session 21" %}})
+*   The shapes of molecules and factors affecting their mobility ({{% resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Session 8" %}} through {{% resource_link 009937ee-55a4-84c8-160b-5248e1f70793 "Session 12" %}})
+*   How to write chemical equations ({{% resource_link a13b8975-9fdc-1778-eea3-68cb5be8fef0 "Session 2" %}})
+*   The distribution of energies per the Maxwell-Boltzmann curve ({{% resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Session 14" %}})
 
 ### Looking Ahead
 
-The solution hardening processes (chemically toughened glass, carburized steel) described in this session involve diffusion along concentration gradients, as quantified in [Session 23]({{< baseurl >}}/pages/reactions-and-kinetics/23-reaction-rates) and [Session 24]({{< baseurl >}}/pages/reactions-and-kinetics/24-diffusion).
+The solution hardening processes (chemically toughened glass, carburized steel) described in this session involve diffusion along concentration gradients, as quantified in {{% resource_link 568956d9-4b5b-b4e9-70b5-553efd337767 "Session 23" %}} and {{% resource_link 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7 "Session 24" %}}.
 
 ### Learning Objectives
 
@@ -120,17 +127,17 @@ After completing this session, you should be able to:
 *   Describe how to **design glasses** with the following properties: **thermal shock resistance**; low **working temperature**; high **yield stress**; high **index of refraction**; high **optical clarity**.
 *   Explain how **intermediates** act as **network formers** in some mixes and **modifiers** in others.
 *   Contrast **thermal strengthening** of glass with **chemical strengthening**.
-*   Write the **rate law** for a given chemical reaction, and determine the values of the **rate constant** k, **rate order** n, and **activation energy** Ea from the available data.
+*   Write the **rate law** for a given chemical reaction, and determine the values of the **rate constant** k, **rate order** n, and **activation energy** E{{< sub "a" >}} from the available data.
 *   Explain the effect of temperature on **chemical reactions** using the **Maxwell-Boltzmann distribution**.
 *   For a multi-step reaction, determine which step is **rate-limiting** and write the overall rate law.
-*   Describe how **radioisotope dating** works, and calculate the age of artifacts using their **14C** content.
+*   Describe how **radioisotope dating** works, and calculate the age of artifacts using their **{{< sup "14" >}}C** content.
 
 Reading
 -------
 
-[Archived Lecture Notes #7 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln07)
+{{% resource_link 89de42af-0f13-3329-6116-2dbddbeddddc "Archived Lecture Notes #7 (PDF)" %}}
 
-[Archived Lecture Notes #8 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln08)
+{{% resource_link 77aedff7-4af7-4be5-aa06-d4b580bed800 "Archived Lecture Notes #8 (PDF)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -174,7 +181,7 @@ Activation energy, graphing the energy changes during a reaction, the Arrhenius 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 12.2, "Glasses – Noncrystalline Materials."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 12.2, "Glasses – Noncrystalline Materials."
 {{< tdclose >}}
 {{< tdopen >}}
 Network formers, modifiers, and intermediates; commercial silicate glasses; nonsilicate glasses; applications of amorphous solids
@@ -183,7 +190,7 @@ Network formers, modifiers, and intermediates; commercial silicate glasses; nons
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 12.3, "Glass-Ceramics."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 12.3, "Glass-Ceramics."
 {{< tdclose >}}
 {{< tdopen >}}
 Heat treatment and crystallization, mechanical and thermal shock resistance, nucleating agents, glass processing techniques
@@ -200,20 +207,20 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF)]({{< baseurl >}}/resources/mit3_091scf09_lec22)
+{{% resource_link 7e17c011-6607-aa5d-9d64-24936ceb41c7 "Lecture Slides (PDF)" %}}
 
 ### Lecture Summary
 
-**Glasses** can be engineered for specific applications by altering their proportions of **network formers**, **network modifiers**, and **intermediates** (e.g. Al2O3), and through careful processing. For example, glass can be **strengthened** by introducing compressive stress near the surface, by thermal (e.g. **tempering**) or chemical treatment (e.g. **solution hardening**).
+**Glasses** can be engineered for specific applications by altering their proportions of **network formers**, **network modifiers**, and **intermediates** (e.g. Al{{< sub "2" >}}O{{< sub "3" >}}), and through careful processing. For example, glass can be **strengthened** by introducing compressive stress near the surface, by thermal (e.g. **tempering**) or chemical treatment (e.g. **solution hardening**).
 
-The next unit covers **chemical kinetics**, the study of **reaction rates** and **mechanisms**. For a generalized reaction system, the **rate of change** of ci (concentration of species i) is proportional to the **instantaneous concentration** of ci; the exact values of the **rate constant** k and the **rate order** n are typically determined by experiment. The rate constant can be increased by raising the **temperature** and/or lowering the **activation energy**. **Radiocarbon dating**, although not a chemical reaction, has a **first-order** rate law, resulting in a constant decay rate over time.
+The next unit covers **chemical kinetics**, the study of **reaction rates** and **mechanisms**. For a generalized reaction system, the **rate of change** of c{{< sub "i" >}} (concentration of species i) is proportional to the **instantaneous concentration** of c{{< sub "i" >}}; the exact values of the **rate constant** k and the **rate order** n are typically determined by experiment. The rate constant can be increased by raising the **temperature** and/or lowering the **activation energy**. **Radiocarbon dating**, although not a chemical reaction, has a **first-order** rate law, resulting in a constant decay rate over time.
 
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw22)
+{{% resource_link 67e78b6c-5093-89af-e66e-047d6a92fe9a "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw22_sol)
+{{% resource_link 17a6e787-5b98-6404-8a27-71f98cea991f "Solutions (PDF)" %}}
 
 [MATDL VirtualDL Lessons 1-4](https://web.archive.org/web/20100115000922/http://matdl.org/virtuallabs/index.php/3.091_VirtualLab)
 
@@ -365,11 +372,11 @@ MIT OpenCourseWare
 Undergraduate (elective)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 30: Introduction to Reaction Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/pages/video-lectures/lecture-30-introduction-to-reaction-kinetics)
+[Lecture 30: Introduction to Reaction Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/resources/lecture-30-introduction-to-reaction-kinetics)
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/amorphous-materials/21-introduction-to-glasses) | [Next]({{< baseurl >}}/pages/amorphous-materials/self-assessment-amorphous-materials) »
+« {{% resource_link 1d01a4a6-fa92-2854-cead-1f61b1189649 "Previous" %}} | {{% resource_link cbb4c14e-67cf-57ab-0634-902e7e8953ff "Next" %}} »

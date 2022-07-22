@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This page contains materials for the session on ionic crystals and the
+  Born-Haber cycle. It features a 1-hour lecture video, and also presents the prerequisites,
+  learning objectives, reading assignment, lecture slides, homework with solutions,
+  and resources for further study.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Bonding and Molecules
+parent_type: CourseSection
 parent_uid: 6ea956c8-cef5-f99e-6904-09f06d8d5317
 title: 8. Ionic Crystals; Born-Haber Cycle
 uid: 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79
 ---
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/self-assessment-structure-of-the-atom) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/9.-drawing-lewis-structures) »
+« {{% resource_link e0f0b093-6ba1-323d-d748-bdec78bb7499 "Previous" %}} | {{% resource_link 80b4e5be-5325-9c74-0eb6-068392cf19cb "Next" %}} »
 
 Session Overview
 ----------------
@@ -44,7 +51,7 @@ Born exponent, cation, anion, covalent bond, ionic bond, valence shell electron 
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-sodium chloride (NaCl), manganese (Mn), sodium (Na), potassium (K), silver iodide (AgI), neon (Ne), magnesium oxide (MgO), aluminum (Al), aluminum oxide (Al2O3), cryolite (Na3AlF6)
+sodium chloride (NaCl), manganese (Mn), sodium (Na), potassium (K), silver iodide (AgI), neon (Ne), magnesium oxide (MgO), aluminum (Al), aluminum oxide (Al{{< sub "2" >}}O{{< sub "3" >}}), cryolite (Na{{< sub "3" >}}AlF{{< sub "6" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,11 +71,11 @@ design of thermal abrasion resistance materials, design of inert anode materials
 
 Before starting this session, you should be familiar with:
 
-*   Octet stability and what it means in terms of shell filling; ionic bonding and its formation as a result of Coulombic attraction between a cation and an anion ([Session 7](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy))
+*   Octet stability and what it means in terms of shell filling; ionic bonding and its formation as a result of Coulombic attraction between a cation and an anion ({{% resource_link d0470d3e-350a-e01c-66ab-ad1825f65352 "Session 7" %}})
 
 ### Looking Ahead
 
-Prof. Sadoway discusses the shortcomings of ionic bonding and Lewis's concept of shell filling by electron sharing including the Lewis dot notation ([Session 9](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/9.-drawing-lewis-structures)); and returns to the valence shell electron pair repulsion (VSEPR) model in [Session 11: The Shapes of Molecules](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/11.-the-shapes-of-molecules).
+Prof. Sadoway discusses the shortcomings of ionic bonding and Lewis's concept of shell filling by electron sharing including the Lewis dot notation ({{% resource_link 80b4e5be-5325-9c74-0eb6-068392cf19cb "Session 9" %}}); and returns to the valence shell electron pair repulsion (VSEPR) model in {{% resource_link 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5 "Session 11: The Shapes of Molecules" %}}.
 
 ### Learning Objectives
 
@@ -85,9 +92,9 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #1 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln01), Sections 6, 7
+{{% resource_link db26b5b1-b801-cacb-a57c-381e9c2bdf1e "Archived Lecture Notes #1 (PDF)" %}}, Sections 6, 7
 
-[Archived Lecture Notes #2 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln02), Sections 1, 2
+{{% resource_link 2aee13ce-9bb0-8867-b8d5-816eb0eefc33 "Archived Lecture Notes #2 (PDF)" %}}, Sections 1, 2
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -157,7 +164,7 @@ Lecture Video
 
 ### Resources
 
-[Lecture Slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit3_091scf09_lec8)
+{{% resource_link 935d7afb-d981-a814-d0e1-7a54f8db7e85 "Lecture Slides (PDF - 1.2MB)" %}}
 
 ### Lecture Summary
 
@@ -176,9 +183,9 @@ This lecture also introduces the **valence shell electron pair repulsion (VSEPR)
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw8)
+{{% resource_link b8fad30d-58ad-f86a-f9df-19d901817def "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw8_sol)
+{{% resource_link f8f51db5-2855-d4bf-912b-77482db72fca "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -324,11 +331,11 @@ Undergraduate (first-year)
 {{< tdopen >}}
 
 
-[Lecture 10: Covalent Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-10)
+[Lecture 10: Covalent Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-10)
 
-[Lecture 11: Lewis Structures](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-11)
+[Lecture 11: Lewis Structures](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-11)
 
-[Lecture 12: Ionic Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-12)
+[Lecture 12: Ionic Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-12)
 
 
 {{< tdclose >}}
@@ -352,4 +359,4 @@ High school
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/self-assessment-structure-of-the-atom) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/9.-drawing-lewis-structures) »
+« {{% resource_link e0f0b093-6ba1-323d-d748-bdec78bb7499 "Previous" %}} | {{% resource_link 80b4e5be-5325-9c74-0eb6-068392cf19cb "Next" %}} »

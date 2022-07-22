@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This page contains materials for the session on x-ray emission and absorption.
+  It features a 1-hour lecture video, and also presents the prerequisites, learning
+  objectives, reading assignment, lecture slides, homework with solutions, and resources
+  for further study.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Crystalline Materials
+parent_type: CourseSection
 parent_uid: b66bb6b5-1948-c461-fd27-7f44614156ed
 title: 17. X-Ray Emission & Absorption
 uid: e504c6fa-63f4-b438-cb24-0e0ef9bc60eb
 ---
 
-« [Previous]({{< baseurl >}}/pages/crystalline-materials/16-crystallographic-notation-x-rays) | [Next]({{< baseurl >}}/pages/crystalline-materials/18-x-ray-diffraction-techniques) »
+« {{% resource_link e22836d9-83d9-ad9c-8310-e4357bb64a92 "Previous" %}} | {{% resource_link 2f4aa15c-0125-9d84-17ab-ecf218034e84 "Next" %}} »
 
 Session Overview
 ----------------
@@ -35,7 +42,7 @@ characterization of atomic structure, Moseley's law, generation of x-rays, x-ray
 **Keywords**
 {{< tdclose >}}
 {{< tdopen >}}
-characteristic emission lines, Kα, Kβ, Lα, Lβ, atomic spectra, quantized spectrum, continuous spectrum, proton number, atomic number, atomic mass, periodicity, periodic table, x-ray tube, lanthanide series, Moseley's law, screening factor, Bremsstrahlung, braking radiation, ballistic electrons, target anode, cold cathode, hot cathode, scattering angle, Duane-Hunt law, Henry Moseley, William Coolidge
+characteristic emission lines, K{{< sub "α" >}}, K{{< sub "β" >}}, L{{< sub "α" >}}, L{{< sub "β" >}}, atomic spectra, quantized spectrum, continuous spectrum, proton number, atomic number, atomic mass, periodicity, periodic table, x-ray tube, lanthanide series, Moseley's law, screening factor, Bremsstrahlung, braking radiation, ballistic electrons, target anode, cold cathode, hot cathode, scattering angle, Duane-Hunt law, Henry Moseley, William Coolidge
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +69,7 @@ organization of the modern periodic table, electron-beam welding, lead shielding
 
 ### Prerequisites
 
-Before starting this session, you should be familiar with topics from the first module, Structure of the Atom ([Session 1]({{< baseurl >}}/pages/structure-of-the-atom/1-introduction-to-solid-state-chemistry) through [Session 7](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy)), especially:
+Before starting this session, you should be familiar with topics from the first module, Structure of the Atom ({{% resource_link 8a1709eb-16be-69bb-41cc-325703c25a95 "Session 1" %}} through {{% resource_link d0470d3e-350a-e01c-66ab-ad1825f65352 "Session 7" %}}), especially:
 
 *   Contents and organization of the periodic table
 *   The plum-pudding and nuclear models of the atom
@@ -81,7 +88,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #5 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln05), Section 2
+{{% resource_link b61fb9c4-9126-d987-3b26-44016348e605 "Archived Lecture Notes #5 (PDF)" %}}, Section 2
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -107,7 +114,7 @@ Moseley's discovery of atomic number and its role in the periodic table
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[C&S\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#c_s) 1, "Properties of X-Rays."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[C&S\]" "#c_s" %}} 1, "Properties of X-Rays."
 {{< tdclose >}}
 {{< tdopen >}}
 Electromagnetic radiation; the continuous and characteristic spectrums; production and detection of x-rays; safety precautions
@@ -124,7 +131,7 @@ Lecture Video
 
 ### Resources
 
-[Lecture Slides (PDF - 3.5MB)]({{< baseurl >}}/resources/mit3_091scf09_lec17)
+{{% resource_link dbfd3929-46c1-a198-155f-3ffc3111c325 "Lecture Slides (PDF - 3.5MB)" %}}
 
 ### Lecture Summary
 
@@ -133,9 +140,9 @@ Shortly after the discovery of x-rays, **Henry Moseley** investigated the **char
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw17)
+{{% resource_link 00a60a75-c749-3d94-9c8d-9a5bea14bbfd "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw17_sol)
+{{% resource_link a895fc22-cf61-8412-f11c-cb662e862fe5 "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -234,4 +241,4 @@ See "[Experimental Matters](http://www.doitpoms.ac.uk/tlplib/xray-diffraction/pr
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/crystalline-materials/16-crystallographic-notation-x-rays) | [Next]({{< baseurl >}}/pages/crystalline-materials/18-x-ray-diffraction-techniques) »
+« {{% resource_link e22836d9-83d9-ad9c-8310-e4357bb64a92 "Previous" %}} | {{% resource_link 2f4aa15c-0125-9d84-17ab-ecf218034e84 "Next" %}} »

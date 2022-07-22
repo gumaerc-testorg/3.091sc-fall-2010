@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This page contains materials for the session on diffusion. It features
+  a 1-hour lecture video, and also presents the prerequisites, learning objectives,
+  reading assignment, lecture slides, homework with solutions, and resources for further
+  study.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Reactions and Kinetics
+parent_type: CourseSection
 parent_uid: 885d39b1-395a-748c-e5bf-46da89d7dc8d
 title: 24. Diffusion
 uid: 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7
 ---
 
-« [Previous]({{< baseurl >}}/pages/reactions-and-kinetics/23-reaction-rates) | [Next]({{< baseurl >}}/pages/reactions-and-kinetics/self-assessment-reactions-and-kinetics) »
+« {{% resource_link 568956d9-4b5b-b4e9-70b5-553efd337767 "Previous" %}} | {{% resource_link 786b7514-86a8-3635-cf6a-b88c95dc0332 "Next" %}} »
 
 Session Overview
 ----------------
@@ -44,7 +51,7 @@ error function, diffusion, mass transport, mass flow rate, flux, Fick's first la
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-cobalt-60 (60Co), cobalt-59 (59Co), lead (Pb), aluminum (Al), gold (Au), silver (Ag), copper (Cu), iron (Fe), graphite, carbon (C), calcia (CaO), zirconia (ZrO2), hydrogen (H), manganese (Mn), fused silica (SiO2), borosilicate glass (SiO2+B2O3), soda-lime glass (SiO2+Na2O+CaO), lead borate (PbO+B2O3), borate (B2O3) phosphate (P2O5), platinum (Pt)
+cobalt-60 ({{< sup "60" >}}Co), cobalt-59 ({{< sup "59" >}}Co), lead (Pb), aluminum (Al), gold (Au), silver (Ag), copper (Cu), iron (Fe), graphite, carbon (C), calcia (CaO), zirconia (ZrO{{< sub "2" >}}), hydrogen (H), manganese (Mn), fused silica (SiO{{< sub "2" >}}), borosilicate glass (SiO{{< sub "2" >}}+B{{< sub "2" >}}O{{< sub "3" >}}), soda-lime glass (SiO{{< sub "2" >}}+Na{{< sub "2" >}}O+CaO), lead borate (PbO+B{{< sub "2" >}}O{{< sub "3" >}}), borate (B{{< sub "2" >}}O{{< sub "3" >}}) phosphate (P{{< sub "2" >}}O{{< sub "5" >}}), platinum (Pt)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,9 +71,9 @@ doping of semiconductors, oxygen sensor for catalytic converters, outgassing, dr
 
 Before starting this session, you should be familiar with:
 
-*   Crystal lattice structures and point defects ([Session 15]({{< baseurl >}}/pages/crystalline-materials/15-introduction-to-crystallography) through [Session 20]({{< baseurl >}}/pages/crystalline-materials/20-line-interface-and-bulk-defects))
-*   Thermal excitation and the Maxwell-Boltzmann distribution ([Session 14]({{< baseurl >}}/pages/electronic-materials/14-semiconductors))
-*   Activation energy, Fick's first law ([Session 23]({{< baseurl >}}/pages/reactions-and-kinetics/23-reaction-rates))
+*   Crystal lattice structures and point defects ({{% resource_link 94d7c45c-dd53-4c54-0679-000be37ea165 "Session 15" %}} through {{% resource_link 5c00821f-505a-eeee-270d-29caeda060dc "Session 20" %}})
+*   Thermal excitation and the Maxwell-Boltzmann distribution ({{% resource_link f218eec6-2b6b-13b4-b233-61a7fc3abb81 "Session 14" %}})
+*   Activation energy, Fick's first law ({{% resource_link 568956d9-4b5b-b4e9-70b5-553efd337767 "Session 23" %}})
 *   Basic differential equations and calculus
 
 ### Learning Objectives
@@ -82,7 +89,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #9 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln09)
+{{% resource_link e984fbef-9101-02c3-4ac5-ef86f1c939c8 "Archived Lecture Notes #9 (PDF)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -99,7 +106,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.2, "Thermal Production of Point Defects."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 5.2, "Thermal Production of Point Defects."
 {{< tdclose >}}
 {{< tdopen >}}
 Activation energy of vacancies vs. interstitials; Arrhenius plot; thermal expansion
@@ -108,7 +115,7 @@ Activation energy of vacancies vs. interstitials; Arrhenius plot; thermal expans
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.3, "Point Defects and Solid-State Diffusion."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 5.3, "Point Defects and Solid-State Diffusion."
 {{< tdclose >}}
 {{< tdopen >}}
 Diffusion and vacancy migration; Fick's first and second laws; the error function; concentration profiles for common geometries
@@ -117,7 +124,7 @@ Diffusion and vacancy migration; Fick's first and second laws; the error functio
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.4, "Steady-State Diffusion."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 5.4, "Steady-State Diffusion."
 {{< tdclose >}}
 {{< tdopen >}}
 Linear solution to diffusion at constant concentration
@@ -126,7 +133,7 @@ Linear solution to diffusion at constant concentration
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.5, "Alternate Diffusion Paths."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 5.5, "Alternate Diffusion Paths."
 {{< tdclose >}}
 {{< tdopen >}}
 Bulk, surface, and grain boundary diffusion
@@ -143,9 +150,9 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec24)
+{{% resource_link 62a05864-c28d-130a-1b6a-d3316cb9aa6a "Lecture Slides (PDF - 3.0MB)" %}}
 
-[Transcript (PDF)]({{< baseurl >}}/resources/mit3_091scf10lec24_ipod-1)
+{{% resource_link c1720b66-9cbd-58f5-fa6a-d4da2ef73f9c "Transcript (PDF)" %}}
 
 ### Lecture Summary
 
@@ -156,9 +163,9 @@ Last lecture, Prof. Sadoway introduced the concept of **diffusion** to describe 
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw24)
+{{% resource_link 83b93733-79fb-fc6d-6ca0-ce92fbd900a2 "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw24_sol)
+{{% resource_link ce038d80-b7b3-1e2b-17a9-0e64acc5937d "Solutions (PDF)" %}}
 
 For Further Study
 -----------------
@@ -250,4 +257,4 @@ Explore [lecture notes, animations, and worked examples](/courses/1-061-transpor
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/reactions-and-kinetics/23-reaction-rates) | [Next]({{< baseurl >}}/pages/reactions-and-kinetics/self-assessment-reactions-and-kinetics) »
+« {{% resource_link 568956d9-4b5b-b4e9-70b5-553efd337767 "Previous" %}} | {{% resource_link 786b7514-86a8-3635-cf6a-b88c95dc0332 "Next" %}} »

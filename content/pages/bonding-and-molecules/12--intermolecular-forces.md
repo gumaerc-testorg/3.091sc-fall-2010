@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This page contains materials for the session on intermolecular forces.
+  It features a 1-hour lecture video, and also presents the prerequisites, learning
+  objectives, reading assignment, lecture slides, homework with solutions, and resources
+  for further study.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Bonding and Molecules
+parent_type: CourseSection
 parent_uid: 6ea956c8-cef5-f99e-6904-09f06d8d5317
 title: 12. Intermolecular Forces
 uid: 009937ee-55a4-84c8-160b-5248e1f70793
 ---
 
-« [Previous](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/11.-the-shapes-of-molecules) | [Next]({{< baseurl >}}/pages/bonding-and-molecules/self-assessment) »
+« {{% resource_link 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5 "Previous" %}} | {{% resource_link e546abb4-cde9-4dcd-5383-555e591eed18 "Next" %}} »
 
 Session Overview
 ----------------
@@ -44,7 +51,7 @@ permanent dipole, induced dipole, hydrogen bond, polarity, London dispersion, el
 **Chemical Substances**
 {{< tdclose >}}
 {{< tdopen >}}
-hydrochloric acid (HCl), argon (Ar), iodine (I2), methane (CH4), helium (He), propane (C3H8), octane (C8H18), eicosane (C20H42), hydrofluoric acid (HF), ammonia (NH3), water (H2O)
+hydrochloric acid (HCl), argon (Ar), iodine (I{{< sub "2" >}}), methane (CH{{< sub "4" >}}), helium (He), propane (C{{< sub "3" >}}H{{< sub "8" >}}), octane (C{{< sub "8" >}}H{{< sub "18" >}}), eicosane (C{{< sub "20" >}}H{{< sub "42" >}}), hydrofluoric acid (HF), ammonia (NH{{< sub "3" >}}), water (H{{< sub "2" >}}O)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +69,7 @@ liquid water supports life; methane sea on Titan; states of hydrocarbons at STP
 
 ### Prerequisites
 
-Before starting this session, you should be familiar with prior topics in Bonding & Molecules ([Session 8](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle) onwards), especially:
+Before starting this session, you should be familiar with prior topics in Bonding & Molecules ({{% resource_link 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79 "Session 8" %}} onwards), especially:
 
 *   Periodic trends in electronegativity, atomic radius, and valence energy
 *   The probability distribution of the electron in an atomic orbital
@@ -70,7 +77,7 @@ Before starting this session, you should be familiar with prior topics in Bondin
 
 ### Looking Ahead
 
-Water has unusual properties due to its hydrogen bonds, which will be explored further in the modules covering Aqueous Solutions ([Session 25]({{< baseurl >}}/pages/aqueous-solutions/25-introduction-to-aqueous-solutions), [Session 26]({{< baseurl >}}/pages/aqueous-solutions/26-acids-and-bases)) and Biochemistry ([Session 30]({{< baseurl >}}/pages/organic-materials/30-amino-acids) onwards). Experimental data about the state of a material at varying temperature and pressure is summarized in its phase diagram, the topic of [Session 33]({{< baseurl >}}/pages/solid-solutions/33-unary-phase-diagrams) through [Session 35]({{< baseurl >}}/pages/solid-solutions/35-binary-phase-diagrams-limited-solubility).
+Water has unusual properties due to its hydrogen bonds, which will be explored further in the modules covering Aqueous Solutions ({{% resource_link 2d99a337-8fc4-7f5c-57d3-d1e5a4dc19a3 "Session 25" %}}, {{% resource_link 98ba1bf2-d4f9-d827-e295-168909119297 "Session 26" %}}) and Biochemistry ({{% resource_link 1391526c-977f-6e58-b0c0-b163bcae3d50 "Session 30" %}} onwards). Experimental data about the state of a material at varying temperature and pressure is summarized in its phase diagram, the topic of {{% resource_link ca8d17e3-3c26-884a-7904-68ea3eee4bed "Session 33" %}} through {{% resource_link 7a815988-3da3-035d-e473-14306ab4f684 "Session 35" %}}.
 
 ### Learning Objectives
 
@@ -83,7 +90,7 @@ After completing this session, you should be able to:
 Reading
 -------
 
-[Archived Lecture Notes #2 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln02), Section 4
+{{% resource_link 2aee13ce-9bb0-8867-b8d5-816eb0eefc33 "Archived Lecture Notes #2 (PDF)" %}}, Section 4
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -109,7 +116,7 @@ Dipole-dipole interactions; London dispersion forces; hydrogen bonds
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 2.5, "The Secondary, or van der Waals, Bond."
+{{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 2.5, "The Secondary, or van der Waals, Bond."
 {{< tdclose >}}
 {{< tdopen >}}
 Van der Waals bonding; permanent and induced dipoles; hydrogen bridge
@@ -126,22 +133,22 @@ Lecture Video
 
 ### Resources
 
-[Lecture Slides (PDF - 1.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec12)
+{{% resource_link 2b2776b5-a909-a9d2-4085-937d42feed1a "Lecture Slides (PDF - 1.0MB)" %}}
 
 ### Lecture Summary
 
 Substances in the aggregate may be **solid**, **liquid**, or **gas** at a given temperature and pressure. To predict the state of a substance, both **intramolecular** (primary bonds: ionic, covalent) and **intermolecular forces** must be taken into account. Prof. Sadoway discusses the following **secondary bond types**:
 
 *   dipole-dipole (e.g. HCl)
-*   induced dipole-induced dipole (e.g. Ar, I2, CH4, He), also known as London dispersion forces or van der Waals bonds
-*   hydrogen bonding (e.g. HF, H2O, NH3)
+*   induced dipole-induced dipole (e.g. Ar, I{{< sub "2" >}}, CH{{< sub "4" >}}, He), also known as London dispersion forces or van der Waals bonds
+*   hydrogen bonding (e.g. HF, H{{< sub "2" >}}O, NH{{< sub "3" >}})
 
 Homework
 --------
 
-[Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw12)
+{{% resource_link ae36b04a-a6cf-e8f7-e517-8b43e8dc08c4 "Problems (PDF)" %}}
 
-[Solutions (PDF)]({{< baseurl >}}/resources/mit3_091scf09_hw12_sol)
+{{% resource_link c30e3a0b-84e7-0c2f-68ff-8dcea496b95f "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
@@ -255,9 +262,9 @@ Undergraduate (first-year)
 {{< tdopen >}}
 
 
-Start - 25:15 in [Lecture 16: Intermolecular Interactions](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-16-intermolecular-interactions)
+Start - 25:15 in [Lecture 16: Intermolecular Interactions](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture-16-intermolecular-interactions)
 
-End - 38:15 in [Lecture 17: Polarizability](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-17-polarizability)
+End - 38:15 in [Lecture 17: Polarizability](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture-17-polarizability)
 
 
 {{< tdclose >}}
@@ -274,11 +281,11 @@ MIT OpenCourseWare
 Undergraduate (first-year)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2: Biochemistry 1](/courses/7-012-introduction-to-biology-fall-2004/pages/video-lectures/lecture-2-biochemistry-1)
+[Lecture 2: Biochemistry 1](/courses/7-012-introduction-to-biology-fall-2004/resources/lecture-2-biochemistry-1)
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-« [Previous](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/11.-the-shapes-of-molecules) | [Next]({{< baseurl >}}/pages/bonding-and-molecules/self-assessment) »
+« {{% resource_link 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5 "Previous" %}} | {{% resource_link e546abb4-cde9-4dcd-5383-555e591eed18 "Next" %}} »
