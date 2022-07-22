@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/b97e479c5b95031c0690c771d7b2e4c3_MIT3_091SCF10lec34_iPOD.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: '34. Binary Phase Diagrams: Complete Solubility'
 parent_type: CourseSection

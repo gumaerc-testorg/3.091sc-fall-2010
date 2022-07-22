@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/529e8519ba0af6a7639ebb948aa90812_MIT3_091SCF10lec26_iPOD.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 26. Acids & Bases
 parent_type: CourseSection

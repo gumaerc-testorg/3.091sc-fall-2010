@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/b10548230f4cb9363d55541de705c40d_MIT3_091SCF10Exam_1_Prob_6_300k.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Self-Assessment: Structure of the Atom'
 parent_type: CourseSection

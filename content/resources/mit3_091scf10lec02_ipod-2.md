@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/1c6f8290c1435c5eb17b938710b4df55_MIT3_091SCF10lec02_iPOD.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 2. The Periodic Table
 parent_type: CourseSection

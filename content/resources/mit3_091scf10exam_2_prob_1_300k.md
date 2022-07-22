@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/971519ee406cb5152040c520be62da6d_MIT3_091SCF10Exam_2_Prob_1_300k.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Self-Assessment: Crystalline Materials'
 parent_type: CourseSection

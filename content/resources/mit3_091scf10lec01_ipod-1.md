@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/8647033929163b088d1c0f3957069b59_MIT3_091SCF10lec01_iPOD.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 1. Introduction to Solid State Chemistry
 parent_type: CourseSection

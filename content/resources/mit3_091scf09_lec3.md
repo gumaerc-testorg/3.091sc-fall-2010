@@ -5,6 +5,7 @@ description: 'This resource contains the information about the atomic models: Ru
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/d675a42616a8d9aa0071a682b434e233_MIT3_091SCF09_lec3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: '3. Atomic Models: Rutherford & Bohr'
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT3_091SCF09_lec3.pdf
 uid: d675a426-16a8-d9aa-0071-a682b434e233
 ---
 This resource contains the information about the atomic models: Rutherford & Bohr.
-

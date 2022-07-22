@@ -4,6 +4,7 @@ description: This resource contains homework solutions.
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/22cd6cacc77f7466f2e0bd8e082452fb_MIT3_091SCF09_hw21_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 21. Introduction to Glasses
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: MIT3_091SCF09_hw21_sol.pdf
 uid: 22cd6cac-c77f-7466-f2e0-bd8e082452fb
 ---
 This resource contains homework solutions.
-

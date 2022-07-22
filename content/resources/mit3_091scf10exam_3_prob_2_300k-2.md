@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/e7dc0d8e06cfec8165a19e9a0298417a_MIT3_091SCF10Exam_3_Prob_2_300k.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Self-Assessment: Amorphous Materials'
 parent_type: CourseSection

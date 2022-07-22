@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/cb7c59d7a2dc5b4c97ff6c713d23f45d_MIT3_091SCF10lec32_iPOD.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: '32. Biochemistry: Lipids, Nucleic Acids & DNA'
 parent_type: CourseSection

@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/3bff92499d9958cdad0369557e3ef718_MIT3_091SCF10lec31_iPOD.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: '31. Biochemistry: Protein Structure'
 parent_type: CourseSection

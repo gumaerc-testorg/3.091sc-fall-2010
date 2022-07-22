@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/9637706b8e2e19ad0a31d38ac0860166_MIT3_091SCF10lec15_iPOD.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 15. Introduction to Crystallography
 parent_type: CourseSection

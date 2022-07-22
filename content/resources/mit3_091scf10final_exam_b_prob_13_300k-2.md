@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/b9c5eef47d0c524e8ad3c7fbeee5807c_MIT3_091SCF10Final_Exam_B_Prob_13_300k.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Self-Assessment: Organic Materials'
 parent_type: CourseSection
