@@ -804,7 +804,7 @@ div-with-classdiv-with-class
 
 div-with-class
 
-### People
+*People*
 
 [Wolfgang Pauli](http://en.wikipedia.org/wiki/Wolfgang_Pauli) - [1945 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/1945/)
 
