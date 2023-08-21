@@ -1,8 +1,14 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -14,7 +20,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'Lecture 7: The Aufbau Principle; Photoelectron Spectroscopy '
+title: 'Lecture 7: The Aufbau Principle; Photoelectron Spectroscopy'
 uid: 9cba9df3-ef38-c8a0-69c3-6642e0072dcf
 video_files:
   archive_url: http://www.archive.org/download/MIT3_091SCF10/MIT3_091SCF10lec07_300k.mp4
