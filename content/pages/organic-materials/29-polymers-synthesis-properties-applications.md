@@ -4,6 +4,7 @@ description: This page contains materials for the polymers class session on synt
   properties and applications. It features a 1-hour lecture video, and also presents
   the prerequisites, learning objectives, reading assignment, lecture slides, homework
   with solutions, and resources for further study.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Organic Materials
@@ -12,66 +13,37 @@ parent_uid: 0ab5962f-08b0-e5dd-2488-7c3659767245
 title: '29. Polymers: Synthesis, Properties & Applications'
 uid: ab1dea66-95b4-5d1a-3cc8-9fa06d9ba941
 ---
+« {{% resource_link "f8c2db6d-2332-71ec-1747-b2c8369b532e" "Previous" %}} | {{% resource_link "1391526c-977f-6e58-b0c0-b163bcae3d50" "Next" %}} »
 
-« {{% resource_link f8c2db6d-2332-71ec-1747-b2c8369b532e "Previous" %}} | {{% resource_link 1391526c-977f-6e58-b0c0-b163bcae3d50 "Next" %}} »
+## Session Overview
 
-Session Overview
-----------------
-
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 **Modules**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Organic Materials
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 **Concepts**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 polymer synthesis by addition and condensation, polymer structure-property relationships, social and culture implications of polymers
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 **Keywords**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 plastics, addition polymerization, radical, condensation polymerization, amide bond, carbonyl group, electrical insulator, thermoplastic, thermoset, crystallization zone, Wallace Carothers, glass transition temperature, recycling, design for environment (DFE)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 **Chemical Substances**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 polyester, poly(ethylene terephthalate) (PET), silicone, nylon, polyurethane, norbornene, isoprene, Bakelite
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 **Applications**
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 polypropylene in lithium ion batteries, soda bottles and fabrics, electrical insulators, recycling and packaging
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ### Prerequisites
 
 Before starting this session, you should be familiar with:
 
-*   {{% resource_link f8c2db6d-2332-71ec-1747-b2c8369b532e "Session 28: Polymers: Structure & Composition" %}}
+- {{% resource_link "f8c2db6d-2332-71ec-1747-b2c8369b532e" "Session 28: Polymers: Structure & Composition" %}}
 
 ### Looking Ahead
 
@@ -81,65 +53,38 @@ The next segment on biochemistry (Sessions 30 through 32) builds upon these intr
 
 After completing this session, you should be able to:
 
-*   Define, compare and contrast the two forms of **polymer synthesis.**
-*   Summarize the key **properties** of polymers that determine their suitability for various **applications.**
-*   Explain the relationship between **polymer structure** and **material properties**, for instance the effect of **crystallization zones** on strength and transparency.
-*   Describe some factors that affect the **recyclability** of polymers.
+- Define, compare and contrast the two forms of **polymer synthesis.**
+- Summarize the key **properties** of polymers that determine their suitability for various **applications.**
+- Explain the relationship between **polymer structure** and **material properties**, for instance the effect of **crystallization zones** on strength and transparency.
+- Describe some factors that affect the **recyclability** of polymers.
 
-Reading
--------
+## Reading
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Book Chapters
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 Topics
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[PB-OC\]" "#pb-oc" %}} 28, "Synthetic Polymers."
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Addition and condensation synthesis; addition (chain growth) and condensation (step growth) polymers; stereochemistry; dienes and rubber; copolymers; structure-property relationships
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 13.1, "Polymerization."
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Polymer form as it relates to synthesis; example of collagen
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} 13.2, "Structural Features of Polymers."
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Polymer structure as it relates to synthesis; example of rubber vulcanization
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
+## Lecture Video
 
-{{< tableclose >}}
-
-Lecture Video
--------------
-
-{{% resource_link 85777a6d-4c12-3499-b3de-75874fb57714 "Lecture 29: Polymers: Synthesis, Properties & Applications" %}}
+{{% resource_link "85777a6d-4c12-3499-b3de-75874fb57714" "Lecture 29: Polymers: Synthesis, Properties & Applications" %}}
 
 ### Resources
 
-{{% resource_link c5182ae7-c9ce-e00c-291f-565be88d800b "Lecture Slides (PDF - 3.0MB)" %}}
+{{% resource_link "c5182ae7-c9ce-e00c-291f-565be88d800b" "Lecture Slides (PDF - 3.0MB)" %}}
 
 ### Lecture Summary
 
@@ -149,40 +94,38 @@ The two forms of **polymer synthesis** (**addition** and **condensation**) are d
 
 Prof. Sadoway summarizes the **properties of polymers** as follows:
 
-*   Electrically insulating
-*   Transparent to visible light (amorphous material) vs. opaque
-*   Chemically inert
-*   Strong covalent bonds (thus good for packaging)
-*   Low density
-*   Solid at room temperature
+- Electrically insulating
+- Transparent to visible light (amorphous material) vs. opaque
+- Chemically inert
+- Strong covalent bonds (thus good for packaging)
+- Low density
+- Solid at room temperature
 
 Polymers have had significant **impact on society**. The economic and performance improvements introduced by polymer-based substitute materials have transformed many aspects of modern daily life, and led to entirely new products. The class discussion ranges from early 20th century inventions (e.g. **nylon**, **Bakelite**), to the late 1960s fascination with **plastics**, to present-day concerns about **recycling** and **human health** impacts.
 
-Homework
---------
+## Homework
 
-{{% resource_link 4807b196-a1d9-578d-c209-490450ef4755 "Problems (PDF)" %}}
+{{% resource_link "4807b196-a1d9-578d-c209-490450ef4755" "Problems (PDF)" %}}
 
-{{% resource_link 59a848b8-e8e0-2729-08be-3ad3bb078fc0 "Solutions (PDF)" %}}
+{{% resource_link "59a848b8-e8e0-2729-08be-3ad3bb078fc0" "Solutions (PDF)" %}}
 
 ### Textbook Problems
 
 {{% resource_link "9abd92d7-66e1-b816-f50d-00770b2420e1" "\[JS\]" "#js" %}} Chapter 13, Sample Problems 13.1 and 13.4
 
-For Further Study
------------------
+## For Further Study
 
 ### Supplemental Readings
 
-Perree, R. _Bakelite: The Material of a Thousand Uses._ Amsterdam, NL: Cadre, 1996. ISBN: 9789053492338.
+Perree, R. *Bakelite: The Material of a Thousand Uses.* Amsterdam, NL: Cadre, 1996. ISBN: 9789053492338.
 
-Meikle, J. _American Plastic: A Culture History._ New Brunswick, NJ: Rutgers University Press, 1995. ISBN: 9780813522357.
+Meikle, J. *American Plastic: A Culture History.* New Brunswick, NJ: Rutgers University Press, 1995. ISBN: 9780813522357.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262523493) Brown, D. E. [_Inventing Modern America: From the Microwave to the Mouse_](https://mitpress.mit.edu/9780262523493). Cambridge, MA: MIT Press, 2001. ISBN: 9780262523493. \[[Companion website](http://web.mit.edu/invent/www/ima/)\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262523493) Brown, D. E. [*Inventing Modern America: From the Microwave to the Mouse*](https://mitpress.mit.edu/9780262523493). Cambridge, MA: MIT Press, 2001. ISBN: 9780262523493. 
 
-Carothers, W.H. _Collected Papers of Wallace Hume Carothers on High Polymeric Substances_. New York, NY: Interscience Publishers, 1940. ISBN: 9781406759259. \[Download or view complete work from [Internet Archive](http://www.archive.org/details/collectedpaperso031072mbp)\]
+Carothers, W.H. *Collected Papers of Wallace Hume Carothers on High Polymeric Substances*. New York, NY: Interscience Publishers, 1940. ISBN: 9781406759259. \[Download or view complete work from [Internet Archive](http://www.archive.org/details/collectedpaperso031072mbp)\]
 
-Furukawa, Y. _Inventing Polymer Science: Staudinger, Carothers, and the Emergence of Macromolecular Science_. Philadelphia, PA: University of Pennsylvania Press, 1998. ISBN: 9780812233360.
+Furukawa, Y. *Inventing Polymer Science: Staudinger, Carothers, and the Emergence of Macromolecular Science*. Philadelphia, PA: University of Pennsylvania Press, 1998. ISBN: 9780812233360.
 
 ### People
 
@@ -190,101 +133,54 @@ Furukawa, Y. _Inventing Polymer Science: Staudinger, Carothers, and the Emergenc
 
 ### Culture
 
-"Mr. Cellophane." _Chicago_. DVD. Miramax, 2003.
+"Mr. Cellophane." *Chicago*. DVD. Miramax, 2003.
 
-_The Graduate_. Directed by M. Nichols. DVD. MGM, 1967.
+*The Graduate*. Directed by M. Nichols. DVD. MGM, 1967.
 
 ### Other OCW and OER Content
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Content
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 Provider
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 Level
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 [Polymer Basics](http://www.doitpoms.ac.uk/tlplib/polymerbasics/index.php), [The Glass Transition in Polymers](http://www.doitpoms.ac.uk/tlplib/glass-transition/index.php), [Crystallinity in Polymers](http://www.doitpoms.ac.uk/tlplib/polymers/index.php)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 DoITPoMS
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Undergraduate
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 [3.063 Polymer Physics](/courses/3-063-polymer-physics-spring-2007)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 MIT OpenCourseWare
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Undergraduate (elective)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 [3.064 Polymer Engineering](/courses/3-064-polymer-engineering-fall-2003)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 MIT OpenCourseWare
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Undergraduate (elective)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 [10.467 Polymer Science Laboratory](/courses/10-467-polymer-science-laboratory-fall-2005)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 MIT OpenCourseWare
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Undergraduate (elective) / Graduate
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 [10.569 Synthesis of Polymers](/courses/10-569-synthesis-of-polymers-fall-2006)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 MIT OpenCourseWare
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Graduate
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 [Introduction to Polymers](http://openlearn.open.ac.uk/mod/oucontent/view.php?id=397829)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 OpenUniversity UK
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Masters
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< tableclose >}}
-
-« {{% resource_link f8c2db6d-2332-71ec-1747-b2c8369b532e "Previous" %}} | {{% resource_link 1391526c-977f-6e58-b0c0-b163bcae3d50 "Next" %}} »
+« {{% resource_link "f8c2db6d-2332-71ec-1747-b2c8369b532e" "Previous" %}} | {{% resource_link "1391526c-977f-6e58-b0c0-b163bcae3d50" "Next" %}} »
