@@ -2,7 +2,7 @@
 content_type: page
 description: This resource index gives users access to most of the course resources
   in a single location.
-draft: false
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Resource Index
@@ -804,7 +804,7 @@ div-with-classdiv-with-class
 
 div-with-class
 
-### People
+*People*
 
 [Wolfgang Pauli](http://en.wikipedia.org/wiki/Wolfgang_Pauli) - [1945 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/1945/)
 
