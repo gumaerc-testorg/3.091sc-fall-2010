@@ -4,6 +4,7 @@ description: This resource contains summary notes for the lectures, intended as 
   study aid for the final exam.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/fcb2b28d4fe7732ef3004072a2527ab9_MIT3_091SCF09_summary.pdf
+file_size: 4230861
 file_type: application/pdf
 image_metadata:
   caption: ''

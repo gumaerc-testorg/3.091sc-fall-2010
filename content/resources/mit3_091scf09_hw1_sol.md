@@ -4,6 +4,7 @@ description: This resource contains 1 problem solution about calculate the molec
   weight.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/3ff7c3d320c4f28700a61ea4adfbbe6f_MIT3_091SCF09_hw1_sol.pdf
+file_size: 50648
 file_type: application/pdf
 image_metadata:
   caption: ''

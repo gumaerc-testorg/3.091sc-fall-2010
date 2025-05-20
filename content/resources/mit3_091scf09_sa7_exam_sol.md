@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains self assessment exam solution outlines.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/70d9ed009604f495c4bb4b5520858e24_MIT3_091SCF09_sa7_exam_sol.pdf
+file_size: 606869
 file_type: application/pdf
 image_metadata:
   caption: ''

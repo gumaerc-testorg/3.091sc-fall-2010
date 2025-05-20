@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/04b214e31bf4f11b6573e723517f0dc7_MIT3_091SCF10lec12_iPOD.srt
+file_size: 57386
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

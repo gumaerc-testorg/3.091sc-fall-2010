@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to amino acids.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/8bcb388c7a1b0b88e396aa431bffeafe_MIT3_091SCF09_lec30.pdf
+file_size: 1280205
 file_type: application/pdf
 image_metadata:
   caption: ''

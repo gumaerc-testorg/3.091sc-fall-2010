@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/2d846cc9c9aa06daad2db7253137b366_MIT3_091SCF10Final_Exam_A_Prob_9_300k.srt
+file_size: 19757
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

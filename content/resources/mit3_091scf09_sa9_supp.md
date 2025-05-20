@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains supplemental exam problems for study.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/f55e0ddccb6e27c2d7492d23c5ef1f5e_MIT3_091SCF09_sa9_supp.pdf
+file_size: 476629
 file_type: application/pdf
 image_metadata:
   caption: ''

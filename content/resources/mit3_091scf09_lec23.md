@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to reaction rates.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/76b205385820149e6cd13b74c33fc2e0_MIT3_091SCF09_lec23.pdf
+file_size: 1539207
 file_type: application/pdf
 image_metadata:
   caption: ''

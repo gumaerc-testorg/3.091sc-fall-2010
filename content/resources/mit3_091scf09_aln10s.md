@@ -4,6 +4,7 @@ description: This resource contains the infroamtion about the component system a
   temperature-composition diagrams.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/caf0d98c093698893340c24e30cb318e_MIT3_091SCF09_aln10s.pdf
+file_size: 73408
 file_type: application/pdf
 image_metadata:
   caption: ''

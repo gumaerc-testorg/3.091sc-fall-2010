@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the homework problems.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/c9193599c9e647987f89ff8ef20460ad_MIT3_091SCF09_hw5.pdf
+file_size: 54407
 file_type: application/pdf
 image_metadata:
   caption: ''

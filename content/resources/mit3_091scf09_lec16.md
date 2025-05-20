@@ -4,6 +4,7 @@ description: This resource contains information related to crystallographic nota
   and x rays.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/dcdd374fa5d1eea537e08f2148b90cda_MIT3_091SCF09_lec16.pdf
+file_size: 1458224
 file_type: application/pdf
 image_metadata:
   caption: ''
