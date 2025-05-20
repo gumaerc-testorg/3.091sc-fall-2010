@@ -4,6 +4,7 @@ description: This resource contains the information solutions key for supplement
   exam problems.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/9eb0eea004fbf7e4259ba48790322f4d_MIT3_091SCF09_sa3_supp_sol.pdf
+file_size: 530653
 file_type: application/pdf
 image_metadata:
   caption: ''

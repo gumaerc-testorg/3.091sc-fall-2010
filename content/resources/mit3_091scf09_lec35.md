@@ -4,6 +4,7 @@ description: 'This resource contains information related to binary phase diagram
   limited solubility.'
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bc9d018a506bd7e90b7ee74067ce857a_MIT3_091SCF09_lec35.pdf
+file_size: 1923922
 file_type: application/pdf
 image_metadata:
   caption: ''

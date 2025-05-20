@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the final exam questions.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/b6b2d7a8649767f320fd1e78b9ec0cc7_MIT3_091SCF09_final.pdf
+file_size: 1504063
 file_type: application/pdf
 image_metadata:
   caption: ''

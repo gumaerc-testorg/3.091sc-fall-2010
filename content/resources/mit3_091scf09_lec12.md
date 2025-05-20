@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to intermolecular forces.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/2b2776b5a909a9d24085937d42feed1a_MIT3_091SCF09_lec12.pdf
+file_size: 1783202
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -4,6 +4,7 @@ description: "This resource contains the information about the weekly homework q
   \ \u2013 solution outlines."
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/8126d1369674ad8323f2288583ed63b9_MIT3_091SCF09_sa3_quiz_sol.pdf
+file_size: 41136
 file_type: application/pdf
 image_metadata:
   caption: ''

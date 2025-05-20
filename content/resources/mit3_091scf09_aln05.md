@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information about the X-rays and X-ray diffraction.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/b61fb9c49126d9873b2644016348e605_MIT3_091SCF09_aln05.pdf
+file_size: 189855
 file_type: application/pdf
 image_metadata:
   caption: ''

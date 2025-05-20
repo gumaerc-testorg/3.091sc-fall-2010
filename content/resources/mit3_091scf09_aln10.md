@@ -4,6 +4,7 @@ description: This resource contains the information about the phase equilibria a
   phase diagrams.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/8561973350a2e44d7ee4e8304272c56f_MIT3_091SCF09_aln10.pdf
+file_size: 299080
 file_type: application/pdf
 image_metadata:
   caption: ''

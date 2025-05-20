@@ -4,6 +4,7 @@ description: This resource contains information about Introduction to solid stat
   chemistry.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/debd5701469ce24aac7ae098cae6a8b5_MIT3_091SCF09_lec1.pdf
+file_size: 3325698
 file_type: application/pdf
 image_metadata:
   caption: ''

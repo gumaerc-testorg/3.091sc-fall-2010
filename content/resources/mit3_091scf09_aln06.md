@@ -4,6 +4,7 @@ description: This resource contains the information about the the imperfect soli
   state and the point defects.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/128d0c6d4b746a7866e75600347e12cd_MIT3_091SCF09_aln06.pdf
+file_size: 194500
 file_type: application/pdf
 image_metadata:
   caption: ''

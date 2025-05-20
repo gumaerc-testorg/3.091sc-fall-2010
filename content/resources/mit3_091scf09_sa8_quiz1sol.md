@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains weekly homework quiz: solution outlines.'
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/50b35b0f1b3781ff161e52d3f981bff4_MIT3_091SCF09_sa8_quiz1sol.pdf
+file_size: 36138
 file_type: application/pdf
 image_metadata:
   caption: ''

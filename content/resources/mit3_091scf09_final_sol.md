@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the solution key for the final exam.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/1d3b0608b3357caee543d49694703434_MIT3_091SCF09_final_sol.pdf
+file_size: 4458453
 file_type: application/pdf
 image_metadata:
   caption: ''
