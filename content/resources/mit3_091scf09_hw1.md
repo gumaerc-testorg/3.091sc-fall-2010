@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains one problem about calculate the molecular weight.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/2dffe41cfdbf12fc94da42ec6eb8586f_MIT3_091SCF09_hw1.pdf
+file_size: 53488
 file_type: application/pdf
 image_metadata:
   caption: ''

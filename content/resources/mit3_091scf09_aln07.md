@@ -4,6 +4,7 @@ description: This resource contains the information about the glasses and the di
   glassy states.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/89de42af0f13332961162dbddbeddddc_MIT3_091SCF09_aln07.pdf
+file_size: 155710
 file_type: application/pdf
 image_metadata:
   caption: ''

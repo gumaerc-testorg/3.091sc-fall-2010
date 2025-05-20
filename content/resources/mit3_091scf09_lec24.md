@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to diffusion.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/62a05864c28d130a1b6ad3316cb9aa6a_MIT3_091SCF09_lec24.pdf
+file_size: 2895291
 file_type: application/pdf
 image_metadata:
   caption: ''

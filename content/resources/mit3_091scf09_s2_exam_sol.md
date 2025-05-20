@@ -4,6 +4,7 @@ description: This resource contains solutions for self-assessment exam bonding a
   molecules.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/0293206006402a162fcfff143547751f_MIT3_091SCF09_s2_exam_sol.pdf
+file_size: 1052976
 file_type: application/pdf
 image_metadata:
   caption: ''

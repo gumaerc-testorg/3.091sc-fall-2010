@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains supplemental resource problems: solution key.'
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/2a98cffc977834fdb5f5a2be9b93bccf_MIT3_091SCF09_sa8_supp_sol.pdf
+file_size: 324608
 file_type: application/pdf
 image_metadata:
   caption: ''

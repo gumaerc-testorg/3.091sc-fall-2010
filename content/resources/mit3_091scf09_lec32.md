@@ -4,6 +4,7 @@ description: 'This resource contains information related to biochemistry: lipids
   nucleic acids, and DNA.'
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/3ee9190e45691927856313f966209d22_MIT3_091SCF09_lec32.pdf
+file_size: 4221040
 file_type: application/pdf
 image_metadata:
   caption: ''

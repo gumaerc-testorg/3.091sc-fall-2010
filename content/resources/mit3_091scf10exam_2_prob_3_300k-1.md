@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/77215fb2ac89d562db2947572f1812ce_MIT3_091SCF10Exam_2_Prob_3_300k.pdf
+file_size: 36332
 file_type: application/pdf
 image_metadata:
   caption: ''

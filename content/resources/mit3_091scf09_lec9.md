@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information about the drawing lewis structures.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/a4e0cd55113cd2bcfe4c9b4de3719739_MIT3_091SCF09_lec9.pdf
+file_size: 2965497
 file_type: application/pdf
 image_metadata:
   caption: ''

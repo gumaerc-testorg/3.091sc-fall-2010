@@ -4,6 +4,7 @@ description: "This resource contains the self-assessment exam for electronic mat
   \n"
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/f051d2afb7691776f327b3a084e6aeee_MIT3_091SCF09_sa3_exam.pdf
+file_size: 50329
 file_type: application/pdf
 image_metadata:
   caption: ''

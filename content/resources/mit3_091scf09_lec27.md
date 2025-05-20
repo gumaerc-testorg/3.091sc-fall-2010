@@ -4,6 +4,7 @@ description: This resource contains information related to introduction to organ
   chemistry.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bfe357346eb4a831f6e8e0ca3157a0ef_MIT3_091SCF09_lec27.pdf
+file_size: 1592563
 file_type: application/pdf
 image_metadata:
   caption: ''

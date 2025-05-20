@@ -4,6 +4,7 @@ description: This resource contains the information about the Aufbau principle; 
   spectroscopy.
 draft: false
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/332bdd0c0b87d7086a0254a4cab648d4_MIT3_091SCF09_lec7.pdf
+file_size: 1186907
 file_type: application/pdf
 image_metadata:
   caption: ''
