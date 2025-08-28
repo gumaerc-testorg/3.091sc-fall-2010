@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to engineering glass properties:
   introduction to kinetics.'
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/7e17c0116607aa5d9d6424936ceb41c7_MIT3_091SCF09_lec22.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/7e17c0116607aa5d9d6424936ceb41c7_MIT3_091SCF09_lec22.pdf
 file_size: 801516
 file_type: application/pdf
 image_metadata:

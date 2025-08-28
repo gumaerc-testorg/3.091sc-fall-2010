@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the solutions for Session 9 homework problems.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/d9e9573085a3b159302c3aa9ce421355_MIT3_091SCF09_hw9_sol.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/d9e9573085a3b159302c3aa9ce421355_MIT3_091SCF09_hw9_sol.pdf
 file_size: 142155
 file_type: application/pdf
 image_metadata:

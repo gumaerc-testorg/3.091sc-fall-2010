@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the information about the electron shells & quantum
   numbers.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/cd1c7bad1195820526f2daa467a8bb67_MIT3_091SCF09_lec5.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/cd1c7bad1195820526f2daa467a8bb67_MIT3_091SCF09_lec5.pdf
 file_size: 2646556
 file_type: application/pdf
 image_metadata:

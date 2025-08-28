@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains supplemental resource problems.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/d021a3f1118d65040551bc2cebce018e_MIT3_091SCF09_sa6_supp.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/d021a3f1118d65040551bc2cebce018e_MIT3_091SCF09_sa6_supp.pdf
 file_size: 238224
 file_type: application/pdf
 image_metadata:

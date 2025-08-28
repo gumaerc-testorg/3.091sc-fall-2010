@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to binary phase diagrams
   : complete solubility.'
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/67bed876f84dbc36b1cb5b3a46011d0c_MIT3_091SCF09_lec34.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/67bed876f84dbc36b1cb5b3a46011d0c_MIT3_091SCF09_lec34.pdf
 file_size: 2533484
 file_type: application/pdf
 image_metadata:

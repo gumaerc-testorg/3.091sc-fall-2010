@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the information about the hybridized & molecular
   orbitals; paramagnetism.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/8fab69bd9a8f6e8da2e490e8816cfdb5_MIT3_091SCF09_lec10.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/8fab69bd9a8f6e8da2e490e8816cfdb5_MIT3_091SCF09_lec10.pdf
 file_size: 2138271
 file_type: application/pdf
 image_metadata:

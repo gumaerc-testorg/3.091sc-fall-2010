@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to point and line defects.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/e9d8706809d23de03d37a624db0b8967_MIT3_091SCF09_lec19.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/e9d8706809d23de03d37a624db0b8967_MIT3_091SCF09_lec19.pdf
 file_size: 4235913
 file_type: application/pdf
 image_metadata:

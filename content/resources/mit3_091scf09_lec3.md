@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains the information about the atomic models: Rutherford
   & Bohr.'
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/d675a42616a8d9aa0071a682b434e233_MIT3_091SCF09_lec3.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/d675a42616a8d9aa0071a682b434e233_MIT3_091SCF09_lec3.pdf
 file_size: 9501032
 file_type: application/pdf
 image_metadata:

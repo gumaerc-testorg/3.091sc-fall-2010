@@ -4,7 +4,7 @@ description: ''
 draft: false
 end_time: '913'
 file: null
-file_size: null
+file_size: 35333031
 file_type: ''
 image_metadata:
   caption: ''
@@ -25,7 +25,7 @@ start_time: '0'
 title: 'Clip 2: Final Exam, Problem 9'
 uid: 46807885-b9c5-2dfb-8732-83967f7dceda
 video_files:
-  archive_url: http://www.archive.org/details/MIT3_091SCF10
+  archive_url: https://ia800400.us.archive.org/3/items/MIT3_091SCF10/MIT3-091SCF10Final_Exam_A_Prob_9_300k.mp4
   video_captions_file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/55e49703aa675464876c637d3bcc6e91_p6isgsReWmI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/p6isgsReWmI/default.jpg
   video_transcript_file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/25756c6e8a26845297fac74f7dca28e6_p6isgsReWmI.pdf

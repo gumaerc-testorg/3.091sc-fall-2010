@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/0950956954315fcc0d32a29c5383c1f6_MIT3_091SCF10Exam_1_Prob_2_300k.srt
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/0950956954315fcc0d32a29c5383c1f6_MIT3_091SCF10Exam_1_Prob_2_300k.srt
 file_size: 22919
 file_type: application/x-subrip
 learning_resource_types: []

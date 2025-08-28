@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains weekly homework quiz.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/d5bdeb5c7e97c03305cbe70dc3d17faf_MIT3_091SCF09_sa8_quiz1.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/d5bdeb5c7e97c03305cbe70dc3d17faf_MIT3_091SCF09_sa8_quiz1.pdf
 file_size: 33313
 file_type: application/pdf
 image_metadata:

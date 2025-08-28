@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to band theory of solids.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/2c2dd2aad9b88123da8d72f5cdc9d701_MIT3_091SCF09_lec13.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/2c2dd2aad9b88123da8d72f5cdc9d701_MIT3_091SCF09_lec13.pdf
 file_size: 873727
 file_type: application/pdf
 image_metadata:
