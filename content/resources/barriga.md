@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/1eb4d74af4fbafbcf947e1c526289c2c_barriga.jpg
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/1eb4d74af4fbafbcf947e1c526289c2c_barriga.jpg
 file_size: 18584
 file_type: image/jpeg
 image_metadata:

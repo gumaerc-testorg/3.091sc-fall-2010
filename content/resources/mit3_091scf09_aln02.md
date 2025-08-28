@@ -3,7 +3,7 @@ content_type: resource
 description: "This resource contains the information about the chemical bonding.\r\
   \n"
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/2aee13ce9bb08867b8d5816eb0eefc33_MIT3_091SCF09_aln02.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/2aee13ce9bb08867b8d5816eb0eefc33_MIT3_091SCF09_aln02.pdf
 file_size: 360574
 file_type: application/pdf
 image_metadata:

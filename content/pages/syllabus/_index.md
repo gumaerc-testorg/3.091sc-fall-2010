@@ -10,8 +10,6 @@ ocw_type: CourseSection
 title: Syllabus
 uid: 116bf279-d466-43e7-0e0e-4cd163f567f1
 ---
-« \[Previous\]({{< baseurl >}}/pages/index.htm) | {{% resource_link "8a1709eb-16be-69bb-41cc-325703c25a95" "Next" %}} »
-
 {{< resource uuid="f60f2e80-2577-5c4f-f93f-8a536c0d5531" >}}
 
 ### Resources
@@ -40,7 +38,7 @@ In this video:
 
 {{< resource uuid="63500265-7495-6069-5e1b-f166cbe8594b" >}}
 
-In this video recorded in March 2012, Professor Sadoway uses his new [liquid metal battery](http://web.mit.edu/newsoffice/2012/profile-sadoway-innovative-approach-batteries-0423.html) to demonstrate the value of understanding chemistry and his approach to teaching and innovation. (This video is from [TEDtalksDirector](http://www.youtube.com/user/TEDtalksDirector) on YouTube and is not provided under our [Creative Commons license](/terms/index.htm#cc).)
+In this video recorded in March 2012, Professor Sadoway uses his new [liquid metal battery](http://web.mit.edu/newsoffice/2012/profile-sadoway-innovative-approach-batteries-0423.html) to demonstrate the value of understanding chemistry and his approach to teaching and innovation. (This video is from [TEDtalksDirector](http://www.youtube.com/user/TEDtalksDirector) on YouTube and is not provided under our [Creative Commons license](https://ocw-studio.odl.mit.edu/terms/index.htm#cc).)
 
 ## Before You Begin
 
@@ -96,7 +94,7 @@ At MIT, this class meets five times per week for fourteen weeks, with three one-
 
 3.091SC combines teaching about **foundational chemistry concepts** with **applications to particular material forms**. To guide you through the course, individual class sessions are related to the following foundation and application modules.
 
-- *Foundations*   
+- *Foundations*    
       
     - {{% resource_link "5a68a2e8-4d79-7915-46d1-ce9bdf015e7a" "Structure of the Atom" %}} - The periodic table, elements and compounds, chemical formulas. Evolution of atomic theory: Thomson & Rutherford, Bohr model of hydrogen, Bohr-Sommerfeld model and multi-electron atoms, atomic spectra, Schrödinger equation. Electron orbitals: Aufbau principle, Pauli exclusion principle, and Hund's rules.
         - Sessions 1, 2, 3, 4, 5, 6, 7
@@ -104,7 +102,7 @@ At MIT, this class meets five times per week for fourteen weeks, with three one-
         - Sessions 8, 9, 10, 11, 12
     - {{% resource_link "885d39b1-395a-748c-e5bf-46da89d7dc8d" "Reactions and Kinetics" %}} - Reaction kinetics: rate laws, thermal activation, and the Arrhenius equation. Diffusion: Fick's first and second laws.
         - Sessions 22 (second part), 23, 24
-- *Applications*   
+- *Applications*    
       
     - {{% resource_link "391990ee-f653-5d34-974e-42391c0cb5b5" "Electronic Materials" %}} - Band theory: metals, insulators, and semiconductors. Band gaps, doping, and devices.
         - Sessions 13, 14, 15 (first part)
@@ -143,7 +141,7 @@ After you've done all the readings, watched all the lecture videos, and complete
 
 - **Weekly Quizzes:** These short quizzes are representative of the homework in this module, and an indication of the knowledge you should have in preparing for the module exam.
 - **Exam Problems:** These problems from the Fall 2009 tests verify that you've developed the appropriate depth of understanding, before you move on to the next module.
-- **Help Session Videos**: In these informal videos, three teaching assistants from the Fall 2009 class work through their approach to solving the exam problems.   
+- **Help Session Videos**: In these informal videos, three teaching assistants from the Fall 2009 class work through their approach to solving the exam problems.    
       
     » {{% resource_link "af4b0715-adb4-b3d3-3e69-af564b71c30e" "Meet the TAs" %}}
 - **Supplemental Exam Problems:** These additional exam problems from prior year classes are provided for optional further study.
@@ -174,4 +172,4 @@ A detailed periodic table of the elements and a table of fundamental physical co
 
 This course includes functionality that does not display correctly in Internet Explorer. For best results, we recommend viewing this course with [Firefox](http://www.mozilla.com/en-US/firefox/), [Safari](http://www.apple.com/safari/) or [Chrome](http://www.google.com/chrome).
 
-« \[Previous\]({{< baseurl >}}/pages/index.htm) | {{% resource_link "8a1709eb-16be-69bb-41cc-325703c25a95" "Next" %}} »
+«{{% resource_link "8a1709eb-16be-69bb-41cc-325703c25a95" "Next" %}} »

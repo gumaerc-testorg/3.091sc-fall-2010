@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the information about the periodic table of the
   elements.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/1cc82bd78ea3230116a6db5c2b67e84a_MIT3_091SCF09_per_table.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/1cc82bd78ea3230116a6db5c2b67e84a_MIT3_091SCF09_per_table.pdf
 file_size: 286328
 file_type: application/pdf
 image_metadata:

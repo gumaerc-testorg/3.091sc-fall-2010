@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to introduction to aqueous
   solutions.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/f79062d7ce66928e8a240f4df49da174_MIT3_091SCF09_lec25.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/f79062d7ce66928e8a240f4df49da174_MIT3_091SCF09_lec25.pdf
 file_size: 1343542
 file_type: application/pdf
 image_metadata:

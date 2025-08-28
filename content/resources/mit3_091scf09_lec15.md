@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to introduction to crystallography.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/e678d3bcff4abdbfa8207235f1341476_MIT3_091SCF09_lec15.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/e678d3bcff4abdbfa8207235f1341476_MIT3_091SCF09_lec15.pdf
 file_size: 3923418
 file_type: application/pdf
 image_metadata:

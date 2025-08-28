@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about the theory of reaction rates.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/77aedff74af74be5aa06d4b580bed800_MIT3_091SCF09_aln08.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/77aedff74af74be5aa06d4b580bed800_MIT3_091SCF09_aln08.pdf
 file_size: 163334
 file_type: application/pdf
 image_metadata:

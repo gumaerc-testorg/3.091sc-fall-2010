@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to semiconductors.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/be21c01363b2ff05878cc644c9454bdd_MIT3_091SCF09_lec14.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/be21c01363b2ff05878cc644c9454bdd_MIT3_091SCF09_lec14.pdf
 file_size: 2623396
 file_type: application/pdf
 image_metadata:

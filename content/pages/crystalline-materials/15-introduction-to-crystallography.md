@@ -223,7 +223,7 @@ Undergraduate
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[3.60 Symmetry, Structure, and Tensor Properties of Materials](https://ocw-studio.odl.mit.edu/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005)
+[3.60 Symmetry, Structure, and Tensor Properties of Materials](https://ocw.mit.edu/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/)
 {{< tdclose >}}{{< tdopen >}}
 MIT OpenCourseWare
 {{< tdclose >}}{{< tdopen >}}

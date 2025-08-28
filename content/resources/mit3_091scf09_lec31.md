@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to biochemistry: protein
   structure.'
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/0c035893e9f81c2321cc59605fe45349_MIT3_091SCF09_lec31.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/0c035893e9f81c2321cc59605fe45349_MIT3_091SCF09_lec31.pdf
 file_size: 1826925
 file_type: application/pdf
 image_metadata:
