@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains supplemental resource problems: solution outline.'
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/c5667e145c26b51f603409d402e8ae62_MIT3_091SCF09_sa4_exam_sol.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/c5667e145c26b51f603409d402e8ae62_MIT3_091SCF09_sa4_exam_sol.pdf
 file_size: 1538834
 file_type: application/pdf
 image_metadata:

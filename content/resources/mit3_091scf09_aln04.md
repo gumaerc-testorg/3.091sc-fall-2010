@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the information about the nature of crystalline
   solids.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/307d3b6049110c845d050060daad44a0_MIT3_091SCF09_aln04.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/307d3b6049110c845d050060daad44a0_MIT3_091SCF09_aln04.pdf
 file_size: 145486
 file_type: application/pdf
 image_metadata:

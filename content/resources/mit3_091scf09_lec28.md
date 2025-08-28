@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information related to polymers: structure and
   composition.'
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/7c83f1280797ebde4c7adeaeb11d4cc9_MIT3_091SCF09_lec28.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/7c83f1280797ebde4c7adeaeb11d4cc9_MIT3_091SCF09_lec28.pdf
 file_size: 639973
 file_type: application/pdf
 image_metadata:

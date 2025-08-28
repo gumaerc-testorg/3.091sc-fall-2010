@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains self-assessment exam for electronic materials.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/3bd38f241443911af59a114b0df26216_MIT3_091SCF09_sa3_exam_sol.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/3bd38f241443911af59a114b0df26216_MIT3_091SCF09_sa3_exam_sol.pdf
 file_size: 705800
 file_type: application/pdf
 image_metadata:

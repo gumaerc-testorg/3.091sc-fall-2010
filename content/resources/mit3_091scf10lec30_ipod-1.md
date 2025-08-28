@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/6a97fadf91fe7b960396c85da589670b_MIT3_091SCF10lec30_iPOD.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/6a97fadf91fe7b960396c85da589670b_MIT3_091SCF10lec30_iPOD.pdf
 file_size: 75205
 file_type: application/pdf
 image_metadata:

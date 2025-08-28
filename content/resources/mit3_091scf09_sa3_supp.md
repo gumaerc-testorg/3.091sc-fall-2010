@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the supplemental exam problems for study.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/51ae2a0ac5c5e529388829d4d5a91ee0_MIT3_091SCF09_sa3_supp.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/51ae2a0ac5c5e529388829d4d5a91ee0_MIT3_091SCF09_sa3_supp.pdf
 file_size: 190673
 file_type: application/pdf
 image_metadata:

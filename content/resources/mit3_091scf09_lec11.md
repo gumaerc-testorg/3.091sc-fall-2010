@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about the shapes of molecules.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/c53de2cd0de31f4906c4fd352a4dfc57_MIT3_091SCF09_lec11.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/c53de2cd0de31f4906c4fd352a4dfc57_MIT3_091SCF09_lec11.pdf
 file_size: 1831811
 file_type: application/pdf
 image_metadata:

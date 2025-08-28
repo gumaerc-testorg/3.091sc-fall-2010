@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the information about the bonding in metals, semiconductors
   and insulators- band structure.
 draft: false
-file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/44adf21b920f69e8c809b1ab75b62d0a_MIT3_091SCF09_aln03.pdf
+file: /ol-ocw-studio-app/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/44adf21b920f69e8c809b1ab75b62d0a_MIT3_091SCF09_aln03.pdf
 file_size: 201712
 file_type: application/pdf
 image_metadata:
