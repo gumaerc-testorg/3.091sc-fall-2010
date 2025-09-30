@@ -93,11 +93,11 @@ Book Chapters
 {{< thclose >}}{{< thopen >}}
 Topics
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-01-crystalline-and-amorphous-soli.html) 12.1, "Crystalline and Amorphous Solids."
+{{% resource_link "0f3a8f8f-b683-4793-a393-1ec7a62fd934" "\[Saylor\]" %}} 12.1, "Crystalline and Amorphous Solids."
 {{< tdclose >}}{{< tdopen >}}
 Crystal lattice parameters; properties of crystalline and amorphous solids
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-02-the-arrangement-of-atoms-in-cr.html) 12.2, "The Arrangement of Atoms in Crystalline Solids."
+{{% resource_link "3baa006c-7d4a-4976-9664-dc69bfad21c1" "\[Saylor\]" %}} 12.2, "The Arrangement of Atoms in Crystalline Solids."
 {{< tdclose >}}{{< tdopen >}}
 The unit cell; packing of spheres
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -147,13 +147,13 @@ Conceptual
 {{< thclose >}}{{< thopen >}}
 Numerical
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-02-the-arrangement-of-atoms-in-cr.html) 12.2, "The Arrangement of Atoms in Crystalline Solids."
+{{% resource_link "3baa006c-7d4a-4976-9664-dc69bfad21c1" "\[Saylor\]" %}} 12.2, "The Arrangement of Atoms in Crystalline Solids."
 {{< tdclose >}}{{< tdopen >}}
 1, 8, 9
 {{< tdclose >}}{{< tdopen >}}
 3, 5, 9, 11
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-03-structures-of-simple-binary-co.html) 12.3, "Structures of Simple Binary Compounds."
+{{% resource_link "54b9cd66-3350-47fb-8ce8-37f848ff3810" "\[Saylor\]" %}} 12.3, "Structures of Simple Binary Compounds."
 {{< tdclose >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
@@ -164,7 +164,7 @@ none
 
 ### Supplemental Readings
 
-Hooke, Robert. [*Micrographia; or, Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses, with Observations and Inquiries*](https://www.loc.gov/item/11004270/). London, England: J. Martyn and J. Allestry, 1665. \[[View on Project Gutenberg](http://www.gutenberg.org/ebooks/15491)\]
+Hooke, Robert. {{% resource_link "24de6079-0918-4010-b7ca-6430e26b8eb2" "*Micrographia; or, Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses, with Observations and Inquiries*" %}}. London, England: J. Martyn and J. Allestry, 1665. \[{{% resource_link "4bd5daed-00df-4a73-89e5-577dddf2d431" "View on Project Gutenberg" %}}\]
 
 Chapman, Allan. *England's Leonardo: Robert Hooke and the Seventeenth-Century Scientific Revolution*. Philadelphia, PA: Institute of Physics Publishing, 2005. ISBN: 9780750309875.
 
@@ -176,21 +176,21 @@ Dijksterhuis, Fokko Jan. *Lenses and Waves: Christiaan Huygens and the Mathemati
 
 ### People
 
-[Auguste Bravais](http://en.wikipedia.org/wiki/Auguste_Bravais)
+{{% resource_link "32355398-3ec5-4fbf-9458-a4e4344d731b" "Auguste Bravais" %}}
 
-[René Just Haüy](http://en.wikipedia.org/wiki/Ren%C3%A9_Just_Ha%C3%BCy)
+{{% resource_link "d4d6aaff-53f2-4e5a-9bbb-c0829cff9334" "René Just Haüy" %}}
 
-[Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+{{% resource_link "9c689818-98c7-4951-8bb6-e0482343ded7" "Robert Hooke" %}}
 
-[Christiaan Huygens](http://en.wikipedia.org/wiki/Christiaan_Huygens)
+{{% resource_link "ab0e45bf-3081-4159-9449-8e06cab6681d" "Christiaan Huygens" %}}
 
-[Niels Steensen](http://en.wikipedia.org/wiki/Nicolas_Steno) (Nicolaus Steno)
+{{% resource_link "3749c1be-a820-40ad-b209-b7ad1bdd9cd8" "Niels Steensen" %}} (Nicolaus Steno)
 
 ### Culture
 
-[M. C. Escher](http://mcescher.com/)
+{{% resource_link "11f97660-4650-4e11-9819-7c97c8a40e76" "M. C. Escher" %}}
 
-[Georges Braque](http://en.wikipedia.org/wiki/Braque)
+{{% resource_link "67281064-c9bc-47a8-a884-d449593ffd07" "Georges Braque" %}}
 
 Vallier, Dora. *Braque: The Complete Graphics: Catalogue Raisonne*. New York, NY: Alpine Fine Arts Collection, 1988. ISBN: 9780881680065.
 
@@ -207,7 +207,7 @@ Level
 {{< thclose >}}{{< thopen >}}
 Notes
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-[Crystallography](http://www.doitpoms.ac.uk/tlplib/crystallography3/index.php)
+{{% resource_link "56d12395-14ce-471c-a048-2b32a46f43f3" "Crystallography" %}}
 {{< tdclose >}}{{< tdopen >}}
 DoITPoMS
 {{< tdclose >}}{{< tdopen >}}
@@ -215,7 +215,7 @@ Undergraduate
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Crystal Structure](http://cnx.org/content/m16927/latest/)
+{{% resource_link "3bcad151-47f3-4e5d-81a6-7ba2ad5a58e0" "Crystal Structure" %}}
 {{< tdclose >}}{{< tdopen >}}
 Connexions
 {{< tdclose >}}{{< tdopen >}}
@@ -223,7 +223,7 @@ Undergraduate
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[3.60 Symmetry, Structure, and Tensor Properties of Materials](https://ocw.mit.edu/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005/)
+{{% resource_link "8a83424b-1b24-4bce-bc8f-f43af135f96b" "3.60 Symmetry, Structure, and Tensor Properties of Materials" %}}
 {{< tdclose >}}{{< tdopen >}}
 MIT OpenCourseWare
 {{< tdclose >}}{{< tdopen >}}
