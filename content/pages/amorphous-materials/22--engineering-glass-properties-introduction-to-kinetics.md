@@ -107,15 +107,15 @@ Book Chapters
 {{< thclose >}}{{< thopen >}}
 Topics
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-05-half-lives-and-radioactive-dec.html) 14.5, "Half-Lives and Radioactive Decay Kinetics."
+{{% resource_link "71cacedb-f950-40d9-938c-5488ac4c7fb0" "\[Saylor\]" %}} 14.5, "Half-Lives and Radioactive Decay Kinetics."
 {{< tdclose >}}{{< tdopen >}}
 Half-lives, radioactive decay rates, radioisotope dating techniques
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-06-reaction-rates-a-microscopic-v.html) 14.6, "Reaction Rates – A Microscopic View."
+{{% resource_link "6642557f-ee46-4e76-a345-6a7e664a15ee" "\[Saylor\]" %}} 14.6, "Reaction Rates – A Microscopic View."
 {{< tdclose >}}{{< tdopen >}}
 Molecularity and the rate-determining step, chain reactions
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-07-the-collision-model-of-chemica.html) 14.7, "The Collision Model of Chemical Kinetics."
+{{% resource_link "2452e2af-3b51-43c8-b051-0b58dcffaee6" "\[Saylor\]" %}} 14.7, "The Collision Model of Chemical Kinetics."
 {{< tdclose >}}{{< tdopen >}}
 Activation energy, graphing the energy changes during a reaction, the Arrhenius equation
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -148,7 +148,7 @@ The next unit covers **chemical kinetics**, the study of **reaction rates** and 
 
 {{% resource_link "17a6e787-5b98-6404-8a27-71f98cea991f" "Solutions (PDF)" %}}
 
-[MATDL VirtualDL Lessons 1-4](https://web.archive.org/web/20100115000922/http://matdl.org/virtuallabs/index.php/3.091_VirtualLab)
+{{% resource_link "48ffbe99-913d-4155-a67f-9143312a189f" "MATDL VirtualDL Lessons 1-4" %}}
 
 *Textbook Problems*
 
@@ -161,7 +161,7 @@ Numerical
 {{< thclose >}}{{< thopen >}}
 Application
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-02-reaction-rates-and-rate-laws.html) 14.2, "Reaction Rates and Rate Laws."
+{{% resource_link "ecbc3f48-9e71-4974-b780-4b6a82169e52" "\[Saylor\]" %}} 14.2, "Reaction Rates and Rate Laws."
 {{< tdclose >}}{{< tdopen >}}
 none
 {{< tdclose >}}{{< tdopen >}}
@@ -169,7 +169,7 @@ none
 {{< tdclose >}}{{< tdopen >}}
 none
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-06-reaction-rates-a-microscopic-v.html) 14.6, "Reaction Rates – A Microscopic View."
+{{% resource_link "6642557f-ee46-4e76-a345-6a7e664a15ee" "\[Saylor\]" %}} 14.6, "Reaction Rates – A Microscopic View."
 {{< tdclose >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
@@ -177,7 +177,7 @@ none
 {{< tdclose >}}{{< tdopen >}}
 none
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-07-the-collision-model-of-chemica.html) 14.7, "The Collision Model of Chemical Kinetics."
+{{% resource_link "2452e2af-3b51-43c8-b051-0b58dcffaee6" "\[Saylor\]" %}} 14.7, "The Collision Model of Chemical Kinetics."
 {{< tdclose >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
@@ -185,7 +185,7 @@ none
 {{< tdclose >}}{{< tdopen >}}
 none
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-09-end-of-chapter-material.html) 14.9, "End-of-Chapter Material."
+{{% resource_link "d61b0a6a-af93-4325-94c5-0bf12a33b2ce" "\[Saylor\]" %}} 14.9, "End-of-Chapter Material."
 {{< tdclose >}}{{< tdopen >}}
 none
 {{< tdclose >}}{{< tdopen >}}
@@ -202,9 +202,9 @@ Libby, Willard F. *Radiocarbon Dating*. Chicago, IL: University of Chicago Press
 
 ### People
 
-[Svante Arrhenius](http://en.wikipedia.org/wiki/Svante_Arrhenius) – [1903 Nobel Prize in Chemistry](http://nobelprize.org/nobel_prizes/chemistry/laureates/1903/)
+{{% resource_link "753a08a5-f015-4b81-a00c-f73aa100e033" "Svante Arrhenius" %}} – {{% resource_link "f6dfdb61-464e-4909-a184-3d638123f65d" "1903 Nobel Prize in Chemistry" %}}
 
-[Willard Libby](http://en.wikipedia.org/wiki/Willard_Libby) – [1960 Nobel Prize in Chemistry](http://nobelprize.org/nobel_prizes/chemistry/laureates/1960/)
+{{% resource_link "27750609-9638-4c04-8504-5ef362c3b838" "Willard Libby" %}} – {{% resource_link "e4c30191-e2c7-4146-98dd-41a63ea9c8e2" "1960 Nobel Prize in Chemistry" %}}
 
 ### Culture
 
