@@ -121,15 +121,15 @@ Perree, R. *Bakelite: The Material of a Thousand Uses.* Amsterdam, NL: Cadre, 19
 
 Meikle, J. *American Plastic: A Culture History.* New Brunswick, NJ: Rutgers University Press, 1995. ISBN: 9780813522357.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262523493) Brown, D. E. [*Inventing Modern America: From the Microwave to the Mouse*](https://mitpress.mit.edu/9780262523493). Cambridge, MA: MIT Press, 2001. ISBN: 9780262523493. 
+{{% resource_link "a9248ee7-03c3-4209-a341-ee1e498a8c9d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Brown, D. E. {{% resource_link "a9248ee7-03c3-4209-a341-ee1e498a8c9d" "*Inventing Modern America: From the Microwave to the Mouse*" %}}. Cambridge, MA: MIT Press, 2001. ISBN: 9780262523493. 
 
-Carothers, W.H. *Collected Papers of Wallace Hume Carothers on High Polymeric Substances*. New York, NY: Interscience Publishers, 1940. ISBN: 9781406759259. \[Download or view complete work from [Internet Archive](http://www.archive.org/details/collectedpaperso031072mbp)\]
+Carothers, W.H. *Collected Papers of Wallace Hume Carothers on High Polymeric Substances*. New York, NY: Interscience Publishers, 1940. ISBN: 9781406759259. \[Download or view complete work from {{% resource_link "5bcf7437-aee9-40a1-ba3e-0c4d60fc73b8" "Internet Archive" %}}\]
 
 Furukawa, Y. *Inventing Polymer Science: Staudinger, Carothers, and the Emergence of Macromolecular Science*. Philadelphia, PA: University of Pennsylvania Press, 1998. ISBN: 9780812233360.
 
 ### People
 
-[Wallace Carothers](http://en.wikipedia.org/wiki/Wallace_Carothers)
+{{% resource_link "08d98065-a7d6-458b-8f7f-eea71445639a" "Wallace Carothers" %}}
 
 ### Culture
 
@@ -146,7 +146,7 @@ Provider
 {{< thclose >}}{{< thopen >}}
 Level
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-[Polymer Basics](http://www.doitpoms.ac.uk/tlplib/polymerbasics/index.php), [The Glass Transition in Polymers](http://www.doitpoms.ac.uk/tlplib/glass-transition/index.php), [Crystallinity in Polymers](http://www.doitpoms.ac.uk/tlplib/polymers/index.php)
+{{% resource_link "09417145-536a-4b31-b55a-883e28588edc" "Polymer Basics" %}}, {{% resource_link "3bff21dc-591a-4087-97c4-247332625125" "The Glass Transition in Polymers" %}}, {{% resource_link "4e73b86d-0b06-450d-9529-e0d5486798a1" "Crystallinity in Polymers" %}}
 {{< tdclose >}}{{< tdopen >}}
 DoITPoMS
 {{< tdclose >}}{{< tdopen >}}
@@ -176,7 +176,7 @@ MIT OpenCourseWare
 {{< tdclose >}}{{< tdopen >}}
 Graduate
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Introduction to Polymers](http://openlearn.open.ac.uk/mod/oucontent/view.php?id=397829)
+{{% resource_link "c182aff5-da22-4868-87d5-c452d1455d72" "Introduction to Polymers" %}}
 {{< tdclose >}}{{< tdopen >}}
 OpenUniversity UK
 {{< tdclose >}}{{< tdopen >}}
