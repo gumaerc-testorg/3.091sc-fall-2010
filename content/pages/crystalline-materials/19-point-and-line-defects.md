@@ -109,7 +109,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-04-defects-in-crystals.html) 12.4, "Defects in Crystals."
+{{% resource_link "c33363d1-5b88-4583-b1f1-e1c38594d16b" "\[Saylor\]" %}} 12.4, "Defects in Crystals."
 {{< tdclose >}}
 {{< tdopen >}}
 Defects in metals, memory metal, defects in ionic and molecular crystals, nonstoichiometric compounds
@@ -175,7 +175,7 @@ Lecture Video
 
 ### Lecture Summary
 
-Prof. Michael Demkowicz ([homepage](https://engineering.tamu.edu/materials/people/demkowicz-michael-j.html)) lectures today, introducing the next topic: imperfections in crystal lattices. In the real world, materials rarely consist of single, perfect crystals; **defects** in crystals occur naturally, or are introduced during processing. While unwanted defects can **weaken** or **contaminate** materials (e.g. Li{{< sup "\+" >}} in saline solution (NaCl{{< sub "(aq)" >}}), others can create enhanced properties (e.g. **alloys**, **dopants**). Creating an empty crystal lattice site (**vacancy**) requires overcoming bonds with nearest-neighbor atoms, typically with **thermal energy**. Vacancies in a regular lattice of A atoms may be filled by an atom of B (**substitutional**, e.g. P in Si, B in C), while **interstitial** sites can host atoms of A (self interstitial) or B (interstitial impurity, e.g. C in Fe, H in LaNi{{< sub "5" >}}, H in Fe). In ionic crystals, overall **charge neutrality** must be preserved, so a whole stoichiometric unit may be removed to create two or more vacancies (**Schottky**); one ion may move to an interstitial site (**Frenkel**); or one or more electrons may fill an anionic vacancy (**F-center**). Line defects occur when a **lattice mismatch** runs through the crystal.
+Prof. Michael Demkowicz ({{% resource_link "b490a8ea-1c58-4950-b5c2-e07e132c4afa" "homepage" %}}) lectures today, introducing the next topic: imperfections in crystal lattices. In the real world, materials rarely consist of single, perfect crystals; **defects** in crystals occur naturally, or are introduced during processing. While unwanted defects can **weaken** or **contaminate** materials (e.g. Li{{< sup "\+" >}} in saline solution (NaCl{{< sub "(aq)" >}}), others can create enhanced properties (e.g. **alloys**, **dopants**). Creating an empty crystal lattice site (**vacancy**) requires overcoming bonds with nearest-neighbor atoms, typically with **thermal energy**. Vacancies in a regular lattice of A atoms may be filled by an atom of B (**substitutional**, e.g. P in Si, B in C), while **interstitial** sites can host atoms of A (self interstitial) or B (interstitial impurity, e.g. C in Fe, H in LaNi{{< sub "5" >}}, H in Fe). In ionic crystals, overall **charge neutrality** must be preserved, so a whole stoichiometric unit may be removed to create two or more vacancies (**Schottky**); one ion may move to an interstitial site (**Frenkel**); or one or more electrons may fill an anionic vacancy (**F-center**). Line defects occur when a **lattice mismatch** runs through the crystal.
 
 Homework
 --------
@@ -206,7 +206,7 @@ Numerical
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-04-defects-in-crystals.html) 12.4, "Defects in Crystals."
+{{% resource_link "c33363d1-5b88-4583-b1f1-e1c38594d16b" "\[Saylor\]" %}} 12.4, "Defects in Crystals."
 {{< tdclose >}}
 {{< tdopen >}}
 6, 7, 8, 9, 10
@@ -228,15 +228,15 @@ Hull, Derek, and David J. Bacon. _Introduction to Dislocations_. Boston, MA: But
 
 ### People
 
-[Yakov Frenkel](http://en.wikipedia.org/wiki/Yakov_Frenkel)
+{{% resource_link "f56a2c87-93c0-416a-bb19-f843f2df27d7" "Yakov Frenkel" %}}
 
-[Walter Schottky](http://en.wikipedia.org/wiki/Walter_H._Schottky)
+{{% resource_link "578a646c-1d7b-4a0d-b3ed-d007143a4504" "Walter Schottky" %}}
 
-[Jan Burgers](http://en.wikipedia.org/wiki/Johannes_Martinus_Burgers)
+{{% resource_link "a1fc15c2-108e-44c8-ac5d-681169672468" "Jan Burgers" %}}
 
 ### Culture
 
-[Francois Dallegret](http://rogallery.com/Dallegret/Dallegret-bio.html)
+{{% resource_link "0dcd6a87-b1dc-4333-8202-ef456be56943" "Francois Dallegret" %}}
 
 ### Other OCW and OER Content
 
@@ -261,7 +261,7 @@ Notes
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction to Dislocations](http://www.doitpoms.ac.uk/tlplib/dislocations/index.php)
+{{% resource_link "40ddc7f6-e90d-4f46-b83f-d70b0eaffb45" "Introduction to Dislocations" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 DoITPoMS
@@ -291,7 +291,7 @@ Undergraduate (elective) / Graduate
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Crystal Structure](http://cnx.org/content/m16927/latest/)
+{{% resource_link "3bcad151-47f3-4e5d-81a6-7ba2ad5a58e0" "Crystal Structure" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Connexions

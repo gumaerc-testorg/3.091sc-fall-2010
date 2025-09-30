@@ -67,11 +67,11 @@ Book Chapters
 {{< thclose >}}{{< thopen >}}
 Topics
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s15-06-critical-temperature-and-press.html) 11.6, "Critical Temperature and Pressure."
+{{% resource_link "a541c1ea-f4e4-4be7-b1a1-60bf255e58d8" "\[Saylor\]" %}} 11.6, "Critical Temperature and Pressure."
 {{< tdclose >}}{{< tdopen >}}
 Supercritical fluids; molten salts and ionic liquids
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s15-07-phase-diagrams.html) 11.7, "Phase Diagrams."
+{{% resource_link "d564ec96-d14e-4fd7-a576-3846e170320f" "\[Saylor\]" %}} 11.7, "Phase Diagrams."
 {{< tdclose >}}{{< tdopen >}}
 General features of phase diagrams; phase diagrams of water and carbon dioxide
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
@@ -118,9 +118,9 @@ More phase diagram homework problems will be provided for the next two sessions.
 
 ### Culture
 
-Queen. "'Under Pressure' (Live at Wembley)." June 16, 2009. YouTube. Accessed November 18, 2010. [http://www.youtube.com/watch?v=SJCTgtDU-74](http://www.youtube.com/watch?v=SJCTgtDU-74).
+Queen. "'Under Pressure' (Live at Wembley)." June 16, 2009. YouTube. Accessed November 18, 2010. {{% resource_link "87d67c7d-d9fa-4084-b599-9f04c1a3774a" "http://www.youtube.com/watch?v=SJCTgtDU-74" %}}.
 
-Alexander Calder, [Mercury Fountain](https://calder.org/works/unusual-project/mercury-fountain-1937/), 1937. Fundació Joan Miró. Barcelona, Spain.
+Alexander Calder, {{% resource_link "36111e64-8968-43cc-8142-34b0cb491162" "Mercury Fountain" %}}, 1937. Fundació Joan Miró. Barcelona, Spain.
 
 ### Other OCW and OER Content
 
@@ -133,13 +133,13 @@ Level
 {{< thclose >}}{{< thopen >}}
 Notes
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-[3.012 Fundamentals of Material Science](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/)
+{{% resource_link "6395268e-83b6-4935-b39c-f2e289746b9d" "3.012 Fundamentals of Material Science" %}}
 {{< tdclose >}}{{< tdopen >}}
 MIT OpenCourseWare
 {{< tdclose >}}{{< tdopen >}}
 Undergraduate (second-year)
 {{< tdclose >}}{{< tdopen >}}
-See [Thermodynamics lectures 15-16](https://ocw.mit.edu/courses/3-012-fundamentals-of-materials-science-fall-2005/pages/lecture-notes/) on single-component phase diagrams, plus associated recitation and assignment content
+See {{% resource_link "aa42230c-3e66-4245-90c5-72b614732999" "Thermodynamics lectures 15-16" %}} on single-component phase diagrams, plus associated recitation and assignment content
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 « {{% resource_link "d4c48520-c374-4193-77d0-62d4fd87b4d0" "Previous" %}} | {{% resource_link "31cd4459-a0c6-f229-2b86-eee893f5dd0b" "Next" %}} »

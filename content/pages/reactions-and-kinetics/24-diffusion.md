@@ -172,15 +172,15 @@ For Further Study
 
 ### Supplemental Readings
 
-Fick, Adolf. "[Ueber Diffusion.](http://dx.doi.org/10.1002/andp.18551700105)" _Annalen der Physik_ 170 (1855): 59-86. (Note: this article is in German.)
+Fick, Adolf. "{{% resource_link "ff36c585-e2cd-40e5-a889-f6a9e40bb905" "Ueber Diffusion." %}}" _Annalen der Physik_ 170 (1855): 59-86. (Note: this article is in German.)
 
 Carslaw, Horatio S., and John C. Jaeger. _Conduction of Heat in Solids_. Oxford, England: Clarendon Press, 2004. ISBN: 9780198533689.
 
 ### People
 
-[Adolf Fick](http://en.wikipedia.org/wiki/Adolf_Eugen_Fick)
+{{% resource_link "21c47d45-cc2d-4135-bcf8-e5cdbf3e32cf" "Adolf Fick" %}}
 
-[Peter Debye](http://en.wikipedia.org/wiki/Peter_Debye)
+{{% resource_link "436bf03c-36c2-4ecb-ac7c-b637e6eaced2" "Peter Debye" %}}
 
 ### Culture
 
@@ -211,7 +211,7 @@ Notes
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Diffusion](http://www.doitpoms.ac.uk/tlplib/diffusion/index.php)
+{{% resource_link "2448b569-c4be-49ee-a88e-e419895ee03a" "Diffusion" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 DoITPoMS
@@ -226,7 +226,7 @@ Undergraduate
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Diffusion](http://cnx.org/content/m1010/latest/)
+{{% resource_link "e065adba-e681-43d8-8d62-a827e135d603" "Diffusion" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Connexions

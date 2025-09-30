@@ -105,7 +105,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-08-polymeric-solids.html) 12.8, "Polymeric Solids."
+{{% resource_link "92cab6b0-e9fb-4ca5-801c-0c371fedfae0" "\[Saylor\]" %}} 12.8, "Polymeric Solids."
 {{< tdclose >}}
 {{< tdopen >}}
 Introduction to biological polymers (peptides and proteins)
@@ -114,7 +114,7 @@ Introduction to biological polymers (peptides and proteins)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-06-the-molecules-of-life.html) 24.6, "The Molecules of Life."
+{{% resource_link "229a856c-2598-4046-adc2-ea52f9bbd7c9" "\[Saylor\]" %}} 24.6, "The Molecules of Life."
 {{< tdclose >}}
 {{< tdopen >}}
 Survey of proteins, carbohydrates, lipids, and nucleic acids
@@ -195,7 +195,7 @@ Numerical
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-08-polymeric-solids.html) 12.8, "Polymeric Solids."
+{{% resource_link "92cab6b0-e9fb-4ca5-801c-0c371fedfae0" "\[Saylor\]" %}} 12.8, "Polymeric Solids."
 {{< tdclose >}}
 {{< tdopen >}}
 1
@@ -213,9 +213,9 @@ For Further Study
 
 ### Supplemental Readings
 
-[Halifax Explosion](http://en.wikipedia.org/wiki/Halifax_explosion)
+{{% resource_link "da70b053-b79f-4fc6-ac17-33bd2d4168c7" "Halifax Explosion" %}}
 
-[Thalidomide](http://en.wikipedia.org/wiki/Thalidomide)
+{{% resource_link "e44e0740-820a-4c88-881f-ce116a3c3d2b" "Thalidomide" %}}
 
 ### Culture
 

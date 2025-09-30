@@ -109,7 +109,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-03-structures-of-simple-binary-co.html) 12.3, "Structures of Simple Binary Compounds."
+{{% resource_link "54b9cd66-3350-47fb-8ce8-37f848ff3810" "\[Saylor\]" %}} 12.3, "Structures of Simple Binary Compounds."
 {{< tdclose >}}
 {{< tdopen >}}
 Common structures of binary compounds, x-ray diffraction
@@ -170,7 +170,7 @@ Numerical
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-03-structures-of-simple-binary-co.html) 12.3, "Structures of Simple Binary Compounds."
+{{% resource_link "54b9cd66-3350-47fb-8ce8-37f848ff3810" "\[Saylor\]" %}} 12.3, "Structures of Simple Binary Compounds."
 {{< tdclose >}}
 {{< tdopen >}}
 8, 9
@@ -188,17 +188,17 @@ For Further Study
 
 ### People
 
-[William Henry Bragg](http://en.wikipedia.org/wiki/Sir_William_Bragg), [William Lawrence Bragg](http://en.wikipedia.org/wiki/William_Lawrence_Bragg) – [1915 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/1915/)
+{{% resource_link "1b5bb9d4-87df-4e2e-bf9b-82c91deb3446" "William Henry Bragg" %}}, {{% resource_link "e8afb4c4-b2bd-42e7-9f98-886457db1114" "William Lawrence Bragg" %}} – {{% resource_link "398d61d7-f201-4fde-b2ea-c601b8cb9c4f" "1915 Nobel Prize in Physics" %}}
 
-[Max von Laue](http://en.wikipedia.org/wiki/Laue) – [1914 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/1914/)
+{{% resource_link "8c5c599a-73f9-49aa-806e-e0c2a78fcd8b" "Max von Laue" %}} – {{% resource_link "b9fdac73-898f-47a4-b50d-bb88a3f7d8b8" "1914 Nobel Prize in Physics" %}}
 
-[Dan Shechtman](http://en.wikipedia.org/wiki/Dan_Shechtman)
+{{% resource_link "e9a46ec2-44ee-434f-8869-94177dfed24a" "Dan Shechtman" %}}
 
-[Roger Penrose](http://en.wikipedia.org/wiki/Roger_Penrose)
+{{% resource_link "3e02755a-0de3-45fc-a0be-c16fac0fe9a2" "Roger Penrose" %}}
 
-[Peter Debye](http://en.wikipedia.org/wiki/Peter_J._W._Debye) – [1936 Nobel Prize in Chemistry](http://nobelprize.org/nobel_prizes/chemistry/laureates/1936/index.html)
+{{% resource_link "270f3f8c-aabc-4433-831b-ead39d9b3bfa" "Peter Debye" %}} – {{% resource_link "ad9c70d4-7322-4c24-bbff-dc78abc23f0c" "1936 Nobel Prize in Chemistry" %}}
 
-[Paul Scherrer](http://en.wikipedia.org/wiki/Paul_Scherrer)
+{{% resource_link "15302db5-2d68-4357-aaaf-fb3368447000" "Paul Scherrer" %}}
 
 ### Culture
 
@@ -227,7 +227,7 @@ Notes
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[X-Ray Diffraction Techniques](http://www.doitpoms.ac.uk/tlplib/xray-diffraction/index.php)
+{{% resource_link "a823c8c5-11a4-4c62-b917-cfd56279d8e4" "X-Ray Diffraction Techniques" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 DoITPoMS

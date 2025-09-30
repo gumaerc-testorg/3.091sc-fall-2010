@@ -107,7 +107,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-01-functional-groups-and-classes-.html) 24.1, "Functional Groups and Classes of Organic Compounds."
+{{% resource_link "6f725d54-0adb-4fd1-8ffa-7140051a2665" "\[Saylor\]" %}} 24.1, "Functional Groups and Classes of Organic Compounds."
 {{< tdclose >}}
 {{< tdopen >}}
 Overview of five organic compound families: hydrocarbons, halogen-containing, oxygen-containing, carboxylic acid derivatives, and nitrogen-containing; common nomenclature
@@ -116,7 +116,7 @@ Overview of five organic compound families: hydrocarbons, halogen-containing, ox
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-02-isomers-of-organic-compounds.html) 24.2, "Isomers of Organic Compounds."
+{{% resource_link "e59ff01b-6048-422e-a291-ac24630e129f" "\[Saylor\]" %}} 24.2, "Isomers of Organic Compounds."
 {{< tdclose >}}
 {{< tdopen >}}
 Conformational isomers, structural isomers, stereoisomers
@@ -160,7 +160,7 @@ As a single-session overview of organic chemistry, this class has limited scope.
 
 ### People
 
-[August Kekulé](http://en.wikipedia.org/wiki/Friedrich_August_Kekul%C3%A9_von_Stradonitz)
+{{% resource_link "469ba860-5eb0-4ce9-b267-659e205458a7" "August Kekulé" %}}
 
 ### Other OCW and OER Content
 

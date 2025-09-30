@@ -109,7 +109,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-06-isotopes-and-atomic-masses.html) 1.6, "Isotopes and Atomic Masses."
+{{% resource_link "1c6567e6-5189-4866-ad52-378ad423d6cc" "\[Saylor\]" %}} 1.6, "Isotopes and Atomic Masses."
 {{< tdclose >}}
 {{< tdopen >}}
 Isotopes and atomic masses
@@ -118,7 +118,7 @@ Isotopes and atomic masses
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-07-introduction-to-the-periodic-t.html) 1.7, "Introduction to the Periodic Table."
+{{% resource_link "18db1ba9-00b3-4c70-9b5b-76bb2f9fc92b" "\[Saylor\]" %}} 1.7, "Introduction to the Periodic Table."
 {{< tdclose >}}
 {{< tdopen >}}
 Metals, nonmetals, and semimetals; chemistry of the groups
@@ -127,7 +127,7 @@ Metals, nonmetals, and semimetals; chemistry of the groups
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-01-the-mole-and-molar-masses.html) 3.1, "The Mole and Molar Masses."
+{{% resource_link "c7136517-cc90-4076-84b1-a715deda3540" "\[Saylor\]" %}} 3.1, "The Mole and Molar Masses."
 {{< tdclose >}}
 {{< tdopen >}}
 Molecular and formula masses; the mole; molar mass
@@ -136,7 +136,7 @@ Molecular and formula masses; the mole; molar mass
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-02-determining-empirical-and-mole.html) 3.2, "Determining Empirical and Molecular Formulas."
+{{% resource_link "2b0d6ccd-83e8-432e-84bd-7cdc6e8505a0" "\[Saylor\]" %}} 3.2, "Determining Empirical and Molecular Formulas."
 {{< tdclose >}}
 {{< tdopen >}}
 Calculating mass percentages; determining the empirical formula of penicillin; combustion analysis; from empirical formula to molecular formula
@@ -145,7 +145,7 @@ Calculating mass percentages; determining the empirical formula of penicillin; c
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-03-chemical-equations.html) 3.3, "Chemical Equations."
+{{% resource_link "4402bb8b-375f-4f53-b654-36dc247acf61" "\[Saylor\]" %}} 3.3, "Chemical Equations."
 {{< tdclose >}}
 {{< tdopen >}}
 Interpreting chemical equations; balancing simple chemical equations
@@ -154,7 +154,7 @@ Interpreting chemical equations; balancing simple chemical equations
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-04-mass-relationships-in-chemical.html) 3.4, "Mass Relationships in Chemical Equations."
+{{% resource_link "ead9378b-2d2c-4daf-8a93-73e778d85d45" "\[Saylor\]" %}} 3.4, "Mass Relationships in Chemical Equations."
 {{< tdclose >}}
 {{< tdopen >}}
 Stoichiometry problems; limiting reactants; percent yields
@@ -163,7 +163,7 @@ Stoichiometry problems; limiting reactants; percent yields
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-01-the-history-of-the-periodic-ta.html) 7.1, "The History of the Periodic Table." (only read until "Mendeleev's Periodic Table")
+{{% resource_link "d52ef886-f132-45c7-b038-252fd92b8d24" "\[Saylor\]" %}} 7.1, "The History of the Periodic Table." (only read until "Mendeleev's Periodic Table")
 {{< tdclose >}}
 {{< tdopen >}}
 Arrangements of elements before Mendeleev
@@ -227,7 +227,7 @@ Numerical
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-06-isotopes-and-atomic-masses.html) 1.6, "Isotopes and Atomic Masses."
+{{% resource_link "1c6567e6-5189-4866-ad52-378ad423d6cc" "\[Saylor\]" %}} 1.6, "Isotopes and Atomic Masses."
 {{< tdclose >}}
 {{< tdopen >}}
 3, 5, 7
@@ -239,7 +239,7 @@ Numerical
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-03-chemical-equations.html) 3.3, "Chemical Equations."
+{{% resource_link "4402bb8b-375f-4f53-b654-36dc247acf61" "\[Saylor\]" %}} 3.3, "Chemical Equations."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -251,7 +251,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-04-mass-relationships-in-chemical.html) 3.4, "Mass Relationships in Chemical Equations."
+{{% resource_link "ead9378b-2d2c-4daf-8a93-73e778d85d45" "\[Saylor\]" %}} 3.4, "Mass Relationships in Chemical Equations."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -289,33 +289,33 @@ Kargon, Robert H. _The Rise of Robert Millikan: Portrait of a Life in American S
 
 Millikan, Robert A. _Electrons, Protons, Photons, Neutrons, Mesotrons, and Cosmic Rays_. Chicago, IL: University of Chicago Press, 1947.
 
-[How Atoms Work](http://science.howstuffworks.com/atom.htm)
+{{% resource_link "103571d6-f4d3-406e-84c5-39a2b3e6134d" "How Atoms Work" %}}
 
-[How the Periodic Table Works](http://science.howstuffworks.com/periodic-table.htm)
+{{% resource_link "e6cab854-1153-4a9b-8615-13732d218d13" "How the Periodic Table Works" %}}
 
 ### People
 
-[John Dalton](http://en.wikipedia.org/wiki/John_Dalton)
+{{% resource_link "b5c49588-db1b-41f0-af58-9bef828a8c06" "John Dalton" %}}
 
-[Jöns Berzelius](http://en.wikipedia.org/wiki/Berzelius)
+{{% resource_link "f5d12960-12f9-40d3-89ae-1f230efee20a" "Jöns Berzelius" %}}
 
-[Amedeo Avogadro](http://en.wikipedia.org/wiki/Amedeo_Avogadro)
+{{% resource_link "d5206d77-4d29-449e-97b6-aa15739b5fb3" "Amedeo Avogadro" %}}
 
-[Michael Faraday](http://en.wikipedia.org/wiki/Faraday)
+{{% resource_link "d90dbcbc-3352-4896-af1a-f750ee9e753a" "Michael Faraday" %}}
 
-[Robert Millikan](http://en.wikipedia.org/wiki/Robert_Andrews_Millikan) - [1923 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/1923/)
+{{% resource_link "7dfd60b1-0266-49ce-ad83-d75921063e70" "Robert Millikan" %}} - {{% resource_link "8a216762-beaf-4549-82fe-a085b19b6169" "1923 Nobel Prize in Physics" %}}
 
-[Democritus](http://en.wikipedia.org/wiki/Democritus)
+{{% resource_link "ba263456-d28e-4ff9-9d3c-e474e60c6700" "Democritus" %}}
 
-[Aristotle](http://en.wikipedia.org/wiki/Aristotle)
+{{% resource_link "e8c69b97-8c34-4f71-8258-4a2272a1ede4" "Aristotle" %}}
 
-[Dmitri Mendeleev](http://en.wikipedia.org/wiki/Mendeleyev)
+{{% resource_link "524f6a6b-344a-40ce-85f9-c70acf408565" "Dmitri Mendeleev" %}}
 
-[Alexander Borodin](http://en.wikipedia.org/wiki/Alexander_Borodin)
+{{% resource_link "fa13fa97-7b7f-4c04-8f62-98419c2df9a6" "Alexander Borodin" %}}
 
-[Charles-Augustin de Coulomb](http://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb)
+{{% resource_link "7a180547-9374-4a70-bb62-4968136c26ab" "Charles-Augustin de Coulomb" %}}
 
-[William Thomson, Lord Kelvin](http://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin)
+{{% resource_link "90cc6d38-cced-4587-ba37-8f8331425439" "William Thomson, Lord Kelvin" %}}
 
 ### Culture
 
@@ -369,7 +369,7 @@ Undergraduate (first-year)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Stoichiometry Tutorial](http://www.chemcollective.org/stoich/reaction_stoi.php)
+{{% resource_link "b1a51571-03e8-4a25-995c-4771fe4d7857" "Stoichiometry Tutorial" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 ChemCollective, CMU Open Learning Initiative
@@ -384,7 +384,7 @@ High school
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Atoms and Elements](http://hyperphysics.phy-astr.gsu.edu/hbase/chemical/atom.html), [The Periodic Table](http://hyperphysics.phy-astr.gsu.edu/hbase/pertab/pertab.html)
+{{% resource_link "b819d464-adba-4146-bcbb-effadd4ffbb2" "Atoms and Elements" %}}, {{% resource_link "682e6e01-630c-4df6-ad0c-65c7ec341743" "The Periodic Table" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 HyperPhysics: Chemistry

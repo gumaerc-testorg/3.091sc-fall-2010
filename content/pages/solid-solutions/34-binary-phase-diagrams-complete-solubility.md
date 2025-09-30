@@ -163,19 +163,19 @@ For Further Study
 
 ### Supplemental Readings
 
-Carter, Kelley. "[Absinthe flows again, more stylish than ever](http://www.usatoday.com/travel/news/2007-09-27-absinthe_N.htm)." _USA Today_, September 27, 2007.
+Carter, Kelley. "{{% resource_link "dc01f3c9-fd4d-49a7-bff2-9776c0ff9486" "Absinthe flows again, more stylish than ever" %}}." _USA Today_, September 27, 2007.
 
-[Absinthe](http://en.wikipedia.org/wiki/Absinthe)
+{{% resource_link "b055924a-8eaa-4eed-b97e-d22d67e38399" "Absinthe" %}}
 
 ### People
 
-[William Hume-Rothery](http://en.wikipedia.org/wiki/William_Hume-Rothery)
+{{% resource_link "68d466df-6437-44fe-95d9-248474a7af78" "William Hume-Rothery" %}}
 
 ### Culture
 
-[_The Manchurian Candidate_](http://www.imdb.com/title/tt0056218/). Directed by John Frankenheimer. MGM, 1962.
+{{% resource_link "b26ced84-e296-4fc6-996a-d27e9ec7f731" "_The Manchurian Candidate_" %}}. Directed by John Frankenheimer. MGM, 1962.
 
-[_Moulin Rouge!_](http://www.imdb.com/title/tt0203009/) Directed by Baz Luhrmann. 20th Century Fox, 2001.
+{{% resource_link "ca58d8a6-1975-492b-824f-1587c66e3585" "_Moulin Rouge!_" %}} Directed by Baz Luhrmann. 20th Century Fox, 2001.
 
 ### Other OCW and OER Content
 
@@ -215,7 +215,7 @@ See [Thermodynamics lectures 17-19](/courses/3-012-fundamentals-of-materials-sci
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Phase Diagrams and Solidification](http://www.doitpoms.ac.uk/tlplib/phase-diagrams/index.php), [Solid Solutions](http://www.doitpoms.ac.uk/tlplib/solid-solutions/index.php)
+{{% resource_link "0c76af2f-36ca-4d66-9c32-d3aba897a761" "Phase Diagrams and Solidification" %}}, {{% resource_link "91436d64-258a-48f0-9e64-ec896591d128" "Solid Solutions" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 DoITPoMS

@@ -147,13 +147,13 @@ For Further Study
 
 ### Supplemental Readings
 
-Stookey, Stanley Donald. [_The Hydrogen-Lead, Hydrogen-Palladium, and Deuterium-Palladium Equilibria_](http://dspace.mit.edu/handle/1721.1/11176). Ph. D. thesis, Massachusetts Institute of Technology, 1940.
+Stookey, Stanley Donald. {{% resource_link "571a1f6f-b9c4-4826-8bab-fc521d8be6db" "_The Hydrogen-Lead, Hydrogen-Palladium, and Deuterium-Palladium Equilibria_" %}}. Ph. D. thesis, Massachusetts Institute of Technology, 1940.
 
-Chang, Kenneth. "[The Nature of Glass Remains Anything But Clear](http://www.nytimes.com/2008/07/29/science/29glass.html)." _New York Times_, July 29, 2008.
+Chang, Kenneth. "{{% resource_link "c2d9ff41-9a25-4ad5-8c8e-d2cb37666983" "The Nature of Glass Remains Anything But Clear" %}}." _New York Times_, July 29, 2008.
 
 ### Culture
 
-[Dale Chihuly](http://en.wikipedia.org/wiki/Chihuly)
+{{% resource_link "eab88a1f-7371-412b-9232-4f7a34568d7d" "Dale Chihuly" %}}
 
 Kuspit, Donald B. _Chihuly_. New York, NY: Harry N. Abrams, 1999. ISBN: 9780810963733.
 
@@ -182,7 +182,7 @@ Notes
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Fracture of Glass](http://www.doitpoms.ac.uk/tlplib/BD5/index.php)
+{{% resource_link "ba30f908-d427-483d-99fb-f7944bc078d1" "Fracture of Glass" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 DoITPoMS

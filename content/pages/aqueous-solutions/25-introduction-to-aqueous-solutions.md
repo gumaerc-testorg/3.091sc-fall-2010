@@ -102,7 +102,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s17-01-factors-affecting-solution-for.html) 13.1, "Factors Affecting Solution Formation."
+{{% resource_link "74a1b96f-190f-4c1d-b3fa-4f4d65f8d8b2" "\[Saylor\]" %}} 13.1, "Factors Affecting Solution Formation."
 {{< tdclose >}}
 {{< tdopen >}}
 Forming a solution; roles of enthalpy and entropy
@@ -111,7 +111,7 @@ Forming a solution; roles of enthalpy and entropy
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s17-02-solubility-and-molecular-struc.html) 13.2, "Solubility and Molecular Structure."
+{{% resource_link "b51007e1-f9e5-4186-a69e-76580e8e166a" "\[Saylor\]" %}} 13.2, "Solubility and Molecular Structure."
 {{< tdclose >}}
 {{< tdopen >}}
 Factors affecting solubility; molecular interactions in liquids; solutions of solids; solubility of ionic substances
@@ -120,7 +120,7 @@ Factors affecting solubility; molecular interactions in liquids; solutions of so
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s17-03-units-of-concentration.html) 13.3, "Units of Concentration."
+{{% resource_link "2de3e6f0-4517-49d6-b77b-9bf91b76a4a4" "\[Saylor\]" %}} 13.3, "Units of Concentration."
 {{< tdclose >}}
 {{< tdopen >}}
 Molarity and mole fraction as measures of concentration
@@ -129,7 +129,7 @@ Molarity and mole fraction as measures of concentration
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s21-01-determining-the-solubility-of-.html) 17.1, "Determining the Solubility of Ionic Compounds."
+{{% resource_link "5541b963-f013-4619-90a3-8481e4fc2124" "\[Saylor\]" %}} 17.1, "Determining the Solubility of Ionic Compounds."
 {{< tdclose >}}
 {{< tdopen >}}
 Solubility product K{{< sub "sp" >}}, ion product, common ion effect
@@ -138,7 +138,7 @@ Solubility product K{{< sub "sp" >}}, ion product, common ion effect
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s21-04-solubility-and-ph.html) 17.4, "Solubility and pH."
+{{% resource_link "ec4a5762-a312-4c04-a6ed-cf17bd053963" "\[Saylor\]" %}} 17.4, "Solubility and pH."
 {{< tdclose >}}
 {{< tdopen >}}
 Acid-base equilibriua effects on solubility; basic, acidic, and amphoteric oxides; using pH for selective precipation
@@ -190,7 +190,7 @@ Numerical
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s21-01-determining-the-solubility-of-.html) 17.1, "Determining the Solubility of Ionic Compounds."
+{{% resource_link "5541b963-f013-4619-90a3-8481e4fc2124" "\[Saylor\]" %}} 17.1, "Determining the Solubility of Ionic Compounds."
 {{< tdclose >}}
 {{< tdopen >}}
 1, 6
@@ -208,10 +208,10 @@ For Further Study
 
 ### Supplemental Readings
 
-Chang, Kenneth. "[The Nature of Glass Remains Anything but Clear](http://www.nytimes.com/2008/07/29/science/29glass.html)." _The New York Times_, July 29, 2008.
+Chang, Kenneth. "{{% resource_link "c2d9ff41-9a25-4ad5-8c8e-d2cb37666983" "The Nature of Glass Remains Anything but Clear" %}}." _The New York Times_, July 29, 2008.
 
 ### People
 
-[Svante Arrhenius](http://en.wikipedia.org/wiki/Svante_Arrhenius) — [1903 Nobel Prize in Chemistry](http://nobelprize.org/nobel_prizes/chemistry/laureates/1903/)
+{{% resource_link "753a08a5-f015-4b81-a00c-f73aa100e033" "Svante Arrhenius" %}} — {{% resource_link "f6dfdb61-464e-4909-a184-3d638123f65d" "1903 Nobel Prize in Chemistry" %}}
 
 « {{% resource_link 786b7514-86a8-3635-cf6a-b88c95dc0332 "Previous" %}} | {{% resource_link 98ba1bf2-d4f9-d827-e295-168909119297 "Next" %}} »

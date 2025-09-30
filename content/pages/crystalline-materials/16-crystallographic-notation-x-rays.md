@@ -113,7 +113,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-02-the-arrangement-of-atoms-in-cr.html) 12.2, "The Arrangement of Atoms in Crystalline Solids."
+{{% resource_link "3baa006c-7d4a-4976-9664-dc69bfad21c1" "\[Saylor\]" %}} 12.2, "The Arrangement of Atoms in Crystalline Solids."
 {{< tdclose >}}
 {{< tdopen >}}
 The unit cell; packing of spheres
@@ -176,9 +176,9 @@ Thomas, A. M. K. _The Invisible Light: 100 Years of Medical Radiology_. Cambridg
 
 ### People
 
-[William Hallowes Miller](http://en.wikipedia.org/wiki/William_Hallowes_Miller)
+{{% resource_link "d2fa2210-eb83-4654-a52f-d389d1821073" "William Hallowes Miller" %}}
 
-[Wilhelm Röntgen](http://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen) – [1901 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/1901/)
+{{% resource_link "7a3f903a-dee6-4e31-aa4c-71549227e7ad" "Wilhelm Röntgen" %}} – {{% resource_link "74b9ac16-7138-498c-8ce6-6365db495e29" "1901 Nobel Prize in Physics" %}}
 
 ### Other OCW and OER Content
 
@@ -203,7 +203,7 @@ Notes
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lattice Planes and Miller Indices](http://www.doitpoms.ac.uk/tlplib/miller_indices/index.php)
+{{% resource_link "225f2ae2-4607-49c9-bef6-c1b08e896005" "Lattice Planes and Miller Indices" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 DoITPoMS
@@ -218,7 +218,7 @@ Undergraduate
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Crystal Structure](http://cnx.org/content/m16927/latest/)
+{{% resource_link "3bcad151-47f3-4e5d-81a6-7ba2ad5a58e0" "Crystal Structure" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Connexions

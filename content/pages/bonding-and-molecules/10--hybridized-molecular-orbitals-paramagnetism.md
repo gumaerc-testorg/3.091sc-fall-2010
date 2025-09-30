@@ -109,7 +109,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-02-localized-bonding-and-hybrid-a.html) 9.2, "Localized Bonding and Hybrid Atomic Orbitals."
+{{% resource_link "e24dcd68-bdab-4ed1-becb-3e85ba04e1ad" "\[Saylor\]" %}} 9.2, "Localized Bonding and Hybrid Atomic Orbitals."
 {{< tdclose >}}
 {{< tdopen >}}
 Valence bond theory: a localized bonding approach; hybridization of _s_ and _p_ orbitals; hybridization using _d_ orbitals
@@ -118,7 +118,7 @@ Valence bond theory: a localized bonding approach; hybridization of _s_ and _p_ 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-03-delocalized-bonding-and-molecu.html) 9.3, "Delocalized Bonding and Molecular Orbitals."
+{{% resource_link "1d8abb4d-4b02-4c24-8280-424486a168fd" "\[Saylor\]" %}} 9.3, "Delocalized Bonding and Molecular Orbitals."
 {{< tdclose >}}
 {{< tdopen >}}
 Molecular orbital theory: a delocalized bonding approach; bond order in molecular orbital theory; molecular orbitals formed from _ns_ and _np_ atomic orbitals; molecular orbital diagrams for second-period homonuclear diatomic molecules; molecular orbitals in heteronuclear diatomic molecules
@@ -127,7 +127,7 @@ Molecular orbital theory: a delocalized bonding approach; bond order in molecula
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-04-polyatomic-systems-with-multip.html) 9.4, "Combining the Valence Bond and Molecular Orbital Approaches."
+{{% resource_link "35b6184c-900d-4e75-9356-4ffb5cafd9c2" "\[Saylor\]" %}} 9.4, "Combining the Valence Bond and Molecular Orbital Approaches."
 {{< tdclose >}}
 {{< tdopen >}}
 Multiple bonds; molecular orbitals and resonance structures
@@ -185,7 +185,7 @@ Numerical
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-02-localized-bonding-and-hybrid-a.html) 9.2, "Localized Bonding and Hybrid Atomic Orbitals."
+{{% resource_link "e24dcd68-bdab-4ed1-becb-3e85ba04e1ad" "\[Saylor\]" %}} 9.2, "Localized Bonding and Hybrid Atomic Orbitals."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -197,7 +197,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-03-delocalized-bonding-and-molecu.html) 9.3, "Delocalized Bonding and Molecular Orbitals."
+{{% resource_link "1d8abb4d-4b02-4c24-8280-424486a168fd" "\[Saylor\]" %}} 9.3, "Delocalized Bonding and Molecular Orbitals."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -215,7 +215,7 @@ For Further Study
 
 ### People
 
-[Wolfgang Pauli](http://en.wikipedia.org/wiki/Wolfgang_Pauli) - [1945 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/1945/)
+{{% resource_link "beb6b241-387f-41e4-8655-2a4eee895e91" "Wolfgang Pauli" %}} - {{% resource_link "9e14b373-0019-48b1-952b-600c33d51afa" "1945 Nobel Prize in Physics" %}}
 
 ### Other OCW and OER Content
 
