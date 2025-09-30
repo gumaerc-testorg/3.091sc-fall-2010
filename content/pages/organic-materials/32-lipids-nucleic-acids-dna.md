@@ -105,7 +105,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-06-the-molecules-of-life.html) 24.6, "The Molecules of Life."
+{{% resource_link "229a856c-2598-4046-adc2-ea52f9bbd7c9" "\[Saylor\]" %}} 24.6, "The Molecules of Life."
 {{< tdclose >}}
 {{< tdopen >}}
 Overview of lipids and nucleic acids
@@ -178,9 +178,9 @@ For Further Study
 
 ### Supplemental Readings
 
-Watson, J. D., and F. H. C. Crick. "[Molecular Structure of Nucleic Acids.](http://dx.doi.org/10.1038/171737a0)" _Nature_ 171 (1953): 737-738. ([PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
+Watson, J. D., and F. H. C. Crick. "{{% resource_link "6f66d5b0-4ca9-4ea7-8508-00ef89598ace" "Molecular Structure of Nucleic Acids." %}}" _Nature_ 171 (1953): 737-738. ({{% resource_link "c4d81761-e398-41e8-9b32-ffe90dfb06fe" "PDF" %}})
 
-Franklin, R., and R. G. Gosling. "[Molecular Configuration in Sodium Thymonucleate.](http://dx.doi.org/10.1038/171740a0)" _Nature_ 171 (1953): 740-741. ([PDF](http://www.nature.com/nature/dna50/franklingosling.pdf))
+Franklin, R., and R. G. Gosling. "{{% resource_link "20860912-4f2f-4a2a-9314-2be380b9fb80" "Molecular Configuration in Sodium Thymonucleate." %}}" _Nature_ 171 (1953): 740-741. ({{% resource_link "50293a99-515a-462e-9c82-8ed086981758" "PDF" %}})
 
 Judson, Horace Freeland. _The Eighth Day of Creation: Makers of the Revolution in Biology._ 25th anniversary edition. Woodbury, NY: Cold Spring Harbor Laboratory Press, 1996. ISBN: 9780879694784.
 
@@ -190,13 +190,13 @@ Watson, James D. _The Double Helix: A Personal Account of the Discovery of the S
 
 ### People
 
-[Oswald Avery](http://en.wikipedia.org/wiki/Oswald_Avery)
+{{% resource_link "234dde37-3c92-4edc-a690-cfe861ecc83e" "Oswald Avery" %}}
 
-[Erwin Chargaff](http://en.wikipedia.org/wiki/Erwin_Chargaff)
+{{% resource_link "41afafef-40aa-4c0b-9917-f5e3f7e92aa2" "Erwin Chargaff" %}}
 
-[Francis Crick](http://en.wikipedia.org/wiki/Francis_Crick), [James Watson](http://en.wikipedia.org/wiki/James_D._Watson), [Maurice Wilkins](http://en.wikipedia.org/wiki/Maurice_Wilkins) — [1962 Nobel Prize in Physiology or Medicine](http://nobelprize.org/nobel_prizes/medicine/laureates/1962/)
+{{% resource_link "bfaaea89-be05-4e56-a85e-c3101dfa4aae" "Francis Crick" %}}, {{% resource_link "d6a637d0-03ed-4f66-9260-ebd5f04516c1" "James Watson" %}}, {{% resource_link "6a53fa8a-b5d4-4773-b0ee-448b8bfdaf43" "Maurice Wilkins" %}} — {{% resource_link "b96bfe6c-2b0e-4dc5-854b-c4c202268b11" "1962 Nobel Prize in Physiology or Medicine" %}}
 
-[Rosalind Franklin](http://en.wikipedia.org/wiki/Rosalind_Franklin)
+{{% resource_link "5fe2f59c-5b7a-4584-bffb-e9c525f59cd5" "Rosalind Franklin" %}}
 
 ### Culture
 

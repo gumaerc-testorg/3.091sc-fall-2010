@@ -105,7 +105,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-08-polymeric-solids.html) 12.8, "Polymeric Solids."
+{{% resource_link "92cab6b0-e9fb-4ca5-801c-0c371fedfae0" "\[Saylor\]" %}} 12.8, "Polymeric Solids."
 {{< tdclose >}}
 {{< tdopen >}}
 Overview of biological and synthetic polymers
@@ -167,7 +167,7 @@ Numerical
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-02-isomers-of-organic-compounds.html) 24.2, "Isomers of Organic Compounds."
+{{% resource_link "e59ff01b-6048-422e-a291-ac24630e129f" "\[Saylor\]" %}} 24.2, "Isomers of Organic Compounds."
 {{< tdclose >}}
 {{< tdopen >}}
 1, 3, 4, 5
@@ -179,7 +179,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-05-common-classes-of-organic-comp.html) 24.5, "Common Classes of Organic Compounds."
+{{% resource_link "f0a2a608-d746-4492-b066-d325a93682b2" "\[Saylor\]" %}} 24.5, "Common Classes of Organic Compounds."
 {{< tdclose >}}
 {{< tdopen >}}
 1, 4
@@ -219,7 +219,7 @@ Level
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Polymer Basics](http://www.doitpoms.ac.uk/tlplib/polymerbasics/index.php)
+{{% resource_link "09417145-536a-4b31-b55a-883e28588edc" "Polymer Basics" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 DoITPoMS

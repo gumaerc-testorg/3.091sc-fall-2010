@@ -111,7 +111,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-03-energetics-of-ion-formation.html) 7.3, "Energetics of Ion Formation."
+{{% resource_link "3ccb65c5-9d9a-46b1-98ec-b04699754087" "\[Saylor\]" %}} 7.3, "Energetics of Ion Formation."
 {{< tdclose >}}
 {{< tdopen >}}
 Ionization energies; electron affinities; electronegativity
@@ -120,7 +120,7 @@ Ionization energies; electron affinities; electronegativity
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-01-an-overview-of-chemical-bondin.html) 8.1, "An Overview of Chemical Bonding."
+{{% resource_link "0ebf2c8c-e271-4231-8fee-d011f3a19f86" "\[Saylor\]" %}} 8.1, "An Overview of Chemical Bonding."
 {{< tdclose >}}
 {{< tdopen >}}
 Review of chemical bonding; comparison of covalent and ionic bonds
@@ -129,7 +129,7 @@ Review of chemical bonding; comparison of covalent and ionic bonds
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-02-ionic-bonding.html) 8.2, "Ionic Bonding."
+{{% resource_link "96aa3088-b95c-4058-a82f-72a046419b58" "\[Saylor\]" %}} 8.2, "Ionic Bonding."
 {{< tdclose >}}
 {{< tdopen >}}
 Electrostatic attraction and repulsion; potential energy at the bond distance
@@ -138,7 +138,7 @@ Electrostatic attraction and repulsion; potential energy at the bond distance
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-03-lattice-energies-in-ionic-soli.html) 8.3, "Lattice Energies in Ionic Solids."
+{{% resource_link "ed2157d9-fce7-4020-9f18-b6d0a436b0d4" "\[Saylor\]" %}} 8.3, "Lattice Energies in Ionic Solids."
 {{< tdclose >}}
 {{< tdopen >}}
 Calculating lattice energies; the relationship between lattice energies and physical properties; the Born-Haber cycle; predicting the stability of ionic compounds
@@ -147,7 +147,7 @@ Calculating lattice energies; the relationship between lattice energies and phys
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-05-correlation-between-bonding-an.html) 12.5, "Correlation between Bonding and the Properties of Solids."
+{{% resource_link "2645371a-3624-4181-9da4-a1429db3eed2" "\[Saylor\]" %}} 12.5, "Correlation between Bonding and the Properties of Solids."
 {{< tdclose >}}
 {{< tdopen >}}
 Ionic solids; molecular solids; covalent solids; metallic solids
@@ -207,7 +207,7 @@ Numerical
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-03-lattice-energies-in-ionic-soli.html) 8.3, "Lattice Energies in Ionic Solids."
+{{% resource_link "ed2157d9-fce7-4020-9f18-b6d0a436b0d4" "\[Saylor\]" %}} 8.3, "Lattice Energies in Ionic Solids."
 {{< tdclose >}}
 {{< tdopen >}}
 7, 9
@@ -219,7 +219,7 @@ Numerical
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-04-lewis-electron-dot-symbols.html) 8.4, "Lewis Electron Dot Structures."
+{{% resource_link "221a42e5-409f-426f-ae98-180c5a4dd631" "\[Saylor\]" %}} 8.4, "Lewis Electron Dot Structures."
 {{< tdclose >}}
 {{< tdopen >}}
 2
@@ -231,7 +231,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-05-lewis-structures-and-covalent-.html) 8.5, "Lewis Structures and Covalent Bonding."
+{{% resource_link "ea0e55fd-bc50-4456-96e0-832812acbdf0" "\[Saylor\]" %}} 8.5, "Lewis Structures and Covalent Bonding."
 {{< tdclose >}}
 {{< tdopen >}}
 3
@@ -243,7 +243,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-06-exceptions-to-the-octet-rule.html) 8.6, "Exceptions to the Octet Rule."
+{{% resource_link "c3e1d8e0-7622-416c-9aea-e01672475289" "\[Saylor\]" %}} 8.6, "Exceptions to the Octet Rule."
 {{< tdclose >}}
 {{< tdopen >}}
 2
@@ -255,7 +255,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-01-predicting-the-geometry-of-mol.html) 9.1, "Predicting the Geometry of Molecules and Polyatomic Ions."
+{{% resource_link "baf1eb8f-2dc2-4842-881a-b8b03518970a" "\[Saylor\]" %}} 9.1, "Predicting the Geometry of Molecules and Polyatomic Ions."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -285,17 +285,17 @@ Charles, Daniel. _Master Mind: The Rise and Fall of Fritz Haber, the Nobel Laure
 
 ### People
 
-[Fritz Haber](http://en.wikipedia.org/wiki/Fritz_Haber) - [1918 Nobel Prize in Chemistry](http://nobelprize.org/nobel_prizes/chemistry/laureates/1918/)
+{{% resource_link "e5e4dc9b-04ff-4cb8-bd77-7db46e514727" "Fritz Haber" %}} - {{% resource_link "80a63d1e-1bc7-46dc-9bc7-20588fe6dab3" "1918 Nobel Prize in Chemistry" %}}
 
-[Charles Hall](http://en.wikipedia.org/wiki/Charles_Martin_Hall)
+{{% resource_link "95c1b476-b013-4d53-98b5-2dad0f318c9f" "Charles Hall" %}}
 
-[Paul Heroult](http://en.wikipedia.org/wiki/Paul_H%C3%A9roult)
+{{% resource_link "699608e9-97d5-49f6-9654-5ab73b0ec807" "Paul Heroult" %}}
 
-[Germain Hess](http://en.wikipedia.org/wiki/Germain_Henri_Hess)
+{{% resource_link "8e8a64ed-0385-4758-ad9e-b5f9c0157a43" "Germain Hess" %}}
 
-[Erwin Madelung](http://en.wikipedia.org/wiki/Erwin_Madelung)
+{{% resource_link "3748c078-0437-410f-8754-4c8185072376" "Erwin Madelung" %}}
 
-[Max Born](http://en.wikipedia.org/wiki/Max_born) - [1954 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/1954/)
+{{% resource_link "264e3365-8845-4578-a1c4-f4cf79721bda" "Max Born" %}} - {{% resource_link "7626243c-f106-4451-a149-015ff0629932" "1954 Nobel Prize in Physics" %}}
 
 ### Other OCW and OER Content
 
@@ -343,7 +343,7 @@ Undergraduate (first-year)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Chemical Bonds](http://hyperphysics.phy-astr.gsu.edu/hbase/chemical/bondcon.html)
+{{% resource_link "965b5794-b618-47cd-bf36-6ccbd59d0ac9" "Chemical Bonds" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 HyperPhysics: Chemistry

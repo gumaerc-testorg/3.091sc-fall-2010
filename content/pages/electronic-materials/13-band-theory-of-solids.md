@@ -106,7 +106,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-05-correlation-between-bonding-an.html) 12.5, "Correlation Between Bonding and the Properties of Solids."
+{{% resource_link "2645371a-3624-4181-9da4-a1429db3eed2" "\[Saylor\]" %}} 12.5, "Correlation Between Bonding and the Properties of Solids."
 {{< tdclose >}}
 {{< tdopen >}}
 Ionic solids; molecular solids; covalent solids; metallic solids
@@ -115,7 +115,7 @@ Ionic solids; molecular solids; covalent solids; metallic solids
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-06-bonding-in-metals-and-semicond.html) 12.6, "Bonding in Metals and Semiconductors."
+{{% resource_link "8be697ac-952a-4883-a437-7f1108bcd9cd" "\[Saylor\]" %}} 12.6, "Bonding in Metals and Semiconductors."
 {{< tdclose >}}
 {{< tdopen >}}
 Band theory; requirements for metallic behavior; insulators; semiconductors
@@ -163,7 +163,7 @@ Lecture Video
 
 ### Lecture Summary
 
-Prof. Ron Ballinger ([homepage](http://web.mit.edu/nse/people/faculty/ballinger.html)) gives today's lecture, explaining how the behavior of electrons in **aggregate solids** determines their electrical and thermal conductivities, optical absorption, and other physical properties. He derives the **valence and conduction band** structures for electrons in **metals** (e.g. Cu, Be) using LCAO-MO, and then extends this approach to **insulators** (e.g. C) and **semiconductors** (e.g. Si, Ge), which exhibit **band gaps**. **Electrons** are promoted across the band gap by **photoexcitation** or **thermal excitation**, leaving **holes** behind. Controlling the population and flow of **charge carriers** is the fundamental principle underlying modern **semiconductor engineering**.
+Prof. Ron Ballinger ({{% resource_link "28913f7c-714f-4bb6-912d-cbf4ba2c5881" "homepage" %}}) gives today's lecture, explaining how the behavior of electrons in **aggregate solids** determines their electrical and thermal conductivities, optical absorption, and other physical properties. He derives the **valence and conduction band** structures for electrons in **metals** (e.g. Cu, Be) using LCAO-MO, and then extends this approach to **insulators** (e.g. C) and **semiconductors** (e.g. Si, Ge), which exhibit **band gaps**. **Electrons** are promoted across the band gap by **photoexcitation** or **thermal excitation**, leaving **holes** behind. Controlling the population and flow of **charge carriers** is the fundamental principle underlying modern **semiconductor engineering**.
 
 Homework
 --------
@@ -177,19 +177,19 @@ For Further Study
 
 ### Supplemental Readings
 
-Bloch, Felix. "[Über die Quantenmechanik der Elektronen in Kristallgittern.](http://dx.doi.org/10.1007/BF01339455)" _Zeitschrift für Physik A: Hadrons and Nuclei_ 52 (1928): 555-600. (Note: this article is in German.)
+Bloch, Felix. "{{% resource_link "e1f7b2b4-051c-4c15-b572-33403e285f9b" "Über die Quantenmechanik der Elektronen in Kristallgittern." %}}" _Zeitschrift für Physik A: Hadrons and Nuclei_ 52 (1928): 555-600. (Note: this article is in German.)
 
-Heitler, Walter, and Fritz London. "[Wechselwirkung neutraler Atome und homöopolare Bindung nach der Quantenmechanik.](http://dx.doi.org/10.1007/BF01397394)" _Zeitschrift für Physik A: Hadrons and Nuclei_ 44 (1927): 455-472. (Note: this article is in German.)
+Heitler, Walter, and Fritz London. "{{% resource_link "0cec23cc-3037-4283-81bb-065998b903ec" "Wechselwirkung neutraler Atome und homöopolare Bindung nach der Quantenmechanik." %}}" _Zeitschrift für Physik A: Hadrons and Nuclei_ 44 (1927): 455-472. (Note: this article is in German.)
 
 ### People
 
-[Felix Bloch](http://en.wikipedia.org/wiki/Felix_Bloch) – [1952 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/1952/)
+{{% resource_link "9df489e1-4a81-45c7-889a-b0dab15e19b9" "Felix Bloch" %}} – {{% resource_link "2dfe76d4-c997-430e-9754-f564464f1f12" "1952 Nobel Prize in Physics" %}}
 
-[Paul Drude](http://en.wikipedia.org/wiki/Paul_Drude)
+{{% resource_link "afd1afbd-a371-4cbb-845a-a233909e0d12" "Paul Drude" %}}
 
-[Walter Heitler](http://en.wikipedia.org/wiki/Walter_Heitler)
+{{% resource_link "c9c44b79-facb-4bd4-9ec7-be9d335decd9" "Walter Heitler" %}}
 
-[Fritz London](http://en.wikipedia.org/wiki/Fritz_London)
+{{% resource_link "b0155901-7078-4eba-ae3b-64367a413488" "Fritz London" %}}
 
 ### Other OCW and OER Content
 
@@ -214,7 +214,7 @@ Notes
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction to Semiconductors](http://www.doitpoms.ac.uk/tlplib/semiconductors/index.php)
+{{% resource_link "fb076130-9413-4a62-bcd2-cc73c1c8c723" "Introduction to Semiconductors" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 DoITPoMS
@@ -223,7 +223,7 @@ DoITPoMS
 Undergraduate
 {{< tdclose >}}
 {{< tdopen >}}
-See "[Introduction to Energy Bands](http://www.doitpoms.ac.uk/tlplib/semiconductors/energy_band_intro.php)."
+See "{{% resource_link "92d71ea7-8200-4f3c-a087-61668c1fe66b" "Introduction to Energy Bands" %}}."
 {{< tdclose >}}
 
 {{< trclose >}}

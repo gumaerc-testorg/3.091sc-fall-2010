@@ -110,7 +110,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-06-bonding-in-metals-and-semicond.html) 12.6, "Bonding in Metals and Semiconductors."
+{{% resource_link "8be697ac-952a-4883-a437-7f1108bcd9cd" "\[Saylor\]" %}} 12.6, "Bonding in Metals and Semiconductors."
 {{< tdclose >}}
 {{< tdopen >}}
 Band theory; requirements for metallic behavior; insulators; semiconductors
@@ -145,15 +145,15 @@ For Further Study
 
 ### Supplemental Readings
 
-Heitler, Walter, and Fritz London. "[Wechselwirkung neutraler Atome und homöopolare Bindung nach der Quantenmechanik.](http://dx.doi.org/10.1007/BF01397394)" _Zeitschrift für Physik A: Hadrons and Nuclei_ 44 (1927): 455-472. (Note: this article is in German.)
+Heitler, Walter, and Fritz London. "{{% resource_link "0cec23cc-3037-4283-81bb-065998b903ec" "Wechselwirkung neutraler Atome und homöopolare Bindung nach der Quantenmechanik." %}}" _Zeitschrift für Physik A: Hadrons and Nuclei_ 44 (1927): 455-472. (Note: this article is in German.)
 
 ### People
 
-[James Clerk Maxwell](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
+{{% resource_link "74dbf22d-3247-4178-841f-48ca20efa1a5" "James Clerk Maxwell" %}}
 
-[Ludwig Boltzmann](http://en.wikipedia.org/wiki/Boltzmann)
+{{% resource_link "d5facf72-ba79-4281-b57e-d8de30b8a35f" "Ludwig Boltzmann" %}}
 
-[William Shockley](http://en.wikipedia.org/wiki/William_Shockley), [John Bardeen](http://en.wikipedia.org/wiki/John_Bardeen), [Walter Brattain](http://en.wikipedia.org/wiki/Walter_Brattain) – [1956 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/1956/)
+{{% resource_link "e4c3f4c4-cc8c-4199-bb78-c2933ed692b4" "William Shockley" %}}, {{% resource_link "a8904522-da43-4236-ab5c-7fcdfd4cbd69" "John Bardeen" %}}, {{% resource_link "8b890d1d-7253-4fcc-abe9-a8056465823d" "Walter Brattain" %}} – {{% resource_link "eb1ef981-312d-4b6f-8485-41e22eb92ad1" "1956 Nobel Prize in Physics" %}}
 
 ### Other OCW and OER Content
 
@@ -180,7 +180,7 @@ Notes
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Semiconductor Concepts](http://hyperphysics.phy-astr.gsu.edu/hbase/solids/semcn.html)
+{{% resource_link "c921ad2b-06da-4910-aeaa-25149baaa1ec" "Semiconductor Concepts" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 HyperPhysics
@@ -195,7 +195,7 @@ High School
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction to Semiconductors](http://www.doitpoms.ac.uk/tlplib/semiconductors/index.php)
+{{% resource_link "fb076130-9413-4a62-bcd2-cc73c1c8c723" "Introduction to Semiconductors" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 DoITPoMS
@@ -210,7 +210,7 @@ Undergraduate
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[PV CDROM](http://www.pveducation.org/pvcdrom)
+{{% resource_link "82d9d365-e17b-46c1-bcda-fa8e3e9b4f14" "PV CDROM" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 PVEducation.org
@@ -219,13 +219,13 @@ PVEducation.org
 Undergraduate
 {{< tdclose >}}
 {{< tdopen >}}
-Focuses on photovoltaic design and manufacturing; [Module 3: PN Junction](http://www.pveducation.org/pvcdrom/3-pn-junction/introduction-to-semiconductors) covers semiconductor basics.
+Focuses on photovoltaic design and manufacturing; {{% resource_link "52a5a35e-f655-4eb5-9823-574f0d412562" "Module 3: PN Junction" %}} covers semiconductor basics.
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction to Semiconductors](http://cnx.org/content/m1001/latest/), [Doped Semiconductors](http://cnx.org/content/m1002/latest/)
+{{% resource_link "5b34b7df-fc72-4b1c-bfd2-3a161872e0e0" "Introduction to Semiconductors" %}}, {{% resource_link "c851f417-0841-4c3c-803d-c3f7fefbaebd" "Doped Semiconductors" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Connexions

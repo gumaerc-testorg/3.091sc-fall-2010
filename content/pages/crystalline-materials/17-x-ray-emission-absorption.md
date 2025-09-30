@@ -105,7 +105,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-01-the-history-of-the-periodic-ta.html) 7.1, "The Role of Atomic Number in the Periodic Table." (only read until Example 1)
+{{% resource_link "d52ef886-f132-45c7-b038-252fd92b8d24" "\[Saylor\]" %}} 7.1, "The Role of Atomic Number in the Periodic Table." (only read until Example 1)
 {{< tdclose >}}
 {{< tdopen >}}
 Moseley's discovery of atomic number and its role in the periodic table
@@ -164,7 +164,7 @@ Numerical
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-03-structures-of-simple-binary-co.html) 12.3, "Structures of Simple Binary Compounds."
+{{% resource_link "54b9cd66-3350-47fb-8ce8-37f848ff3810" "\[Saylor\]" %}} 12.3, "Structures of Simple Binary Compounds."
 {{< tdclose >}}
 {{< tdopen >}}
 5, 6
@@ -182,23 +182,23 @@ For Further Study
 
 ### Supplemental Readings
 
-Moseley, H. G. J. "[The High-Frequency Spectra of the Elements.](http://dx.doi.org/10.1080/14786441308635052)" _Philosophical Magazine_ Series 6 26 (December 1913): 1024-1034.
+Moseley, H. G. J. "{{% resource_link "7cc15c5e-f173-4421-8e4e-5af52265c74e" "The High-Frequency Spectra of the Elements." %}}" _Philosophical Magazine_ Series 6 26 (December 1913): 1024-1034.
 
 Heilbron, John Lewis. _H. G. J. Moseley: The Life and Letters of an English Physicist, 1887-1915_. Berkeley, CA: University of California Press, 1974. ISBN: 9780520023758.
 
 ### People
 
-[Henry Moseley](http://en.wikipedia.org/wiki/Henry_Moseley)
+{{% resource_link "21d10b52-895d-4ad8-8817-58736504c7d7" "Henry Moseley" %}}
 
-[William Coolidge](http://en.wikipedia.org/wiki/William_David_Coolidge)
+{{% resource_link "0b84f152-3840-4559-a600-f5296c5c48bd" "William Coolidge" %}}
 
 ### Culture
 
-[Jean Francois Millet](http://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet)
+{{% resource_link "c983fb4c-589d-4508-9b7c-24ee0584aa4c" "Jean Francois Millet" %}}
 
 Bacou, Roseline. _Millet: One Hundred Drawings_. New York, NY: Harper & Row, 1975. ISBN: 9780064303408.
 
-[Salvador Dali](http://en.wikipedia.org/wiki/Salvador_dali)
+{{% resource_link "1ba7df13-adfa-4908-986a-cbdaf695fe56" "Salvador Dali" %}}
 
 Lubar, Robert S. _Dali: The Salvador Dali Museum Collection_. Boston, MA: Bullfinch Press, 2000. ISBN: 9780821227152.
 
@@ -225,7 +225,7 @@ Notes
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[X-Ray Diffraction Techniques](http://www.doitpoms.ac.uk/tlplib/xray-diffraction/index.php)
+{{% resource_link "a823c8c5-11a4-4c62-b917-cfd56279d8e4" "X-Ray Diffraction Techniques" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 DoITPoMS
@@ -234,7 +234,7 @@ DoITPoMS
 Undergraduate
 {{< tdclose >}}
 {{< tdopen >}}
-See "[Experimental Matters](http://www.doitpoms.ac.uk/tlplib/xray-diffraction/production.php)."
+See "{{% resource_link "f8c665dd-72d5-4fc8-a88f-3d4c11e507f6" "Experimental Matters" %}}."
 {{< tdclose >}}
 
 {{< trclose >}}

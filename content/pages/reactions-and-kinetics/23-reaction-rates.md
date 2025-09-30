@@ -107,7 +107,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s14-07-the-kinetic-molecular-theory-o.html) 10.7, "The Kinetic Molecular Theory of Gases."
+{{% resource_link "18cbf3ef-63aa-4386-baa5-846bf8698918" "\[Saylor\]" %}} 10.7, "The Kinetic Molecular Theory of Gases."
 {{< tdclose >}}
 {{< tdopen >}}
 Molecular description of gases; Boltzmann distributions; the relationships between pressure, volume, and temperature; diffusion and effusion; rates of diffusion or effusion
@@ -116,7 +116,7 @@ Molecular description of gases; Boltzmann distributions; the relationships betwe
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-01-factors-that-affect-reaction-r.html) 14.1, "Factors That Affect Reaction Rates."
+{{% resource_link "5d711389-664e-4908-9a96-f022fe0875f2" "\[Saylor\]" %}} 14.1, "Factors That Affect Reaction Rates."
 {{< tdclose >}}
 {{< tdopen >}}
 Concentration effects; temperature effects; phase and surface area effects; solvent effects; catalyst effects
@@ -125,7 +125,7 @@ Concentration effects; temperature effects; phase and surface area effects; solv
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-02-reaction-rates-and-rate-laws.html) 14.2, "Reaction Rates and Rate Laws."
+{{% resource_link "ecbc3f48-9e71-4974-b780-4b6a82169e52" "\[Saylor\]" %}} 14.2, "Reaction Rates and Rate Laws."
 {{< tdclose >}}
 {{< tdopen >}}
 Reaction rates; rate laws
@@ -134,7 +134,7 @@ Reaction rates; rate laws
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-03-methods-of-determining-reactio.html) 14.3, "Methods of Determining Reaction Orders."
+{{% resource_link "02bb743b-8de6-4583-bb4d-4f7dd79a624a" "\[Saylor\]" %}} 14.3, "Methods of Determining Reaction Orders."
 {{< tdclose >}}
 {{< tdopen >}}
 Zeroth-order reactions; first-order reactions; second-order reactions; determining the rate law of a reaction
@@ -143,7 +143,7 @@ Zeroth-order reactions; first-order reactions; second-order reactions; determini
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-04-using-graphs-to-determine-rate.html) 14.4, "Using Graphs to Determine Rate Laws, Rate Constants, and Reaction Orders."
+{{% resource_link "22970ff8-21bc-4b3c-a2ac-2a4d9e23cdf4" "\[Saylor\]" %}} 14.4, "Using Graphs to Determine Rate Laws, Rate Constants, and Reaction Orders."
 {{< tdclose >}}
 {{< tdopen >}}
 Graphing reaction concentration data to show reaction orders and rate constants; typical graphs for zeroth-, first-, and second-order reactions
@@ -214,7 +214,7 @@ Application
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-03-methods-of-determining-reactio.html) 14.3, "Methods of Determining Reaction Orders."
+{{% resource_link "02bb743b-8de6-4583-bb4d-4f7dd79a624a" "\[Saylor\]" %}} 14.3, "Methods of Determining Reaction Orders."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -229,7 +229,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-04-using-graphs-to-determine-rate.html) 14.4, "Using Graphs to Determine Rate Laws, Rate Constants, and Reaction Orders."
+{{% resource_link "22970ff8-21bc-4b3c-a2ac-2a4d9e23cdf4" "\[Saylor\]" %}} 14.4, "Using Graphs to Determine Rate Laws, Rate Constants, and Reaction Orders."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -244,7 +244,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-05-half-lives-and-radioactive-dec.html) 14.5, "Half-Lives and Radioactive Decay Kinetics."
+{{% resource_link "71cacedb-f950-40d9-938c-5488ac4c7fb0" "\[Saylor\]" %}} 14.5, "Half-Lives and Radioactive Decay Kinetics."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -259,7 +259,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-09-end-of-chapter-material.html) 14.9, "End-of-Chapter Material."
+{{% resource_link "d61b0a6a-af93-4325-94c5-0bf12a33b2ce" "\[Saylor\]" %}} 14.9, "End-of-Chapter Material."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -280,13 +280,13 @@ For Further Study
 
 ### Supplemental Readings
 
-Fick, Adolf. "[Ueber Diffusion.](http://dx.doi.org/10.1002/andp.18551700105)" _Annalen der Physik_ 170 (1855): 59-86. (Note: this article is in German.)
+Fick, Adolf. "{{% resource_link "ff36c585-e2cd-40e5-a889-f6a9e40bb905" "Ueber Diffusion." %}}" _Annalen der Physik_ 170 (1855): 59-86. (Note: this article is in German.)
 
 ### People
 
-[Adolf Fick](http://en.wikipedia.org/wiki/Adolf_Eugen_Fick)
+{{% resource_link "21c47d45-cc2d-4135-bcf8-e5cdbf3e32cf" "Adolf Fick" %}}
 
-[Thomas Graham](http://en.wikipedia.org/wiki/Thomas_Graham_%28chemist%29)
+{{% resource_link "59f896b5-f75f-4c20-9d6e-3001457308ea" "Thomas Graham" %}}
 
 ### Culture
 
@@ -332,7 +332,7 @@ Undergraduate (elective)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Diffusion](http://www.doitpoms.ac.uk/tlplib/diffusion/index.php)
+{{% resource_link "2448b569-c4be-49ee-a88e-e419895ee03a" "Diffusion" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 DoITPoMS
@@ -347,7 +347,7 @@ Undergraduate
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Diffusion](http://cnx.org/content/m1010/latest/)
+{{% resource_link "e065adba-e681-43d8-8d62-a827e135d603" "Diffusion" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Connexions
