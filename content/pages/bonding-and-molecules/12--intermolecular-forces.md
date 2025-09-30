@@ -107,7 +107,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s15-02-intermolecular-forces.html) 11.2, "Intermolecular Forces."
+{{% resource_link "f84bf66b-d674-46e5-9127-5344c280cd23" "\[Saylor\]" %}} 11.2, "Intermolecular Forces."
 {{< tdclose >}}
 {{< tdopen >}}
 Dipole-dipole interactions; London dispersion forces; hydrogen bonds
@@ -170,7 +170,7 @@ Numerical
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s15-02-intermolecular-forces.html) 11.2, "Intermolecular Forces."
+{{% resource_link "f84bf66b-d674-46e5-9127-5344c280cd23" "\[Saylor\]" %}} 11.2, "Intermolecular Forces."
 {{< tdclose >}}
 {{< tdopen >}}
 9, 11, 14, 20, 24
@@ -194,9 +194,9 @@ Israelachvili, Jacob. _Intermolecular and Surface Forces_. New York, NY: Academi
 
 ### People
 
-[Fritz London](http://en.wikipedia.org/wiki/Fritz_London)
+{{% resource_link "b0155901-7078-4eba-ae3b-64367a413488" "Fritz London" %}}
 
-[Johannes Diderik van der Waals](http://en.wikipedia.org/wiki/Johannes_Diderik_van_der_Waals) – [1910 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/1910/)
+{{% resource_link "39e9ca47-4341-40b0-b51b-e1719a362494" "Johannes Diderik van der Waals" %}} – {{% resource_link "0da29ea4-7298-4a1a-a107-c03823f37d2d" "1910 Nobel Prize in Physics" %}}
 
 ### Other OCW and OER Content
 
@@ -221,7 +221,7 @@ Notes
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Properties of Water](http://hyperphysics.phy-astr.gsu.edu/hbase/chemical/watercon.html#c1)
+{{% resource_link "3abfa0a0-d4b7-4033-9c11-d4d00f6a611e" "Properties of Water" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 HyperPhysics: Chemistry
@@ -236,7 +236,7 @@ High school
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Intermolecular Forces - Grade 11](http://cnx.org/content/m35864/latest/)
+{{% resource_link "ab3b6b9b-960c-44f9-bb75-9090187c10f6" "Intermolecular Forces - Grade 11" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Connexions

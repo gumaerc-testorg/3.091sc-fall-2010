@@ -103,7 +103,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s08-06-acid-base-reactions.html) 4.6, "Acid-Base Reactions."
+{{% resource_link "608e6e9d-8a51-4281-a9b0-4152a3b92433" "\[Saylor\]" %}} 4.6, "Acid-Base Reactions."
 {{< tdclose >}}
 {{< tdopen >}}
 Definitions of acids and bases; polyprotic acids; strengths of acids and bases; hydronium ion; neutralization reactions; pH scale
@@ -112,7 +112,7 @@ Definitions of acids and bases; polyprotic acids; strengths of acids and bases; 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-07-lewis-acids-and-bases.html) 8.7, "Lewis Acids and Bases."
+{{% resource_link "05b77f9e-71ff-41a9-b620-7e559de24743" "\[Saylor\]" %}} 8.7, "Lewis Acids and Bases."
 {{< tdclose >}}
 {{< tdopen >}}
 Lewis acids and bases
@@ -121,7 +121,7 @@ Lewis acids and bases
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-01-the-autoionization-of-water.html) 16.1, "The Autoionization of Water."
+{{% resource_link "d3f04f5d-b4b8-4555-8f9a-4e51fb5088f0" "\[Saylor\]" %}} 16.1, "The Autoionization of Water."
 {{< tdclose >}}
 {{< tdopen >}}
 Acid-base properties of water; ion-product constant; relationship among pH, pOH, and pK{{< sub "w" >}}
@@ -130,7 +130,7 @@ Acid-base properties of water; ion-product constant; relationship among pH, pOH,
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-02-a-qualitative-description-of-a.html) 16.2, "A Qualitative Description of Acid-Base Equilibria."
+{{% resource_link "9ad2b03b-803a-4ec8-8117-478576dfe08d" "\[Saylor\]" %}} 16.2, "A Qualitative Description of Acid-Base Equilibria."
 {{< tdclose >}}
 {{< tdopen >}}
 Conjugate acid-base pairs; equilibrium constants K{{< sub "a" >}}, K{{< sub "b" >}}, pK{{< sub "a" >}} and pK{{< sub "b" >}}; strong acids and bases; leveling effect; polyprotic acids and bases; solutions of salts
@@ -139,7 +139,7 @@ Conjugate acid-base pairs; equilibrium constants K{{< sub "a" >}}, K{{< sub "b" 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-03-molecular-structure-and-acid-b.html) 16.3, "Molecular Structure and Acid-Base Strength."
+{{% resource_link "7a884f53-b11c-4c71-9281-81d6776af94b" "\[Saylor\]" %}} 16.3, "Molecular Structure and Acid-Base Strength."
 {{< tdclose >}}
 {{< tdopen >}}
 Bond strengths; conjugate bases; inductive effects
@@ -148,7 +148,7 @@ Bond strengths; conjugate bases; inductive effects
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-04-quantitative-aspects-of-acid-b.html) 16.4, "Quantitative Aspects of Acid-Base Equilibria."
+{{% resource_link "d1b6f0df-b86a-4a54-9fda-3c46d6845bf6" "\[Saylor\]" %}} 16.4, "Quantitative Aspects of Acid-Base Equilibria."
 {{< tdclose >}}
 {{< tdopen >}}
 K{{< sub "a" >}} and K{{< sub "b" >}}; percent ionization from K{{< sub "a" >}} and K{{< sub "b" >}}; K{{< sub "eq" >}} from K{{< sub "a" >}} and K{{< sub "b" >}}
@@ -205,7 +205,7 @@ Numerical
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s08-06-acid-base-reactions.html) 4.6, "Acid-Base Reactions."
+{{% resource_link "608e6e9d-8a51-4281-a9b0-4152a3b92433" "\[Saylor\]" %}} 4.6, "Acid-Base Reactions."
 {{< tdclose >}}
 {{< tdopen >}}
 1, 2
@@ -217,7 +217,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-02-a-qualitative-description-of-a.html) 16.2, "A Qualitative Description of Acid-Base Equilibria."
+{{% resource_link "9ad2b03b-803a-4ec8-8117-478576dfe08d" "\[Saylor\]" %}} 16.2, "A Qualitative Description of Acid-Base Equilibria."
 {{< tdclose >}}
 {{< tdopen >}}
 2
@@ -229,7 +229,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-03-molecular-structure-and-acid-b.html) 16.3, "Molecular Structure and Acid-Base Strength."
+{{% resource_link "7a884f53-b11c-4c71-9281-81d6776af94b" "\[Saylor\]" %}} 16.3, "Molecular Structure and Acid-Base Strength."
 {{< tdclose >}}
 {{< tdopen >}}
 3
@@ -241,7 +241,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-04-quantitative-aspects-of-acid-b.html) 16.4, "Quantitative Aspects of Acid-Base Equilibria."
+{{% resource_link "d1b6f0df-b86a-4a54-9fda-3c46d6845bf6" "\[Saylor\]" %}} 16.4, "Quantitative Aspects of Acid-Base Equilibria."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -253,7 +253,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-05-acid-base-titrations.html) 16.5, "Acid-Base Titrations."
+{{% resource_link "d43fd9ec-1fa0-4aa7-9ca3-eb4de5844b6c" "\[Saylor\]" %}} 16.5, "Acid-Base Titrations."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -265,7 +265,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-06-buffers.html) 16.6, "Buffers."
+{{% resource_link "98c096d5-1f7a-44fe-811c-73352dfdcd65" "\[Saylor\]" %}} 16.6, "Buffers."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -283,21 +283,21 @@ For Further Study
 
 ### Supplemental Readings
 
-Djerassi, C., and R. Hoffmann. _Oxygen: A Play in Two Acts_. New York, NY: Wiley-VCH, 2001. ISBN: 9783527304134. See also the [study guide and other publisher resources](http://www.wiley-vch.de/publish/en/books/ISBN3-527-30413-4).
+Djerassi, C., and R. Hoffmann. _Oxygen: A Play in Two Acts_. New York, NY: Wiley-VCH, 2001. ISBN: 9783527304134. See also the {{% resource_link "4f31464c-b8d1-4e33-9ce1-df829061b4da" "study guide and other publisher resources" %}}.
 
-Brandis, Kerry. [_Acid-Base Physiology_](http://www.anaesthesiamcq.com/AcidBaseBook/ABindex.php). See Chapter 1 of this online tutorial/textbook, which applies acid-base chemistry to physiology.
+Brandis, Kerry. {{% resource_link "7be99e0a-69e0-4dd8-b02a-fc714eaa2647" "_Acid-Base Physiology_" %}}. See Chapter 1 of this online tutorial/textbook, which applies acid-base chemistry to physiology.
 
 ### People
 
-[Antoine Lavoisier](http://en.wikipedia.org/wiki/Lavoisier)
+{{% resource_link "4dbd6127-6c3d-48ed-b48d-5c3733a72bae" "Antoine Lavoisier" %}}
 
-[Svante Arrhenius](http://en.wikipedia.org/wiki/Svante_Arrhenius) — [1903 Nobel Prize in Chemistry](http://nobelprize.org/nobel_prizes/chemistry/laureates/1903/)
+{{% resource_link "753a08a5-f015-4b81-a00c-f73aa100e033" "Svante Arrhenius" %}} — {{% resource_link "f6dfdb61-464e-4909-a184-3d638123f65d" "1903 Nobel Prize in Chemistry" %}}
 
-[Johannes Nicolaus Brønsted](http://en.wikipedia.org/wiki/Bronsted)
+{{% resource_link "53b22e9f-6db2-4873-90c7-5ef5d842055e" "Johannes Nicolaus Brønsted" %}}
 
-[Martin Lowry](http://en.wikipedia.org/wiki/Martin_Lowry)
+{{% resource_link "396af7e2-7c67-4499-a54a-65a2149dbdf8" "Martin Lowry" %}}
 
-[Gilbert N. Lewis](http://en.wikipedia.org/wiki/Gilbert_N._Lewis)
+{{% resource_link "b369af43-41c1-4998-ac5e-9599a1f24c5e" "Gilbert N. Lewis" %}}
 
 ### Other OCW and OER Content
 
@@ -345,7 +345,7 @@ For an alternative treatment of many topics in this session (e.g. acid-base mode
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Acid-Base Equilibrium](http://cnx.org/content/m12591/latest/)
+{{% resource_link "bd52e0cb-57f1-48d4-9f69-ff3c874701e9" "Acid-Base Equilibrium" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Connexions

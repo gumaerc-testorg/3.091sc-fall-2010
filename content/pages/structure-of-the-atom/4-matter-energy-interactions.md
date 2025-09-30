@@ -108,7 +108,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-03-atomic-spectra-and-models-of-t.html) 6.3, "Atomic Spectra and Models of the Atom."
+{{% resource_link "9c717f49-78d9-4214-9457-b3929f8941be" "\[Saylor\]" %}} 6.3, "Atomic Spectra and Models of the Atom."
 {{< tdclose >}}
 {{< tdopen >}}
 Line spectra; the Bohr model; uses of emission and absorption spectra
@@ -165,7 +165,7 @@ Numerical
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-03-atomic-spectra-and-models-of-t.html) 6.3, "Atomic Spectra and Models of the Atom."
+{{% resource_link "9c717f49-78d9-4214-9457-b3929f8941be" "\[Saylor\]" %}} 6.3, "Atomic Spectra and Models of the Atom."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -189,31 +189,31 @@ Baade, W., and Cecilia Payne. _Evolution of Stars and Galaxies_. Cambridge, MA: 
 
 Payne-Gaposchkin, Cecilia H. _Stars and Clusters_. Cambridge, MA: Harvard University Press, 1979. ISBN: 9780674834408.
 
-[How Atoms Work](http://science.howstuffworks.com/atom.htm)
+{{% resource_link "103571d6-f4d3-406e-84c5-39a2b3e6134d" "How Atoms Work" %}}
 
 ### People
 
-[Niels Bohr](http://en.wikipedia.org/wiki/Niels_Bohr) - [1922 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/1922/)
+{{% resource_link "d464dc1d-fac5-4309-9b4d-846ccca5754d" "Niels Bohr" %}} - {{% resource_link "a7354fae-4e36-48be-af8e-b1aab27939e6" "1922 Nobel Prize in Physics" %}}
 
-[Max Planck](http://en.wikipedia.org/wiki/Max_Planck) - [1918 Nobel Prize in Physics](http://nobelprize.org/nobel_prizes/physics/laureates/1918/)
+{{% resource_link "9029cab8-a623-4d56-8699-dfee4aa29c82" "Max Planck" %}} - {{% resource_link "b7e19e84-dc55-4bda-88bc-d34ab33075ad" "1918 Nobel Prize in Physics" %}}
 
-[Johann Balmer](http://en.wikipedia.org/wiki/Johann_Jakob_Balmer)
+{{% resource_link "54b37c18-ab8c-40f5-9c68-20bd468f7093" "Johann Balmer" %}}
 
-[Amedeo Avogadro](http://en.wikipedia.org/wiki/Amedeo_Avogadro)
+{{% resource_link "d5206d77-4d29-449e-97b6-aa15739b5fb3" "Amedeo Avogadro" %}}
 
-[Michael Faraday](http://en.wikipedia.org/wiki/Faraday)
+{{% resource_link "d90dbcbc-3352-4896-af1a-f750ee9e753a" "Michael Faraday" %}}
 
-[Cecilia Payne](http://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin)
+{{% resource_link "3bf59322-da21-4b38-b8fd-3375987804fe" "Cecilia Payne" %}}
 
-[Ernest Rutherford](http://en.wikipedia.org/wiki/Ernest_Rutherford) - [1908 Nobel Prize in Chemistry](http://nobelprize.org/nobel_prizes/chemistry/laureates/1908/)
+{{% resource_link "2dc385bd-d4ca-49a3-9e31-6a291653f7ad" "Ernest Rutherford" %}} - {{% resource_link "8edf5048-ff7d-437a-9c84-6a930bb55796" "1908 Nobel Prize in Chemistry" %}}
 
-[Anders Jonas Ångström](http://en.wikipedia.org/wiki/Anders_Jonas_%C3%85ngstr%C3%B6m)
+{{% resource_link "b3d16dbc-a68e-461d-a6d7-6d2a3b1a7566" "Anders Jonas Ångström" %}}
 
-[James Prescott Joule](http://en.wikipedia.org/wiki/James_Prescott_Joule)
+{{% resource_link "5df77387-34bf-4de7-85a0-521f3572520b" "James Prescott Joule" %}}
 
-[Charles-Augustin de Coulomb](http://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb)
+{{% resource_link "7a180547-9374-4a70-bb62-4968136c26ab" "Charles-Augustin de Coulomb" %}}
 
-[Alessandro Volta](http://en.wikipedia.org/wiki/Alessandro_Volta)
+{{% resource_link "b23011e6-435b-4669-b7ce-7aea550c3752" "Alessandro Volta" %}}
 
 ### Other OCW and OER Content
 
@@ -253,7 +253,7 @@ Undergraduate (first-year)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[The Hydrogen Atom](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/hydcn.html)
+{{% resource_link "0d4c95af-c59f-47db-8a08-8d46e0b40a72" "The Hydrogen Atom" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 HyperPhysics

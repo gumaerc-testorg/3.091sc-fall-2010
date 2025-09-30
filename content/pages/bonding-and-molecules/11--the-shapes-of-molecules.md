@@ -39,7 +39,7 @@ After completing this session, you should be able to:
 
 ## Reading
 
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}Book Chapters{{< thclose >}}{{< thopen >}}Topics{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-01-predicting-the-geometry-of-mol.html) 9.1, "Predicting the Geometry of Molecules and Polyatomic Ions."{{< tdclose >}}{{< tdopen >}}The VSEPR model; using the VSEPR model; molecular dipole moments{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}Book Chapters{{< thclose >}}{{< thopen >}}Topics{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}{{% resource_link "baf1eb8f-2dc2-4842-881a-b8b03518970a" "\[Saylor\]" %}} 9.1, "Predicting the Geometry of Molecules and Polyatomic Ions."{{< tdclose >}}{{< tdopen >}}The VSEPR model; using the VSEPR model; molecular dipole moments{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ## Lecture Video
 
@@ -66,7 +66,7 @@ He re-emphasizes the underlying point of this unit: equal bond energies imply eq
 
 ### Textbook Problems
 
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}\[Saylor\] Sections{{< thclose >}}{{< thopen >}}Conceptual{{< thclose >}}{{< thopen >}}Numerical{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-01-predicting-the-geometry-of-mol.html) 9.1, "Predicting the Geometry of Molecules and Polyatomic Ions."{{< tdclose >}}{{< tdopen >}}1, 3, 7, 14{{< tdclose >}}{{< tdopen >}}none{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-04-polyatomic-systems-with-multip.html) 9.4, "Polyatomic Systems with Multiple Bonds."{{< tdclose >}}{{< tdopen >}}1{{< tdclose >}}{{< tdopen >}}none{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}\[Saylor\] Sections{{< thclose >}}{{< thopen >}}Conceptual{{< thclose >}}{{< thopen >}}Numerical{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}{{% resource_link "baf1eb8f-2dc2-4842-881a-b8b03518970a" "\[Saylor\]" %}} 9.1, "Predicting the Geometry of Molecules and Polyatomic Ions."{{< tdclose >}}{{< tdopen >}}1, 3, 7, 14{{< tdclose >}}{{< tdopen >}}none{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}{{% resource_link "35b6184c-900d-4e75-9356-4ffb5cafd9c2" "\[Saylor\]" %}} 9.4, "Polyatomic Systems with Multiple Bonds."{{< tdclose >}}{{< tdopen >}}1{{< tdclose >}}{{< tdopen >}}none{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ## For Further Study
 

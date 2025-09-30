@@ -107,7 +107,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-04-defects-in-crystals.html) 12.4, "Defects in Crystals."
+{{% resource_link "c33363d1-5b88-4583-b1f1-e1c38594d16b" "\[Saylor\]" %}} 12.4, "Defects in Crystals."
 {{< tdclose >}}
 {{< tdopen >}}
 Defects in metals, memory metal, defects in ionic and molecular crystals, non-stoichiometric compounds
@@ -175,7 +175,7 @@ Numerical
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-04-defects-in-crystals.html) 12.4, "Defects in Crystals."
+{{% resource_link "c33363d1-5b88-4583-b1f1-e1c38594d16b" "\[Saylor\]" %}} 12.4, "Defects in Crystals."
 {{< tdclose >}}
 {{< tdopen >}}
 2, 3, 4, 5
@@ -197,13 +197,13 @@ Hull, Derek, and David J. Bacon. _Introduction to Dislocations_. Boston, MA: But
 
 ### People
 
-[Egon Orowan](http://en.wikipedia.org/wiki/Egon_Orowan)
+{{% resource_link "ebddcb8d-eb82-4881-8ad7-91958d0185da" "Egon Orowan" %}}
 
-[Geoffrey Ingram Taylor](http://en.wikipedia.org/wiki/Geoffrey_Ingram_Taylor)
+{{% resource_link "f55943bc-53f3-48d9-a7b2-64e378377c08" "Geoffrey Ingram Taylor" %}}
 
-[Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+{{% resource_link "9c689818-98c7-4951-8bb6-e0482343ded7" "Robert Hooke" %}}
 
-[Tim Foecke](http://en.wikipedia.org/wiki/Tim_Foecke)
+{{% resource_link "6f5c3974-0f16-4fa9-ba7f-b1639824e5da" "Tim Foecke" %}}
 
 ### Culture
 
@@ -234,7 +234,7 @@ Notes
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Introduction to Dislocations](http://www.doitpoms.ac.uk/tlplib/dislocations/index.php)
+{{% resource_link "40ddc7f6-e90d-4f46-b83f-d70b0eaffb45" "Introduction to Dislocations" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 DoITPoMS
@@ -264,7 +264,7 @@ Undergraduate (elective) / Graduate
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Crystal Structure](http://cnx.org/content/m16927/latest/)
+{{% resource_link "3bcad151-47f3-4e5d-81a6-7ba2ad5a58e0" "Crystal Structure" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Connexions

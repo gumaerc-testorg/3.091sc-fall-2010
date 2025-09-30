@@ -38,7 +38,7 @@ In this video:
 
 {{< resource uuid="63500265-7495-6069-5e1b-f166cbe8594b" >}}
 
-In this video recorded in March 2012, Professor Sadoway uses his new [liquid metal battery](http://web.mit.edu/newsoffice/2012/profile-sadoway-innovative-approach-batteries-0423.html) to demonstrate the value of understanding chemistry and his approach to teaching and innovation. (This video is from [TEDtalksDirector](http://www.youtube.com/user/TEDtalksDirector) on YouTube and is not provided under our [Creative Commons license](https://ocw-studio.odl.mit.edu/terms/index.htm#cc).)
+In this video recorded in March 2012, Professor Sadoway uses his new {{% resource_link "bccf0b70-b9be-46e7-a709-a14cbaa04e7f" "liquid metal battery" %}} to demonstrate the value of understanding chemistry and his approach to teaching and innovation. (This video is from {{% resource_link "9d5ba2bb-6638-49c7-9ed0-01d23dbd07fe" "TEDtalksDirector" %}} on YouTube and is not provided under our {{% resource_link "4442ad1a-f099-4adc-878f-c32e3a20070e" "Creative Commons license" %}}.)
 
 ## Before You Begin
 
@@ -170,6 +170,6 @@ A detailed periodic table of the elements and a table of fundamental physical co
 
 ## Technical Requirements
 
-This course includes functionality that does not display correctly in Internet Explorer. For best results, we recommend viewing this course with [Firefox](http://www.mozilla.com/en-US/firefox/), [Safari](http://www.apple.com/safari/) or [Chrome](http://www.google.com/chrome).
+This course includes functionality that does not display correctly in Internet Explorer. For best results, we recommend viewing this course with {{% resource_link "234e7046-cce2-4c0a-85ab-0fb6cac74b6e" "Firefox" %}}, {{% resource_link "d9e66c78-b0dc-4305-8afa-2d9e10fc2db7" "Safari" %}} or {{% resource_link "527181f5-e8f5-45a4-ac29-6dcc32fd3e4e" "Chrome" %}}.
 
 «{{% resource_link "8a1709eb-16be-69bb-41cc-325703c25a95" "Next" %}} »

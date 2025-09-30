@@ -108,7 +108,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-03-energetics-of-ion-formation.html) 7.3, "Energetics of Ion Formation."
+{{% resource_link "3ccb65c5-9d9a-46b1-98ec-b04699754087" "\[Saylor\]" %}} 7.3, "Energetics of Ion Formation."
 {{< tdclose >}}
 {{< tdopen >}}
 Ionization energies; electron affinities; electronegativity
@@ -117,7 +117,7 @@ Ionization energies; electron affinities; electronegativity
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-04-lewis-electron-dot-symbols.html) 8.4, "Introduction to Lewis Dot Structures."
+{{% resource_link "221a42e5-409f-426f-ae98-180c5a4dd631" "\[Saylor\]" %}} 8.4, "Introduction to Lewis Dot Structures."
 {{< tdclose >}}
 {{< tdopen >}}
 Creating a Lewis dot symbol; the octet rule
@@ -126,7 +126,7 @@ Creating a Lewis dot symbol; the octet rule
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-05-lewis-structures-and-covalent-.html) 8.5, "Lewis Structures and Covalent Bonding."
+{{% resource_link "ea0e55fd-bc50-4456-96e0-832812acbdf0" "\[Saylor\]" %}} 8.5, "Lewis Structures and Covalent Bonding."
 {{< tdclose >}}
 {{< tdopen >}}
 Using electron structures to describe covalent bonding; using Lewis electron structures to explain stoichiometry; using formal charges to distinguish between Lewis structures; resonance structures
@@ -135,7 +135,7 @@ Using electron structures to describe covalent bonding; using Lewis electron str
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-06-exceptions-to-the-octet-rule.html) 8.6, "Exceptions to the Octet Rule."
+{{% resource_link "c3e1d8e0-7622-416c-9aea-e01672475289" "\[Saylor\]" %}} 8.6, "Exceptions to the Octet Rule."
 {{< tdclose >}}
 {{< tdopen >}}
 Odd number of electrons; more than an octet of electrons; fewer than an octet of electrons
@@ -144,7 +144,7 @@ Odd number of electrons; more than an octet of electrons; fewer than an octet of
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-08-properties-of-covalent-bonds.html) 8.8, "Properties of Covalent Bonds."
+{{% resource_link "e0e29ed9-033f-45b0-a1bb-0e2b7823d474" "\[Saylor\]" %}} 8.8, "Properties of Covalent Bonds."
 {{< tdclose >}}
 {{< tdopen >}}
 Bond order; the relationship between bond order and bond energy; the relationship between molecular structure and bond energy
@@ -153,7 +153,7 @@ Bond order; the relationship between bond order and bond energy; the relationshi
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-09-polar-covalent-bonds.html) 8.9, "Polar Covalent Bonds."
+{{% resource_link "670eaf37-c56c-49cc-bf06-fac89ea39b7c" "\[Saylor\]" %}} 8.9, "Polar Covalent Bonds."
 {{< tdclose >}}
 {{< tdopen >}}
 Bond polarity; dipole moments
@@ -216,7 +216,7 @@ Numerical
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-03-energetics-of-ion-formation.html) 7.3, "Energetics of Ion Formation."
+{{% resource_link "3ccb65c5-9d9a-46b1-98ec-b04699754087" "\[Saylor\]" %}} 7.3, "Energetics of Ion Formation."
 {{< tdclose >}}
 {{< tdopen >}}
 1, 10
@@ -228,7 +228,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-02-ionic-bonding.html) 8.2, "Ionic Bonding."
+{{% resource_link "96aa3088-b95c-4058-a82f-72a046419b58" "\[Saylor\]" %}} 8.2, "Ionic Bonding."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -240,7 +240,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-06-exceptions-to-the-octet-rule.html) 8.6, "Exceptions to the Octet Rule."
+{{% resource_link "c3e1d8e0-7622-416c-9aea-e01672475289" "\[Saylor\]" %}} 8.6, "Exceptions to the Octet Rule."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -252,7 +252,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-09-polar-covalent-bonds.html) 8.9, "Polar Covalent Bonds."
+{{% resource_link "670eaf37-c56c-49cc-bf06-fac89ea39b7c" "\[Saylor\]" %}} 8.9, "Polar Covalent Bonds."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -264,7 +264,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-01-predicting-the-geometry-of-mol.html) 9.1, "Predicting the Geometry of Molecules and Polyatomic Ions."
+{{% resource_link "baf1eb8f-2dc2-4842-881a-b8b03518970a" "\[Saylor\]" %}} 9.1, "Predicting the Geometry of Molecules and Polyatomic Ions."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -282,21 +282,21 @@ For Further Study
 
 ### Supplemental Readings
 
-Molina, Mario J. and Rowland, F. S. "[Stratospheric sink for chlorofluoromethanes: chlorine atomc-atalysed destruction of ozone.](http://dx.doi.org/10.1038/249810a0)" _Nature_ 249 (June 28, 1974): 810-812.
+Molina, Mario J. and Rowland, F. S. "{{% resource_link "97e8313f-16a2-44d5-a750-7b69a7f9290d" "Stratospheric sink for chlorofluoromethanes: chlorine atomc-atalysed destruction of ozone." %}}" _Nature_ 249 (June 28, 1974): 810-812.
 
 ### People
 
-[Gilbert Lewis](http://en.wikipedia.org/wiki/G._N._Lewis)
+{{% resource_link "2979f94c-4dd3-4928-a031-5debe6cd682f" "Gilbert Lewis" %}}
 
-[Linus Pauling](http://en.wikipedia.org/wiki/Linus_Pauling) - [1954 Nobel Prize in Chemistry](http://nobelprize.org/nobel_prizes/chemistry/laureates/1954/), [1962 Nobel Prize in Peace](http://nobelprize.org/nobel_prizes/peace/laureates/1962/)
+{{% resource_link "821c1ce8-ef64-47de-9978-b11a3655308a" "Linus Pauling" %}} - {{% resource_link "4f45f829-d8d9-4cb5-9e41-d97e9e9f314b" "1954 Nobel Prize in Chemistry" %}}, {{% resource_link "c3695a86-3fb6-4850-9ad9-52774790f317" "1962 Nobel Prize in Peace" %}}
 
-[Arnold Sommerfeld](http://en.wikipedia.org/wiki/Arnold_Sommerfeld)
+{{% resource_link "3c68c27c-62d2-4a9a-81e7-b4d1b986d61c" "Arnold Sommerfeld" %}}
 
-[Fritz Haber](http://en.wikipedia.org/wiki/Fritz_Haber) - [1918 Nobel Prize in Chemistry](http://nobelprize.org/nobel_prizes/chemistry/laureates/1918/)
+{{% resource_link "e5e4dc9b-04ff-4cb8-bd77-7db46e514727" "Fritz Haber" %}} - {{% resource_link "80a63d1e-1bc7-46dc-9bc7-20588fe6dab3" "1918 Nobel Prize in Chemistry" %}}
 
-[Erwin Madelung](http://en.wikipedia.org/wiki/Erwin_Madelung)
+{{% resource_link "3748c078-0437-410f-8754-4c8185072376" "Erwin Madelung" %}}
 
-[Thomas Midgley](http://en.wikipedia.org/wiki/Thomas_Midgley,_Jr.)
+{{% resource_link "10ed7fe5-e1aa-450f-abde-bc1b773c52f7" "Thomas Midgley" %}}
 
 ### Other OCW and OER Content
 

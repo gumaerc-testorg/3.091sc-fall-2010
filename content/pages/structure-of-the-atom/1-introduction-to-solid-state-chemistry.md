@@ -110,7 +110,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-00-introduction-to-chemistry.html) 1, "Introduction to Chemistry."
+{{% resource_link "bb1d8f6d-77b0-423a-97ce-9f234218a004" "\[Saylor\]" %}} 1, "Introduction to Chemistry."
 {{< tdclose >}}
 {{< tdopen >}}
 Chemistry in the modern world; the scientific method; a description of matter; a brief history of chemistry; the atom; introduction to the periodic table; essential elements
@@ -171,7 +171,7 @@ Numerical
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-03-a-description-of-matter.html) 1.3, "A Description of Matter."
+{{% resource_link "61c7bc7b-7094-4d5b-b630-af68d67a5bdf" "\[Saylor\]" %}} 1.3, "A Description of Matter."
 {{< tdclose >}}
 {{< tdopen >}}
 6, 7, 9, 10
@@ -183,7 +183,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-04-a-brief-history-of-chemistry.html) 1.4, "A Brief History of Chemistry."
+{{% resource_link "e228d661-36a2-45f0-a122-60fa46904616" "\[Saylor\]" %}} 1.4, "A Brief History of Chemistry."
 {{< tdclose >}}
 {{< tdopen >}}
 6
@@ -195,7 +195,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-05-the-atom.html) 1.5, "The Atom."
+{{% resource_link "286b9d22-b3d4-417c-9cb4-ae8a2d541937" "\[Saylor\]" %}} 1.5, "The Atom."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -207,7 +207,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-06-isotopes-and-atomic-masses.html) 1.6, "Isotopes and Atomic Masses."
+{{% resource_link "1c6567e6-5189-4866-ad52-378ad423d6cc" "\[Saylor\]" %}} 1.6, "Isotopes and Atomic Masses."
 {{< tdclose >}}
 {{< tdopen >}}
 1
@@ -219,7 +219,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-07-introduction-to-the-periodic-t.html) 1.7, "Introduction to the Periodic Table."
+{{% resource_link "18db1ba9-00b3-4c70-9b5b-76bb2f9fc92b" "\[Saylor\]" %}} 1.7, "Introduction to the Periodic Table."
 {{< tdclose >}}
 {{< tdopen >}}
 1, 4, 6, 10, 11
@@ -231,7 +231,7 @@ none
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-01-the-mole-and-molar-masses.html) 3.1, "The Mole and Molar Masses."
+{{% resource_link "c7136517-cc90-4076-84b1-a715deda3540" "\[Saylor\]" %}} 3.1, "The Mole and Molar Masses."
 {{< tdclose >}}
 {{< tdopen >}}
 none
@@ -253,23 +253,23 @@ Davies, D. A. _Waves, Atoms and Solids_. Harlow Essex, UK: Longman Group United 
 
 Brown, T. L., H. E. Lemay, and B. E. Bursten. _Chemistry: The Central Science_. Upper Saddle River, NJ: Prentice Hall, 1999. ISBN: 9780130103109.
 
-[How Batteries Work](http://www.physicscentral.com/explore/action/lithium.cfm)
+{{% resource_link "96647bf7-1021-4f9e-83b5-6b1a1af84322" "How Batteries Work" %}}
 
 ### People
 
-[Democritus](http://en.wikipedia.org/wiki/Democritus)
+{{% resource_link "ba263456-d28e-4ff9-9d3c-e474e60c6700" "Democritus" %}}
 
-[Aristotle](http://en.wikipedia.org/wiki/Aristotle)
+{{% resource_link "e8c69b97-8c34-4f71-8258-4a2272a1ede4" "Aristotle" %}}
 
-[John Dalton](http://en.wikipedia.org/wiki/John_Dalton)
+{{% resource_link "b5c49588-db1b-41f0-af58-9bef828a8c06" "John Dalton" %}}
 
-[Dmitri Mendeleev](http://en.wikipedia.org/wiki/Mendeleyev)
+{{% resource_link "524f6a6b-344a-40ce-85f9-c70acf408565" "Dmitri Mendeleev" %}}
 
-[Johann Dobereiner](http://en.wikipedia.org/wiki/Dobereiner)
+{{% resource_link "17b41f55-53fd-41a8-b188-e26a68862866" "Johann Dobereiner" %}}
 
-[John Newlands](http://en.wikipedia.org/wiki/John_newlands)
+{{% resource_link "0eb1cf03-8f9d-448e-9cfe-0dbd139fe625" "John Newlands" %}}
 
-[Julius Meyer](http://en.wikipedia.org/wiki/Lothar_Meyer)
+{{% resource_link "2960df0f-dacd-401f-b7f7-ebc9af222296" "Julius Meyer" %}}
 
 ### Other OCW and OER Content
 

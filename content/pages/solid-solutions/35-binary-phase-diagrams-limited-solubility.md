@@ -164,9 +164,9 @@ For Further Study
 
 ### People
 
-[Daniel Fahrenheit](http://en.wikipedia.org/wiki/Daniel_Gabriel_Fahrenheit)
+{{% resource_link "e2d0b191-d67a-4ac7-993b-67e6f47ed7bb" "Daniel Fahrenheit" %}}
 
-[Nicole Barbe Ponsardin](http://en.wikipedia.org/wiki/Madame_Clicquot_Ponsardin) (Madame Ponsardin Cliquot)
+{{% resource_link "ce1e5723-6dd1-41e5-90c6-97737b95471a" "Nicole Barbe Ponsardin" %}} (Madame Ponsardin Cliquot)
 
 ### Other OCW and OER Content
 
@@ -206,7 +206,7 @@ See [Thermodynamics lectures 17-19](/courses/3-012-fundamentals-of-materials-sci
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Phase Diagrams and Solidification](http://www.doitpoms.ac.uk/tlplib/phase-diagrams/index.php), [Solid Solutions](http://www.doitpoms.ac.uk/tlplib/solid-solutions/index.php)
+{{% resource_link "0c76af2f-36ca-4d66-9c32-d3aba897a761" "Phase Diagrams and Solidification" %}}, {{% resource_link "91436d64-258a-48f0-9e64-ec896591d128" "Solid Solutions" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 DoITPoMS
